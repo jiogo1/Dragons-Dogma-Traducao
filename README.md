@@ -1,7 +1,7 @@
 # Dragons-Dogma-Tradução-PT-BR
 
 
-Tradução do Dragons Dogma Dark Arisen by Sublime & CoringaK
+Tradução do Dragons Dogma Dark Arisen Steam(Update7)
 
 
 Vocês podem ajudar se quiserem editando o ( message.pck.txt )
