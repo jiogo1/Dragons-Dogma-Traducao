@@ -1,1 +1,1 @@
-# Dragons-Dogma-Tradu-o
+# Dragons-Dogma-Tradução
