@@ -61,7 +61,9 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 
 ---
 
-### **Imagem:**  
-![Preview](https://imgur.com/a/SzKDkVS) *
+### **FOTO:**  
+
+
+https://imgur.com/a/SzKDkVS *
 
 ---
