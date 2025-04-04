@@ -1,10 +1,68 @@
-# Dragons-Dogma-Tradução-PT-BR
+# **🐉 Bem-vindo ao Projeto de Tradução de *Dragon's Dogma*!**  
 
+*(Organizado pela **Amianto Traduções**)*  
 
-Tradução do Dragons Dogma Dark Arisen Steam(Update7)
+🔍 **Estamos revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
 
+---
 
-Vocês podem ajudar se quiserem editando o ( message.pck.txt )
+## **📌 Como Contribuir**  
+Não precisa ser expert em Git! Qualquer um pode ajudar:  
 
+### **1️⃣ Método Rápido (via GitHub Web):**  
+1. **Clique no arquivo** que deseja revisar (ex: message.pck.txt`).  
+2. Aperte o botão **✏️ (Edit)** no canto superior direito.  
+3. Faça suas correções/sugestões **diretamente no texto**.  
+4. No final da página, clique em **"Propose changes"** → **"Create Pull Request"**.  
 
-Eu coloquei o original para vocês ter uma noção, ela foi feita com google tradutor então se sintam a vontade para corrigir e revisar.
+✅ Pronto! Seu *Pull Request* será revisado e, se aprovado, entrará na tradução oficial.  
+
+### **2️⃣ Método Avançado (para revisores ativos):**  
+Se quiser contribuir frequentemente:  
+1. **Faça um *fork*** deste repositório (botão "Fork" no topo).  
+2. Edite os arquivos no seu *fork* (usando GitHub ou ferramentas como *VS Code*).  
+3. Envie **Pull Requests** com suas alterações.  
+
+---
+
+## **📂 Estrutura do Projeto**  
+- `/textos-originais`: Arquivos em inglês (referência).  
+- `/traducoes`: Arquivos em PT-BR (edite aqui!).  
+- `/guias`: Tutoriais para instalação e contribuição.  
+
+---
+
+## **🎯 Diretrizes de Tradução**  
+Queremos uma tradução **natural para o PT-BR**, então:  
+- Evite traduções literais (ex: *"You’re welcome"* → **"De nada"**, não *"Você é bem-vindo"*).  
+- Mantenha termos icônicos do jogo (ex: *"Pawn"* → **"Peão"**).  
+- Use **tom épico/medieval** quando cabível (ex: *"Behold, the Arisen!"* → **"Eis que surge o Arisen!"**).  
+
+---
+
+## **💬 Discussão e Dúvidas**  
+- **Discord da Amianto**: [https://discord.gg/9Mme95JA2T](#) *(comunidade ativa para debater termos difíceis!)*  
+- **Issues do GitHub**: Abra uma *Issue* para sugerir mudanças globais ou discutir expressões polêmicas.  
+
+---
+
+## **🙌 Créditos**  
+Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lançamentos oficiais!  
+
+---
+
+### **✨ Pronto para entrar na lenda?**  
+**Clique em ✏️ e comece a traduzir agora mesmo!** Sua ajuda fará do *Dragon’s Dogma* uma experiência ainda melhor para a comunidade brasileira.  
+
+🚀 **"The Arisen needs you!"** → **"O Arisen precisa de você!"**  
+
+--- 
+
+*(Projeto não oficial, feito por fãs para fãs. Sem fins lucrativos.)*  
+
+---
+
+### **Preview do README no GitHub:**  
+![Preview](https://imgur.com/a/SzKDkVS) *(imagem ilustrativa)*  
+
+---
