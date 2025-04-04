@@ -9,8 +9,8 @@
 Não precisa ser expert em Git! Qualquer um pode ajudar:  
 
 ### **1️⃣ Método Rápido (via GitHub Web):**  
-1. **Clique no arquivo** que deseja revisar (`tradução.txt`).  
-2. Aperte o botão **✏️ (Edit)** no canto superior direito.  
+1. **Clique no arquivo** que deseja revisar (`message.pck.txt`).  
+2. Aperte o botão **✏️ (Open it Dev)** no canto superior direito.  
 3. Faça suas correções/sugestões **diretamente no texto**.  
 4. No final da página, clique em **"Propose changes"** → **"Create Pull Request"**.  
 
@@ -25,9 +25,9 @@ Se quiser contribuir frequentemente:
 ---
 
 ## **📂 Estrutura do Projeto**  
-- `textos-originais.txt`: Arquivo em inglês (referência).  
-- `traducão.txt`: Arquivo em PT-BR (edite aqui!).  
-- `guias.txt`: Tutoriais para instalação e contribuição.  
+- `message.pck_ORIGINAL.txt`: Arquivo em inglês (referência).  
+- `message.pck.txt`: Arquivo em PT-BR (edite aqui!).  
+- `guias.md`: Tutoriais para instalação e contribuição.  
 
 ---
 
@@ -51,7 +51,7 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 ---
 
 ### **✨ Pronto para entrar na lenda?**  
-**Clique em ✏️ e comece a traduzir agora mesmo!** Sua ajuda fará do *Dragon’s Dogma* uma experiência ainda melhor para a comunidade brasileira.  
+**Clique em ✏️Dev e comece a traduzir agora mesmo!** Sua ajuda fará do *Dragon’s Dogma* uma experiência ainda melhor para a comunidade brasileira.  
 
 🚀 **"The Arisen needs you!"** → **"O Arisen precisa de você!"**  
 
@@ -61,7 +61,7 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 
 ---
 
-### **FOTO:**  
+### **DDA-PT-BR:**  
 
 
 https://imgur.com/a/SzKDkVS
