@@ -9,7 +9,7 @@
 Não precisa ser expert em Git! Qualquer um pode ajudar:  
 
 ### **1️⃣ Método Rápido (via GitHub Web):**  
-1. **Clique no arquivo** que deseja revisar (ex: message.pck.txt`).  
+1. **Clique no arquivo** que deseja revisar (`tradução.txt`).  
 2. Aperte o botão **✏️ (Edit)** no canto superior direito.  
 3. Faça suas correções/sugestões **diretamente no texto**.  
 4. No final da página, clique em **"Propose changes"** → **"Create Pull Request"**.  
@@ -25,9 +25,9 @@ Se quiser contribuir frequentemente:
 ---
 
 ## **📂 Estrutura do Projeto**  
-- `/textos-originais`: Arquivos em inglês (referência).  
-- `/traducoes`: Arquivos em PT-BR (edite aqui!).  
-- `/guias`: Tutoriais para instalação e contribuição.  
+- `textos-originais.txt`: Arquivo em inglês (referência).  
+- `traducão.txt`: Arquivo em PT-BR (edite aqui!).  
+- `guias.txt`: Tutoriais para instalação e contribuição.  
 
 ---
 
