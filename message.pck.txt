@@ -5364,7 +5364,7 @@ Reinicie a partir do último ponto de verificação salvo automaticamente.
 Volte para a tela de título.
 Você retornará ao último salvamento automático em uma pousada ou fenda.<cf>Qualquer progresso feito além desse ponto de verificação será perdido.<cf>Continuar?
 Isso sairá do jogo e retornará à tela de título.<cf>Todos os dados não salvos serão perdidos.<cf>Continuar?
-Reinicie do último ponto em que salvou o jogo<cf>no Modo Normal.
+Reinicie do último ponto em que salvou o jogo<cf>no Normal.
 Se você voltar para o Modo Difícil mais tarde,<cf>reiniciará o jogo do início, mas com todos os<cf>dados do último jogo salvo. Prosseguir?
 Eu sou a Mercedes. Eu lidero os homens do Corpo de Alistamento.
 Já ouvi falar do Arisen. Eles dizem que você tem domínio sobre os Pawns.
@@ -23159,7 +23159,7 @@ O poder combinado do reino não era páreo para<cf>o dragão. Toda esperança es
 
 
 Persiga o Dragão<cf>Amianto Traduções Apresenta...
-Você perseguiu o dragão aqui, até a<cf>The Tainted Mountain. Lute até o coração<cf>do covil do dragão e enfrente tudo o que o espera.
+Você perseguiu o dragão aqui, até a<cf>A Montanha Profanada. Lute até o coração<cf>do covil do dragão e enfrente tudo o que o espera.
 
 
 
@@ -24665,7 +24665,7 @@ Você também pode enviar itens para o armazenamento de qualquer local de descan
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus<cf>atributos, um mapa completo, informações da missão e muito mais.
+Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus<cf>atributos, o mapa completo, informações da missão e muito mais.
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
@@ -25918,7 +25918,7 @@ Um golpe esmagador!
 Agora! Envie um raio em seu olho!
 Mate os ciclopes, e suas valiosas presas<cf>são nossas.
 Essas presas parecem duras como pedra ...
-Ele vacila! Ataque agora!
+Ele fraquejou! Ataque agora!
 Agora, mire em seu olho!
 Agora, está ao nosso alcance!
 Concentre-se em seu olho!
@@ -26041,7 +26041,7 @@ Destrua os discos que lhe dão força!
 Os feiticeiros antigos costumavam usar estátuas<cf>vivas para guardar seus tesouros.
 Então golems ainda caminham pelas terras da fronteira ...
 Essa pedra ... Um golem?
-O ataque direto é uma loucura contra um golem de metal<cf>!
+Um ataque direto é uma loucura contra um golem de metal<cf>!
 Devemos destruir esses amuletos!
 Deve haver sete amuletos ao todo ...
 Golens de metal obtêm energia de uma fonte externa<cf>!
@@ -26065,7 +26065,7 @@ Vou atrair seu braço para baixo e tirar o capacete<cf>!
 Um choque vai quebrar sua raiva!
 Parece invulnerável enquanto seu olho está<cf>fechado.
 Quando ele abrir o olho, mire!
-Ele se ajoelha! Agora, ataque!
+Ele se ajoelhou! Agora, ataque!
 Parece que come tudo o que consegue<cf>de ...
 Faça para jogar! Esteja pronto!
 Cadáveres de goblins podem servir de isca.
@@ -42279,7 +42279,7 @@ Por aqui para o dragão, Mestre.<cf>Vamos terminar isso.
 Esta aura ... este é o dragão, com certeza.
 Até os dragões morrem ... A hora<cf>chegou, Arisen!
 Este é o nosso valor, luta contra o mal do<cf>wyrm ...
-Estamos chegando ao fim de nossa jornada. A estação final<cf>de nossa longa luta ...
+Estamos chegando ao fim da nossa jornada. o destino final <cf> da nossa longa luta...
 Não podemos permitir que o wyrm trabalhe<cf>em mais atrocidades.
 Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
 Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
