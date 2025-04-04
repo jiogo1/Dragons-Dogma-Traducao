@@ -8636,7 +8636,7 @@ Salta para alturas maiores.
 Dobra o corpo em um rolo apertado ao<cf>cair, atenuando os danos.<cf><SWRD>
 Rola para a frente em uma queda, eficaz como<cf>uma manobra evasiva.<cf><SWRD>
 Avança sobre o alvo e desfere um poderoso golpe<cf>sobre ele.
-Uma forma avançada de Blink Strike aperfeiçoou<cf>para viajar distâncias maiores antes de<cf>acertar um golpe poderoso nos inimigos.
+Uma forma avançada do Corte Ascendente aperfeiçoou<cf>para viajar distâncias maiores antes de<cf>acertar um golpe poderoso nos inimigos.
 Corta uma faixa ampla com a lâmina enquanto<cf>recua para evitar ataques.
 Uma forma avançada de Corte Largo que permite que<cf>o usuário retroceda na direção<cf>de sua escolha enquanto corta uma faixa<cf>ampla com a arma.
 Planta a lâmina na terra aos pés de.<cf> Embora seu alcance seja limitado, a força<cf>por trás do impulso é grande.
@@ -32807,7 +32807,7 @@ Salta para alturas maiores.
 Dobra o corpo em um rolo apertado ao<cf>cair, atenuando os danos.<cf><SWRD>
 Rola para a frente em uma queda, eficaz como<cf>uma manobra evasiva.<cf><SWRD>
 Avança sobre o alvo e desfere um poderoso golpe<cf>sobre ele.
-Uma forma avançada de Blink Strike aperfeiçoou<cf>para viajar distâncias maiores antes de<cf>acertar um golpe poderoso nos inimigos.
+Uma forma avançada do Corte Ascendente aperfeiçoou<cf>para viajar distâncias maiores antes de<cf>acertar um golpe poderoso nos inimigos.
 Uma forma avançada de Burst Strike que<cf>se move mais rapidamente e percorre distâncias<cf>ainda maiores.
 Corta uma faixa ampla com a lâmina enquanto<cf>recua para evitar ataques.
 Uma forma avançada de Corte Largo que permite que<cf>o usuário retroceda na direção<cf>de sua escolha enquanto corta uma faixa<cf>ampla com a arma.
