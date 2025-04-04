@@ -21,7 +21,7 @@ Não vamos conseguir abrir sem uma chave.
 Ela não cede, sir.
 Está bem trancada... Precisaremos de uma chave.
 Encontre a chave e veremos o que há dentro.
-Pai...? EU...
+Pai...? Eu...
 Fazer vigília era mais fácil antes, posso te garantir.
 Antes, era raro ver um monstro a quilômetros de Gran Soren.
 Na verdade, eu não tinha nem mesmo desembainhado minha espada em tempos recentes.
@@ -111,7 +111,7 @@ Gransys
 Qual marcador de ponto de passagem você gostaria de colocar?
 Parece que o Olhar do Dragão perdeu seu poder.
 Parece que este item perdeu seu poder.
-Depois de aceitar uma missão, primeiro observe o marcador de missão<cf>em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.<cf>
+Depois de aceitar uma missão, primeiro observe o<cf>marcador de missão  em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.
 Os marcadores de missão variam de acordo com o tempo, a localização<cf>e as ações do seu alvo.
 Se você chegou a um impasse em uma missão,<cf>por que não tenta progredir em outra?<cf>Você pode encontrar uma solução para seu problema<cf>inicial.
 Desloque o mapa com <SIZE 24><ICON PAD_LS></SIZE>.
@@ -6537,7 +6537,7 @@ Selecione quem pode alistar seu Pawn principal online. Limitar o acesso de<cf>ao
 Ative ou desative as mensagens do tutorial na tela.
 Ative ou desative o guia do botão na tela.
 Ative ou desative o guia de comandos de Pawn na tela.
-Defina a exibição de medidores de saúde e resistência,<cf>ícones de debilitação e nomes de Pawns.
+Defina a exibição de medidores de saúde e resistência,<cf>ícones de fraqueza e nomes de Pawns.
 Alterne o uso de cinemáticas em batalha destacando oportunidades<cf>para ataques em tandem com seus Pawns.
 
 Jogabilidade
@@ -8810,7 +8810,7 @@ Uma forma avançada de Lassitude que evoca<cf>uma névoa maior e mais duradoura 
 Invoca um sigilo mágico que recupera<cf>a Saúde daqueles que entram.
 Uma forma avançada de Anodyne que<cf>restaura a Saúde em um ritmo mais rápido, e<cf>continua a ser eficaz mesmo após<cf>deixar o sigilo.
 Invoca um sigilo mágico que limpa o<cf>seguinte daqueles que entrarem: Veneno,<cf>Torpor, Silêncio, tendo Fogo Pegado e<cf>sendo Sólido Congelado.
-Invoca um sigilo de longa duração que limpa todas as debilitações<cf>, exceto Drenching, Tarring,<cf>Petrification e atributos rebaixados.
+Invoca um sigilo de longa duração que limpa todas as fraquezas<cf>, exceto Drenching, Tarring,<cf>Petrification e atributos rebaixados.
 Lança um raio de magia que encanta<cf>a arma de um aliado com fogo.
 Uma forma avançada de Boon de Fogo que<cf>aumenta a duração do encantamento<cf>, bem como a Magia do recipiente.
 Lança um raio de magia que encanta<cf>a arma de um aliado com gelo.
@@ -8907,8 +8907,8 @@ Dispara uma flecha de luz mágica para<cf>iluminar a área. O flash que ele cria
 Uma forma avançada de Sinalizador Mágico que<cf>ilumina uma área mais ampla por um<cf>período de tempo mais longo.
 Solta uma flecha mágica que atrai<cf>inimigos leves próximos.
 Uma forma avançada de Trilha de Funil que<cf>persiste por um longo período de tempo e<cf>possui um alcance expandido para atrair<cf>ainda mais inimigos leves nas proximidades.
-Solta uma flecha mágica que torna um aliado<cf>impermeável a todos os tipos de debilitações<cf>por um tempo.
-Uma forma avançada de Ward Arrow que<cf>protege os alvos de todos os tipos<cf>de debilitações por um tempo.
+Solta uma flecha mágica que torna um aliado<cf>impermeável a todos os tipos de fraquezas<cf>por um tempo.
+Uma forma avançada de Ward Arrow que<cf>protege os alvos de todos os tipos<cf>de fraquezas por um tempo.
 Solta uma flecha mágica que fortalece<cf>um aliado contra os golpes do inimigo<cf>por um tempo.
 Uma forma avançada de Flecha de Braçadeira que<cf>aumenta a resistência daqueles<cf>alvejados aos golpes inimigos.
 Evoca o último raio mágico<cf>ao custo da vida de um Pawn. O tempo<cf>fica mais lento enquanto o usuário está mirando.
@@ -12570,14 +12570,14 @@ Um bife de feras em dias melhores. Uma refeição tão nojenta<cf>com certeza de
 Carne ambrosiana, em dias melhores. Uma refeição<cf>como essa com certeza destruirá as entranhas.
 Peixe pequeno que aparece em muitos pratos.<cf> Consuma para recuperar um pouco de Vigor.
 Um peixe grande que é a base de toda dieta.<cf>Consuma para recuperar uma boa quantidade de Vigor.
-Um peixe realmente enorme. Consumir para<cf>recuperar uma grande quantidade de Vigor.
+Um peixe realmente enorme. Consuma para<cf>recuperar uma grande quantidade de Vigor.
 Um pequeno peixe prestes a ficar sujo.<cf>Consuma para recuperar uma boa quantidade<cf>de Vigor.
 Um grande peixe prestes a ficar sujo. Consuma<cf>para recuperar uma grande quantidade de Vigor.
 Um peixe gigante prestes a ficar sujo. Consuma<cf>para recuperar totalmente o Vigor.
 Um peixinho em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Um peixe grande, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Um peixe gigante em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Uma baga que cresce comumente na natureza.<cf> Consumir para recuperar um pouco de<cf>Saúde.
+Uma baga que cresce comumente na natureza.<cf> Consuma para recuperar um pouco de<cf>Saúde.
 Nada além de uma maçã comum. Consuma<cf>para recuperar um pouco de Saúde.
 Netos incrivelmente suculentos. Consuma<cf>para recuperar um pouco de Saúde.
 Uma baga prestes a ficar podre. Consuma<cf>para recuperar um pouco de Saúde.
@@ -12586,30 +12586,30 @@ Cacho de uva prestes a ficar sujos.<cf>Consuma-os para recuperar uma boa<cf>quan
 Uma baga em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma maçã em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Cacho de uva, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Um tipo de feijão frequentemente dado ao gado.<cf>Consumir para recuperar um pouco da saúde.
-Uma cenoura delgada. Consumir para<cf>recuperar um pouco de Saúde.
-Uma abóbora enorme que contém<cf>nutrientes. Consumir para recuperar um<cf>pouco de Saúde.
+Um tipo de feijão frequentemente dado ao gado.<cf>Consuma para recuperar um pouco da saúde.
+Uma cenoura delgada. Consuma para<cf>recuperar um pouco de Saúde.
+Uma abóbora enorme que contém<cf>nutrientes. Consuma para recuperar um<cf>pouco de Saúde.
 Um galho prestes a ficar sujo. Consuma<cf>para recuperar um pouco de Saúde.
 Uma cenoura prestes a ficar nojenta. Consuma<cf>para recuperar uma boa quantidade de Saúde.
 Uma abóbora prestes a ficar podre. Consumir<cf>para recuperar uma grande quantidade de saúde.
 Um galho em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma cenoura, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma abóbora em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Um ovo apto para quebrar o jejum de qualquer um.<cf>Consumir para recuperar saúde e Stamina.
-Um ovo de ouro reluzente, bem estocado de<cf>nutrientes. Consumir para recuperar totalmente<cf>Saúde e Vigor.
+Um ovo apto para quebrar o jejum de qualquer um.<cf>Consuma para recuperar saúde e Stamina.
+Um ovo de ouro reluzente, bem estocado de<cf>nutrientes. Consuma para recuperar totalmente<cf>Saúde e Vigor.
 Um ovo em dias melhores. Muito<cf>perigoso se consumido.
 Uma flor que floresce em<cf>Gransys. Ele só floresce à luz do dia.
 Uma flor que pode ser encontrada em todos<cf>os alcances Gransys. Só floresce à noite.
 Os restos murchados de uma flor<cf>outrora bela.
-Uma erva comum usada na preparação de<cf>tisanas. Consumir para recuperar um pouco de<cf>Saúde.
-Uma erva preciosa usada na preparação de<cf>tisanas. Consumir para recuperar uma boa<cf>quantidade de Saúde.
-Um cogumelo comestível. Consumir para<cf>recuperar Vigor.
+Uma erva comum usada na preparação de<cf>tisanas. Consuma para recuperar um pouco de<cf>Saúde.
+Uma erva preciosa usada na preparação de<cf>tisanas. Consuma para recuperar uma boa<cf>quantidade de Saúde.
+Um cogumelo comestível. Consuma para<cf>recuperar Vigor.
 Um cogumelo grande e saboroso. Consumir<cf>para recuperar Vigor.
 Um cogumelo venenoso que não é comido como regra.<cf> No entanto, consumi-lo irá recuperar<cf>um pouco de Vigor.
-Um tipo de erva que cresce em<cf>Gransys. Consumir para limpar o corpo<cf>de venenos.
-Um tipo de erva encontrada em<cf>Gransys. Consumir para afastar o<cf>desejo de dormir.
+Um tipo de erva que cresce em<cf>Gransys. Consuma para purificar o corpo<cf>de venenos.
+Um tipo de erva encontrada em<cf>Gransys. Consuma para afastar o<cf>desejo de dormir.
 Uma noz que serviria para acabar com a fome.<cf> Consuma para recuperar uma pequena quantidade de Saúde.
-Uma noz grande, uma refeição improvisada.<cf> Consumir para recuperar um pouco de Saúde.
+Uma noz grande, uma refeição improvisada.<cf> Consuma para recuperar um pouco de Saúde.
 Um metal barato e fácil de trabalhar. Usado<cf>como material para armas e armaduras.
 Um metal com um brilho incomparável.<cf>Usado como material para armas, armaduras e<cf>acessórios.
 Um metal brilhante frequentemente<cf>igualado a riqueza. Usado como material<cf>para adereços e semelhantes.
@@ -12622,8 +12622,8 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usado na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
-Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usado na cintura. Atualmente, está quase<cf>cheio de óleo.
+Uma pequena fonte de luz que usa<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
+Uma pequena fonte de luz que usa<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está quase<cf>cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
 Um frasco cheio de água. Atire-o a<cf>um adversário para ensopá-los.
@@ -12634,21 +12634,21 @@ Um contêiner simples que pode ser lançado<cf>para fazer barulho.
 Uma pedra comum que pode ser jogada<cf>para fazer barulho.
 Um crânio humano que pode ser atirado para<cf>faz barulho.
 Uma ferramenta empregada para extrair<cf>minério de locais selecionados.
-Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usado na cintura. Você precisará<cf>adicionar óleo antes de usá-lo.
+Uma pequena fonte de luz que usa<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Você precisará<cf>adicionar óleo antes de usá-lo.
 Detalhes desconhecidos.
 Detalhes desconhecidos.
 Um pequeno explosivo de pó inflamável<cf>embalado em um frasco. Manuseie com extremo<cf>cuidado.
 Um combustível projetado para envolver a área<cf>em torno do ponto de impacto nas chamas.<cf>
 Detalhes desconhecidos.
 A seiva da árvore é bem resistente ao calor.<cf>Pode extinguir alguém que pegou fogo.
-A água leitosa que sobra de<cf>lavando um robusto harspud. Consumir para<cf>recuperar um pouco de Saúde e Vigor.
+A água leitosa que sobra de<cf>lavando um robusto harspud. Consuma para<cf>recuperar um pouco de Saúde e Vigor.
 Um líquido tônico espremido de harspuds.<cf>Consuma para recuperar uma boa quantidade de<cf>Saúde e Vigor.
-Molho com propriedades tônicas derivadas<cf>de harspuds cozidos. Consumir para<cf>recuperar uma grande quantidade de Saúde e Vigor.
-Um remédio que endireita tudo o que aflige o<cf>corpo. Cura a maioria das debilitações físicas.
+Molho com propriedades tônicas derivadas<cf>de harspuds cozidos. Consuma para<cf>recuperar uma grande quantidade de Saúde e Vigor.
+Um remédio que endireita tudo o que aflige o<cf>corpo. Cura a maioria das fraquezas físicas.
 Um chá estimulante que faz o sangue<cf>ferver. Cura aqueles sólidos congelados.
-Um remédio para curar a mente e o espírito.<cf>Cura a maioria das debilitações mágicas.
+Um remédio para curar a mente e o espírito.<cf>Cura a maioria das fraquezas mágicas.
 Detalhes desconhecidos.
-Uma lendária cura para tudo, empregada desde<cf>nos tempos antigos. Cura todas as debilitações.
+Uma lendária cura para tudo, empregada desde<cf>nos tempos antigos. Cura todas as fraquezas.
 Um licor branco doce feito com frutas<cf>inteiras. Seu sabor suave acalma os sentidos.
 Um licor vermelho rico feito de frutas<cf>fermentadas. Apenas um gosto enche a boca de<cf>deleite.
 Um frasco cheio de toxina concentrada.<cf>Lance-o nos inimigos para que ele use seu veneno.
@@ -12674,7 +12674,7 @@ Um feitiço que diz conter o vigor de um<cf>poderoso senhor da guerra. Após o u
 Um feitiço que alguns confessam carrega<cf>proteção divina. Seu uso amplifica as<cf>defesas por um período de tempo.
 Um feitiço que muitos acreditam abrigar a ira<cf>de um demônio. Seu uso amplifica Magick<cf>por um período de tempo.
 Um amuleto enfeitiçado por um poderoso mágico.<cf>Seu uso amplia as Defesas Mágickas por<cf>um período de tempo.
-Um amuleto abençoado com proteções especiais<cf>por um irmão da fé. Seu uso protege o<cf>contra debilitações por um período de tempo.
+Um amuleto abençoado com proteções especiais<cf>por um irmão da fé. Seu uso protege o<cf>contra fraquezas por um período de tempo.
 Um amuleto imbuído da sabedoria de um soldado<cf>de história. Seu uso dobra a experiência<cf>adquirida de inimigos por um período de tempo.
 Um amuleto que diz fazer príncipes dos indigentes.<cf>Seu uso dobra a moeda ganha por matar<cf>inimigos por um período de tempo.
 Um remédio preparado por feiticeiros pacificadores.<cf> Restaura qualquer atributo ofensivo<cf>ou defensivo reduzido.
@@ -12775,7 +12775,7 @@ Um talismã abençoado disse para proteger os viajantes<cf>contra o infortúnio.
 A querida equipe de Selene. Seu nome<cf>reflete seu coração não corrompido.
 A adaga apreciada de Madeleine. É uma sensação<cf>quente, como se o ardor dela ainda<cf>passasse por ele.
 Roupas usadas pelos soldados do Gran Soren.
-Uma erva rara e bastante potente usada na<cf>preparação de tisanas. Consumir para recuperar<cf>uma grande dose de saúde.
+Uma erva rara e bastante potente usada na<cf>preparação de tisanas. Consuma para recuperar<cf>uma grande dose de saúde.
 Um token concedido a alguém que obedientemente<cf>serviu Gran Soren. Algumas lojas<cf>concederão um desconto a quem o possuir.
 A luz da fenda tornou-se sólida. Ele<cf>possui um valor especial.
 Detalhes desconhecidos.
@@ -13450,7 +13450,7 @@ Um casaco usado por magos neófitos, sua aparência<cf>espartana destinada a enc
 Detalhes desconhecidos.
 Uma túnica que evoca a inesgotável vitalidade<cf>da hidra. Ele continuamente<cf>restaura a Saúde de seu usuário.
 Um cinto usado por um eliminador. A<cf>relíquia de um rei que foi amaldiçoado a viver<cf>como um leão, ela aumenta a capacidade<cf>do usuário de cambalear seus oponentes.
-Um casaco feito de pele de sálvia,<cf>permite que o usuário se recupere de<cf>debilitações mais rapidamente.
+Um casaco feito de pele de sálvia,<cf>permite que o usuário se recupere de<cf>fraquezas mais rapidamente.
 Um manto preferido por magos de alto nível,<cf>ele restaura continuamente a Saúde<cf>de aliados próximos.
 Uma armadura que oferece uma forte defesa<cf>sem sacrificar o conforto.<cf>Sua elegância evoca seres etéreos de um<cf>passado mítico há muito perdido na antiguidade.
 Um manto usado por fanáticos em seus rituais<cf>pagãos, modelado após uma das bestas elementais<cf>que eles adoram.
@@ -13677,7 +13677,7 @@ Um brinco mágico com um brilho curioso.<cf>Aumenta a resistência a qualquer co
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência a tudo que<cf>diminuiria a Magick.
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência à petrificação.<cf>
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência a tudo que<cf>diminuiria a Força.
-Um brinco que lembra uma gota de sangue de dragão.<cf> Aumenta a resistência a<cf>todos os tipos de debilitações.
+Um brinco que lembra uma gota de sangue de dragão.<cf> Aumenta a resistência a<cf>todos os tipos de fraquezas.
 Um anel simples de prata pura. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
 Um atraente anel de ouro puro. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
 Um anel elegante de pura platina. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
@@ -13708,7 +13708,7 @@ Um item verdadeiramente raro, mesmo entre os lendários armamentos<cf>Preto-amar
 Um anel imbuído de um poder misterioso.<cf>Usá-lo aumenta o poder de armas de projétil<cf>, como lança-explosões.
 Um anel imbuído de um poder misterioso.<cf>Usá-lo aumenta o poder do usuário<cf>ao lutar com as mãos vazias.
 Um anel que aumenta as defesas<cf>de seu portador e sua resistência a ser<cf>derrubado ou cambaleado enquanto seu nível de mobilidade<cf>é pesado ou superior.
-Um anel imbuído de um poder misterioso.<cf>Ele envolve seu usuário em uma membrana<cf>à prova d'água, colocando um fim imediato<cf>na debilitação encharcada.
+Um anel imbuído de um poder misterioso.<cf>Ele envolve seu usuário em uma membrana<cf>à prova d'água, colocando um fim imediato<cf>na fraqueza encharcada.
 Um anel imbuído de um poder misterioso.<cf>Ele aumenta a disciplina conquistada por<cf>o usuário.
 Um anel imbuído com um poder misterioso.<cf>Aumenta a quantidade de Saúde<cf>do usuário restaurada ao resgatar os Pawns.
 Um anel que aumenta os atributos básicos.<cf><CSEX 0><VAL 0>.<cf><CSEX 1><VAL 1>.
@@ -13919,7 +13919,7 @@ Uma rica bebida fermentada com as melhores<cf>ervas feitas à mão do Selene. Ca
 Um belo gole feito com as ervas aromáticas<cf>mais aromáticas do Selene. Seu aroma<cf>inebriante adiciona sabor.
 Um rascunho encorpado feito com as ervas cultivadas à mão<cf>do Selene. Um festival para a boca<cf>, é saboroso além de qualquer descrição.
 Um antídoto para o veneno.
-Um extrato que promove flexibilidade e<cf>lubrifica as articulações. Consumir para<cf>se mover com mais agilidade.
+Um extrato que promove flexibilidade e<cf>lubrifica as articulações. Consuma para<cf>se mover com mais agilidade.
 Uma pequena pedra dotada de misteriosos poderes.<cf> Use-o para curar a cegueira.
 Remédio que acalma a garganta e<cf>limpa os seios da face. Use-o para curar o silêncio.
 Uma semente de planta pungente. Use-o para acordar o.<cf>
@@ -13934,7 +13934,7 @@ Uma mistura derivada de uma grande semente<cf>com a casca mais dura de toda a na
 Um elixir misterioso preparado pelo lendário arquimago Salomet. Beba para<cf>impulsionar a Magia por um tempo.
 Um líquido destilado de bandlilly, a lendária planta mágica.<cf> Beba para melhorar<cf>as defesas mágicas por um tempo limitado.
 Um caldo espesso e cremoso feito de uma mistura especial de<cf>cogumelos. Beba para aumentar a resistência de<cf>por um tempo.
-Um vinho único de um vinhedo local.<cf>Beba para se tornar impermeável<cf>às debilitações por um tempo limitado.
+Um vinho único de um vinhedo local.<cf>Beba para se tornar impermeável<cf>às fraquezas por um tempo limitado.
 Um amuleto que já foi usado por um<cf>indivíduo piedoso. Seu uso aumenta a experiência<cf>ganha ao matar inimigos por um período de tempo.
 Um amuleto usado por um rico comerciante.<cf>Seu uso faz com que os inimigos caídos derrubem mais<cf>ouro por um período de tempo.
 Um encanto instilado por um espírito inquietoo.<cf>Seu uso aumenta a experiência ganha<cf>ao matar inimigos por um tempo, mas também inflige<cf>uma maldição.
@@ -13957,7 +13957,7 @@ Uma gema mágica infundida com o poder de<cf>infligir silêncio.
 Uma gema mágica com o poder de<cf>infligir cegueira.
 Uma gema mágica infundida com o poder de<cf>induzir torpor.
 Uma gema mágica com o poder de<cf>restaurar a Saúde.
-Uma gema mágica infundida com o poder de<cf>curar debilitações.
+Uma gema mágica infundida com o poder de<cf>curar fraquezas.
 Uma gema mágica infundida com o poder de<cf>petrificar.
 Uma gema mágica infundida com o poder de<cf>veneno.
 Uma gema mágica infundida com o poder de<cf>induzir o sono.
@@ -14293,8 +14293,8 @@ Um tipo de minério encontrado em antigas formações rochosas.<cf> Combine-o co
 Um tipo de minério freqüentemente encontrado em ilhas<cf>remotas. Combine-o com outros materiais<cf>para produzir algo útil.
 Um tipo de minério encontrado em antigas formações rochosas.<cf> Combine-o com outros materiais<cf>para produzir algo útil.
 Um tipo de minério freqüentemente encontrado em ilhas<cf>remotas. Combine-o com outros materiais<cf>para produzir algo útil.
-Uma planta medicinal resistente, valorizada por suas propriedades restauradoras.<cf> Consumir para<cf>recuperar uma grande quantidade de Vida.
-Uma erva mágica que floresce à noite,<cf>ela cura a maioria das debilitações mágicas.
+Uma planta medicinal resistente, valorizada por suas propriedades restauradoras.<cf> Consuma para<cf>recuperar uma grande quantidade de Vida.
+Uma erva mágica que floresce à noite,<cf>ela cura a maioria das fraquezas mágicas.
 Uma erva detritívora que brota<cf>dos restos mortais. Combine-o com<cf>outros materiais para produzir algo útil.
 Uma flor que emite um brilho suave na<cf>escuridão. Combine-o com outros materiais<cf>para produzir algo útil.
 Um cogumelo que cresce à sombra de<cf>grandes rochas. Combine-o com outros materiais<cf>para produzir algo útil.
@@ -14409,7 +14409,7 @@ Este item aprimora as seguintes habilidades de<cf>arma:<cf><CSEX>
 Este item aprimora as seguintes habilidades de<cf>arma:<cf><CSEX>
 Uma pedra que pode levar o usuário de volta<cf>para a entrada da Bitterblack Isle,<cf>mas utilizável apenas no labirinto<cf>daquela ilha amaldiçoada.
 Um pedaço de carne com um aroma adocicado e enjoativo.<cf> Coloque-o em uma área da<cf>Bitterblack Isle para aumentar a chance<cf>de monstros comedores de carniça aparecerem.
-Um medicamento derivado do fluido espinhal diluído<cf>de uma criatura. Consumir para<cf>aumentar ligeiramente sua Vida máxima<cf>por um tempo limitado.
+Um medicamento derivado do fluido espinhal diluído<cf>de uma criatura. Consuma para<cf>aumentar ligeiramente sua Vida máxima<cf>por um tempo limitado.
 Um medicamento derivado do fluido espinhal<cf>concentrado de uma criatura. Consuma<cf>para aumentar sua Vida máxima por<cf>por um tempo limitado.
 Um Harspud seco durante a volta da lua para<cf>condensar seus nutrientes. Consuma<cf>para aumentar ligeiramente seu Vigor máximo<cf>por um tempo limitado.
 Um Harspud secou por dez anos para<cf>condensar seus nutrientes. Consuma<cf>para aumentar seu Vigor máximo por um<cf>tempo limitado.
@@ -14420,8 +14420,8 @@ Uma joia com propriedades<cf>mágickas específicas, mantendo o poder de<cf>fort
 Uma joia de propriedades necromânticas mágicas<cf>, mantendo o poder de<cf>invocar espíritos mortos.
 Um tratado sobre magia de um autor há muito esquecido.<cf> Infundido com o poder de<cf>puxar torres de rocha.
 Um tratado sobre magia de um autor há muito esquecido.<cf> Infundido com o poder de<cf>espalhar luz.
-Um medicamento especialmente preparado para uso<cf>pelo Duque. Consumir para recuperar<cf>uma grande dose de saúde.
-Um medicamento especial criado a partir de uma receita alquímica<cf>secreta. Consumir para<cf>recuperar completamente sua saúde.
+Um medicamento especialmente preparado para uso<cf>pelo Duque. Consuma para recuperar<cf>uma grande dose de saúde.
+Um medicamento especial criado a partir de uma receita alquímica<cf>secreta. Consuma para<cf>recuperar completamente sua saúde.
 Um stick aromático com um aroma calmante.<cf>Use-o para recuperar uma grande quantidade de<cf>Saúde para toda a festa.
 Um stick aromático com um aroma calmante.<cf>Use-o para recuperar completamente a<cf>Saúde de toda a festa.
 Uma pedra que pode levar o usuário de volta<cf>para a entrada da Bitterblack Isle,<cf>mas utilizável apenas no labirinto<cf>daquela ilha amaldiçoada.
@@ -18309,8 +18309,8 @@ Descartar quantos?
 Peso
 Força
 Magick
-Defesas
-Defesas mágicas
+Defesa
+Defesa mágica
 
 Dê e receba equipamentos.
 Classifique o equipamento para um gerenciamento mais fácil.
@@ -23158,7 +23158,7 @@ O poder combinado do reino não era páreo para<cf>o dragão. Toda esperança es
 
 
 
-Persiga o Dragão - Amianto Traduções
+Persiga o Dragão<cf>Amianto Traduções Apresenta...
 Você perseguiu o dragão aqui, até a<cf>The Tainted Mountain. Lute até o coração<cf>do covil do dragão e enfrente tudo o que o espera.
 
 
@@ -24665,7 +24665,7 @@ Você também pode enviar itens para o armazenamento de qualquer local de descan
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos,<cf>um mapa completo, informações da missão e muito mais.
+Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus<cf>atributos, um mapa completo, informações da missão e muito mais.
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
@@ -24714,7 +24714,7 @@ Não se esqueça de habilitar habilidades e incrementos<cf>para seu Pawn princip
 Você pode passar itens de e para seus Pawns<cf>no submenu.
 Se você continuar, não poderá<cf>retornar por algum tempo. Certifique-se de que você está<cf>amplamente preparado.
 Executar ações que as pessoas não gostam<cf>diminuirá a afinidade delas por você.
-Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode causar debilitações.
+Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode causar fraquezas.
 É difícil se mover em áreas com muito vento.<cf>No entanto, pessoas mais pesadas serão menos afetadas<cf>pela resistência.
 As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 1> Pressione <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para atacar.
@@ -24731,12 +24731,12 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
 <TUTO> Para empunhar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> para mirar,<cf>então pressione <SIZE 24><ICON SHOT></SIZE> para disparar uma flecha.
-<TUTO 5> Certos inimigos e áreas podem infligir<cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
+<TUTO 5> Certos inimigos e áreas podem infligir<cf>fraquezas como sono, veneno,<cf>petrificação e cegueira.
 <TUTO 7> Certas ações, como usar habilidades e<cf>e correr, consomem sua resistência.<cf>Tome cuidado para não se exaurir.
 <TUTO> Conforme você avança em suas aventuras, os<cf>Pawns fornecerão informações e dicas úteis para.<cf>
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
-<TUTO> Usar uma lanterna irá manter a escuridão sob controle.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
+<TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
 <TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
@@ -24748,7 +24748,7 @@ Se algum chamar sua atenção, fale com<cf>o Pawn para alistá-lo ao seu grupo.
 Você pode contratar apenas dois Pawns para o seu grupo<cf>de cada vez. Eles podem então ser<cf>dispensados ​​falando com eles novamente.
 Com dinheiro e os materiais certos,<cf>todas as armas e armaduras, exceto joias<cf>, podem ser aprimoradas.
 Se você não tiver materiais suficientes<cf>em mãos, o restante será automaticamente<cf>retirado de seu inventário.
-Depois de aceitar uma missão, primeiro observe o marcador de missão<cf>em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.<cf>
+Depois de aceitar uma missão, primeiro observe o<cf>marcador de missão  em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.
 Os marcadores de missão variam de acordo com o tempo, a localização<cf>e as ações do seu alvo.
 Se você chegou a um impasse em uma missão,<cf>por que não tenta progredir em outra?<cf>Você pode encontrar uma solução para seu problema<cf>inicial.
 Quando os inimigos parecerem demais para controlar, tente<cf>ganhar níveis ou obter equipamentos melhores.
@@ -25741,8 +25741,8 @@ Descartar quantos?
 Peso
 Força
 Magick
-Defesas
-Defesas mágicas
+Defesa
+Defesa mágica
 
 Dê e receba equipamentos.
 Classifique o equipamento para um gerenciamento mais fácil.
@@ -27327,7 +27327,7 @@ Recupera força.
 Recupera Magick.
 Recupera defesas.
 Recupera as defesas mágicas.
-Cura todas as debilitações.
+Cura todas as fraquezas.
 Cura o choque do trovão.
 Inflige envenenamento.
 Inflige torpor.
@@ -27658,7 +27658,7 @@ Evite o ataque do dragão e volte para um<cf>local mais seguro.
 
 
 
-Persiga o Dragão - Amianto Traduções
+Persiga o Dragão<cf>Amianto Traduções Apresenta...
 Cruze a ponte antes que ela desmorone e persiga<cf>atrás do dragão.
 
 
@@ -28366,14 +28366,14 @@ Um bife de feras em dias melhores. Uma refeição tão nojenta<cf>com certeza de
 Carne ambrosiana, em dias melhores. Uma refeição<cf>como essa com certeza destruirá as entranhas.
 Um pequeno peixe que aparece em muitos pratos.<cf>Consuma para recuperar um pouco<cf>de Vigor.
 Um peixe grande que é a base de toda dieta.<cf>Consuma para recuperar uma boa quantidade<cf>de Vigor.
-Um peixe realmente enorme. Consumir para<cf>recuperar uma grande quantidade de Vigor.
+Um peixe realmente enorme. Consuma para<cf>recuperar uma grande quantidade de Vigor.
 Um pequeno peixe prestes a ficar sujo.<cf>Consuma para recuperar uma boa quantidade<cf>de Vigor.
 Um grande peixe prestes a ficar sujo. Consuma<cf>para recuperar uma grande quantidade de Vigor.
 Um peixe gigante prestes a ficar sujo. Consuma<cf>para recuperar totalmente o Vigor.
 Um peixinho em dias melhores. Uma refeição<cf>tão nojenta com certeza destruirá<cf>as entranhas.
 Um peixe grande, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Um peixe gigante em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Uma baga que cresce comumente na natureza.<cf> Consumir para recuperar um pouco de<cf>Saúde.
+Uma baga que cresce comumente na natureza.<cf> Consuma para recuperar um pouco de<cf>Saúde.
 Nada além de uma maçã comum. Consuma<cf>para recuperar um pouco de Saúde.
 Netos incrivelmente suculentos. Consuma<cf>para recuperar um pouco de Saúde.
 Uma baga prestes a ficar podre. Consuma<cf>para recuperar um pouco de Saúde.
@@ -28382,30 +28382,30 @@ cacho de uva prestes a ficar sujos.<cf>Consuma-os para recuperar uma boa<cf>quan
 Uma baga em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma maçã em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 cacho de uva, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Um tipo de feijão frequentemente dado ao gado.<cf>Consumir para recuperar um pouco da saúde.
-Uma cenoura delgada. Consumir para recuperar um<cf>pouco de Saúde.
-Uma abóbora enorme que contém<cf>nutrientes. Consumir para recuperar um<cf>pouco de Saúde.
+Um tipo de feijão frequentemente dado ao gado.<cf>Consuma para recuperar um pouco da saúde.
+Uma cenoura delgada. Consuma para recuperar um<cf>pouco de Saúde.
+Uma abóbora enorme que contém<cf>nutrientes. Consuma para recuperar um<cf>pouco de Saúde.
 Um galho prestes a ficar sujo. Consuma<cf>para recuperar um pouco de Saúde.
 Uma cenoura prestes a ficar nojenta. Consuma<cf>para recuperar uma boa quantidade de Saúde.
 Uma abóbora prestes a ficar podre. Consumir<cf>para recuperar uma grande quantidade de saúde.
 Um galho em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma cenoura, em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
 Uma abóbora em dias melhores. Uma refeição tão nojenta<cf>com certeza destruirá as entranhas.
-Um ovo apto para quebrar o<cf>jejum de qualquer aventureiro. Consumir para recuperar saúde e<cf>Stamina.
-Um ovo de ouro reluzente, bem estocado de<cf>nutrientes. Consumir para recuperar<cf>totalmente Saúde e Vigor.
+Um ovo apto para quebrar o<cf>jejum de qualquer aventureiro. Consuma para recuperar saúde e<cf>Stamina.
+Um ovo de ouro reluzente, bem estocado de<cf>nutrientes. Consuma para recuperar<cf>totalmente Saúde e Vigor.
 Um ovo em dias melhores. Muito<cf>perigoso se consumido.
 Uma flor que floresce em<cf>Gransys. Ele só floresce à luz do dia.
 Uma flor que pode ser encontrada em todos os alcances<cf>Gransys. Só floresce à noite.
 Os restos murchados de uma flor<cf>outrora bela.
-Uma erva comum usada na preparação  de<cf>tisanas. Consumir para recuperar um pouco<cf>de Saúde.
-Uma erva preciosa usada na preparação de<cf>tisanas. Consumir para recuperar uma boa<cf>quantidade de Saúde.
-Um cogumelo comestível. Consumir para<cf>recuperar Vigor.
+Uma erva comum usada na preparação  de<cf>tisanas. Consuma para recuperar um pouco<cf>de Saúde.
+Uma erva preciosa usada na preparação de<cf>tisanas. Consuma para recuperar uma boa<cf>quantidade de Saúde.
+Um cogumelo comestível. Consuma para<cf>recuperar Vigor.
 Um cogumelo grande e saboroso. Consumir<cf>para recuperar Vigor.
 Um cogumelo venenoso que não é comido como regra.<cf> No entanto, consumi-lo irá recuperar<cf>um pouco de Vigor.
-Um tipo de erva que cresce em<cf>Gransys. Consumir para limpar o corpo<cf>de venenos.
-Um tipo de erva encontrada em<cf>Gransys. Consumir para afastar o<cf>desejo de dormir.
+Um tipo de erva que cresce em<cf>Gransys. Consuma para purificar o corpo<cf>de venenos.
+Um tipo de erva encontrada em<cf>Gransys. Consuma para afastar o<cf>desejo de dormir.
 Uma noz que serviria para acabar com a fome de.<cf> Consuma para recuperar uma pequena<cf>quantidade de Saúde.
-Uma noz grande que pode servir como uma refeição improvisada.<cf> Consumir para recuperar um<cf>pouco de Saúde.
+Uma noz grande que pode servir como uma refeição improvisada.<cf> Consuma para recuperar um<cf>pouco de Saúde.
 Um metal barato e fácil de trabalhar. Usado<cf>como material para armas e armaduras.
 Um metal com um brilho incomparável.<cf>Usado como material para armas, armaduras e<cf>acessórios.
 Um metal brilhante frequentemente<cf>igualado a riqueza. Usado como material<cf>para adereços e semelhantes.
@@ -28418,8 +28418,8 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usado na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
-Uma pequena fonte de luz que queima<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser usado na cintura. Atualmente, está<cf>quase cheio de óleo.
+Uma pequena fonte de luz que usa<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Tem óleo suficiente para<cf>queimar por um tempo.
+Uma pequena fonte de luz que usa<cf>combustível líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está<cf>quase cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
 Um frasco cheio de água. Atire-o a<cf>um adversário para ensopá-los.
@@ -28437,14 +28437,14 @@ Um pequeno explosivo de pó inflamável<cf>embalado em um frasco. Manuseie com e
 Um combustível projetado para envolver a<cf>área em torno do ponto de impacto<cf>nas chamas.
 Detalhes desconhecidos.
 A seiva da árvore é bem resistente ao calor. Pode extinguir alguém que pegou fogo.
-A água leitosa que sobra de<cf>lavando um robusto harspud. Consumir para<cf>recuperar um pouco de Saúde e Vigor.
+A água leitosa que sobra de<cf>lavando um robusto harspud. Consuma para<cf>recuperar um pouco de Saúde e Vigor.
 Um líquido tônico espremido de harspuds.<cf>Consuma para recuperar uma boa quantidade de<cf>Saúde e Vigor.
-Molho com propriedades tônicas derivadas<cf>de harspuds cozidos. Consumir para<cf>recuperar uma grande quantidade de Saúde<cf>e Vigor.
-Um remédio que endireita tudo o que aflige o<cf>corpo. Cura a maioria das debilitações físicas.
+Molho com propriedades tônicas derivadas<cf>de harspuds cozidos. Consuma para<cf>recuperar uma grande quantidade de Saúde<cf>e Vigor.
+Um remédio que endireita tudo o que aflige o<cf>corpo. Cura a maioria das fraquezas físicas.
 Um chá estimulante que faz o sangue<cf>ferver. Cura aqueles sólidos congelados.
-Um remédio para curar a mente e o espírito.<cf>Cura a maioria das debilitações mágicas.
+Um remédio para curar a mente e o espírito.<cf>Cura a maioria das fraquezas mágicas.
 Detalhes desconhecidos.
-Uma lendária cura para tudo, empregada desde<cf>nos tempos antigos. Cura todas as debilitações.
+Uma lendária cura para tudo, empregada desde<cf>nos tempos antigos. Cura todas as fraquezas.
 Um licor branco doce feito com frutas<cf>inteiras. Seu sabor suave acalma os sentidos.
 Um licor vermelho rico feito de frutas<cf>fermentadas. Apenas um gosto enche a boca de<cf>deleite.
 Um frasco cheio de toxina concentrada.<cf>Lance-o nos inimigos para que ele use seu veneno.
@@ -28470,7 +28470,7 @@ Um feitiço que diz conter o vigor de um<cf>poderoso senhor da guerra. Após o u
 Um feitiço que alguns confessam carrega<cf>proteção divina. Seu uso amplifica as<cf>defesas por um período de tempo.
 Um feitiço que muitos acreditam abrigar a ira<cf>de um demônio. Seu uso amplifica Magick<cf>por um período de tempo.
 Um amuleto enfeitiçado por um poderoso mágico.<cf>Seu uso amplia as Defesas Mágickas por<cf>um período de tempo.
-Um amuleto abençoado com proteções especiais<cf>por um irmão da fé. Seu uso protege o<cf>contra debilitações por um período de tempo.
+Um amuleto abençoado com proteções especiais<cf>por um irmão da fé. Seu uso protege o<cf>contra fraquezas por um período de tempo.
 Um amuleto imbuído da sabedoria de um soldado<cf>de história. Seu uso dobra a experiência<cf>adquirida de inimigos por um período de tempo.
 Um amuleto que diz fazer príncipes dos indigentes.<cf>Seu uso dobra a moeda ganha por matar<cf>inimigos por um período de tempo.
 Um remédio preparado por feiticeiros pacificadores.<cf> Restaura qualquer atributo ofensivo<cf>ou defensivo reduzido.
@@ -28571,7 +28571,7 @@ Um talismã abençoado disse para proteger os viajantes<cf>contra o infortúnio.
 A querida equipe de Selene. Seu nome<cf>reflete seu coração não corrompido.
 A adaga apreciada de Madeleine. É uma sensação<cf>quente, como se o ardor dela ainda<cf>passasse por ele.
 Roupas usadas pelos soldados do Gran Soren.
-Uma erva rara e bastante potente usada na<cf>preparação de tisanas. Consumir para recuperar<cf>uma grande dose de saúde.
+Uma erva rara e bastante potente usada na<cf>preparação de tisanas. Consuma para recuperar<cf>uma grande dose de saúde.
 Um token concedido a alguém que obedientemente<cf>serviu Gran Soren. Algumas lojas<cf>concederão um desconto a quem o possuir.
 A luz da fenda tornou-se sólida. Ele<cf>possui um valor especial.
 Detalhes desconhecidos.
@@ -29246,7 +29246,7 @@ Um casaco usado por magos neófitos, sua aparência<cf>espartana destinada a enc
 Detalhes desconhecidos.
 Uma túnica que evoca a inesgotável vitalidade<cf>da hidra. Ele continuamente<cf>restaura a Saúde de seu usuário.
 Um cinto usado por um eliminador. A<cf>relíquia de um rei que foi amaldiçoado a viver<cf>como um leão, ela aumenta a capacidade<cf>do usuário de cambalear seus oponentes.
-Um casaco feito de pele de sálvia,<cf>permite que o usuário se recupere de<cf>debilitações mais rapidamente.
+Um casaco feito de pele de sálvia,<cf>permite que o usuário se recupere de<cf>fraquezas mais rapidamente.
 Um manto preferido por magos de alto nível,<cf>ele restaura continuamente a Saúde<cf>de aliados próximos.
 Uma armadura que oferece uma forte defesa<cf>sem sacrificar o conforto.<cf>Sua elegância evoca seres etéreos de um<cf>passado mítico há muito perdido na antiguidade.
 Um manto usado por fanáticos em seus rituais<cf>pagãos, modelado após uma das bestas elementais<cf>que eles adoram.
@@ -29473,7 +29473,7 @@ Um brinco mágico com um brilho curioso.<cf>Aumenta a resistência a qualquer co
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência a tudo que<cf>diminuiria a Magick.
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência à petrificação.<cf>
 Um brinco mágico brilha com uma luz<cf>curiosa. Aumenta a resistência a tudo que<cf>diminuiria a Força.
-Um brinco que lembra uma gota de sangue de dragão.<cf> Aumenta a resistência a<cf>todos os tipos de debilitações.
+Um brinco que lembra uma gota de sangue de dragão.<cf> Aumenta a resistência a<cf>todos os tipos de fraquezas.
 Um anel simples de prata pura. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
 Um atraente anel de ouro puro. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
 Um anel elegante de pura platina. Valioso<cf>e agradável aos olhos, mas útil apenas<cf>como adorno pessoal.
@@ -29504,7 +29504,7 @@ Um item verdadeiramente raro, mesmo entre os lendários armamentos<cf>Preto-amar
 Um anel imbuído de um poder misterioso.<cf>Usá-lo aumenta o poder de armas de projétil<cf>, como lança-explosões.
 Um anel imbuído de um poder misterioso.<cf>Usá-lo aumenta o poder do usuário<cf>ao lutar com as mãos vazias.
 Um anel que aumenta as defesas<cf>de seu portador e sua resistência a ser<cf>derrubado ou cambaleado enquanto seu nível de mobilidade<cf>é pesado ou superior.
-Um anel imbuído de um poder misterioso.<cf>Ele envolve seu usuário em uma membrana<cf>à prova d'água, colocando um fim imediato<cf>na debilitação encharcada.
+Um anel imbuído de um poder misterioso.<cf>Ele envolve seu usuário em uma membrana<cf>à prova d'água, colocando um fim imediato<cf>na fraqueza encharcada.
 Um anel imbuído de um poder misterioso.<cf>Ele aumenta a disciplina conquistada por<cf>o usuário.
 Um anel imbuído com um poder misterioso.<cf>Aumenta a quantidade de Saúde<cf>do usuário restaurada ao resgatar os Pawns.
 Um anel que aumenta os atributos básicos.<cf><CSEX 0><VAL 0>.<cf><CSEX 1><VAL 1>.
@@ -29715,7 +29715,7 @@ Uma rica bebida fermentada com as melhores<cf>ervas feitas à mão do Selene. Ca
 Um belo gole feito com as ervas aromáticas<cf>mais aromáticas do Selene. Seu aroma<cf>inebriante adiciona sabor.
 Um rascunho encorpado feito com as ervas cultivadas à mão<cf>do Selene. Um festival para a boca<cf>, é saboroso além de qualquer descrição.
 Um antídoto para o veneno.
-Um extrato que promove flexibilidade e<cf>lubrifica as articulações. Consumir para<cf>se mover com mais agilidade.
+Um extrato que promove flexibilidade e<cf>lubrifica as articulações. Consuma para<cf>se mover com mais agilidade.
 Uma pequena pedra dotada de misteriosos poderes.<cf> Use-o para curar a cegueira.
 Remédio que acalma a garganta e<cf>limpa os seios da face. Use-o para curar o silêncio.
 Uma semente de planta pungente. Use-o para acordar o.<cf>
@@ -29730,7 +29730,7 @@ Uma mistura derivada de uma grande semente<cf>com a casca mais dura de toda a na
 Um elixir misterioso preparado pelo lendário arquimago Salomet. Beba para<cf>impulsionar a Magia por um tempo.
 Um líquido destilado de bandlilly, a lendária planta mágica.<cf> Beba para melhorar<cf>as defesas mágicas por um tempo limitado.
 Um caldo espesso e cremoso feito de uma mistura especial de<cf>cogumelos. Beba para aumentar a resistência de<cf>por um tempo.
-Um vinho único de um vinhedo local.<cf>Beba para se tornar impermeável<cf>às debilitações por um tempo limitado.
+Um vinho único de um vinhedo local.<cf>Beba para se tornar impermeável<cf>às fraquezas por um tempo limitado.
 Um amuleto que já foi usado por um<cf>indivíduo piedoso. Seu uso aumenta a experiência<cf>ganha ao matar inimigos por um período de tempo.
 Um amuleto usado por um rico comerciante.<cf>Seu uso faz com que os inimigos caídos derrubem mais<cf>ouro por um período de tempo.
 Um encanto instilado por um espírito inquietoo.<cf>Seu uso aumenta a experiência ganha<cf>ao matar inimigos por um tempo, mas também inflige<cf>uma maldição.
@@ -29753,7 +29753,7 @@ Uma gema mágica infundida com o poder de<cf>infligir silêncio.
 Uma gema mágica com o poder de<cf>infligir cegueira.
 Uma gema mágica infundida com o poder de<cf>induzir torpor.
 Uma gema mágica com o poder de<cf>restaurar a Saúde.
-Uma gema mágica infundida com o poder de<cf>curar debilitações.
+Uma gema mágica infundida com o poder de<cf>curar fraquezas.
 Uma gema mágica infundida com o poder de<cf>petrificar.
 Uma gema mágica infundida com o poder de<cf>veneno.
 Uma gema mágica infundida com o poder de<cf>induzir o sono.
@@ -30089,8 +30089,8 @@ Um tipo de minério encontrado em antigas formações rochosas.<cf> Combine-o co
 Um tipo de minério freqüentemente encontrado em ilhas<cf>remotas. Combine-o com outros materiais<cf>para produzir algo útil.
 Um tipo de minério encontrado em antigas formações rochosas.<cf> Combine-o com outros materiais<cf>para produzir algo útil.
 Um tipo de minério freqüentemente encontrado em ilhas<cf>remotas. Combine-o com outros materiais<cf>para produzir algo útil.
-Uma planta medicinal resistente, valorizada por suas propriedades restauradoras.<cf> Consumir para<cf>recuperar uma grande quantidade de Vida.
-Uma erva mágica que floresce à noite,<cf>ela cura a maioria das debilitações mágicas.
+Uma planta medicinal resistente, valorizada por suas propriedades restauradoras.<cf> Consuma para<cf>recuperar uma grande quantidade de Vida.
+Uma erva mágica que floresce à noite,<cf>ela cura a maioria das fraquezas mágicas.
 Uma erva detritívora que brota<cf>dos restos mortais. Combine-o com<cf>outros materiais para produzir algo útil.
 Uma flor que emite um brilho suave na<cf>escuridão. Combine-o com outros materiais<cf>para produzir algo útil.
 Um cogumelo que cresce à sombra de<cf>grandes rochas. Combine-o com outros materiais<cf>para produzir algo útil.
@@ -30205,7 +30205,7 @@ Este item aprimora as seguintes habilidades de<cf>arma:<cf><CSEX>
 Este item aprimora as seguintes habilidades de<cf>arma:<cf><CSEX>
 Detalhes desconhecidos.
 Um pedaço de carne com um aroma adocicado e enjoativo.<cf> Coloque-o em uma área da<cf>Bitterblack Isle para aumentar a chance<cf>de monstros comedores de carniça aparecerem.
-Um medicamento derivado do fluido espinhal diluído<cf>de uma criatura. Consumir para<cf>aumentar ligeiramente sua Vida máxima<cf>por um tempo limitado.
+Um medicamento derivado do fluido espinhal diluído<cf>de uma criatura. Consuma para<cf>aumentar ligeiramente sua Vida máxima<cf>por um tempo limitado.
 Um medicamento derivado do fluido espinhal<cf>concentrado de uma criatura. Consuma<cf>para aumentar sua Vida máxima por<cf>por um tempo limitado.
 Um Harspud seco durante a volta da lua para<cf>condensar seus nutrientes. Consuma<cf>para aumentar ligeiramente seu Vigor máximo<cf>por um tempo limitado.
 Um Harspud secou por dez anos para<cf>condensar seus nutrientes. Consuma<cf>para aumentar seu Vigor máximo por um<cf>tempo limitado.
@@ -30216,8 +30216,8 @@ Uma joia com propriedades<cf>mágickas específicas, mantendo o poder de<cf>fort
 Uma joia de propriedades necromânticas mágicas<cf>, mantendo o poder de<cf>invocar espíritos mortos.
 Um tratado sobre magia de um autor há muito esquecido.<cf> Infundido com o poder de<cf>puxar torres de rocha.
 Um tratado sobre magia de um autor há muito esquecido.<cf> Infundido com o poder de<cf>espalhar luz.
-Um medicamento especialmente preparado para uso<cf>pelo Duque. Consumir para recuperar<cf>uma grande dose de saúde.
-Um medicamento especial criado a partir de uma receita alquímica<cf>secreta. Consumir para<cf>recuperar completamente sua saúde.
+Um medicamento especialmente preparado para uso<cf>pelo Duque. Consuma para recuperar<cf>uma grande dose de saúde.
+Um medicamento especial criado a partir de uma receita alquímica<cf>secreta. Consuma para<cf>recuperar completamente sua saúde.
 Um stick aromático com um aroma calmante.<cf>Use-o para recuperar uma grande quantidade de<cf>Saúde para toda a festa.
 Um stick aromático com um aroma calmante.<cf>Use-o para recuperar completamente a<cf>Saúde de toda a festa.
 Uma pedra que pode levar o usuário de volta<cf>para a entrada da Bitterblack Isle,<cf>mas utilizável apenas no labirinto<cf>daquela ilha amaldiçoada.
@@ -30958,7 +30958,7 @@ Sinto algo próximo ...<cf>Um pássaro, talvez ... ou ... maior.
 Este é o território da harpia. Fique atento<cf>nos céus.
 Não estávamos apenas aqui? Todos<cf>esses caminhos parecem iguais ...
 Não tema se perdermos nosso caminho,<cf>Mestre. Seu mapa nos servirá.
-Como está escuro! Não consigo ver nada.
+Que escuridão! Não enxergo nada.
 Talvez uma lanterna possa nos ajudar<cf>a encontrar o caminho ...
 Está escuro ...<cf>Para onde vamos a partir daqui?
 Deve haver uma escada por perto. Vamos<cf>desenhar uma lanterna e dar uma olhada.
@@ -33055,7 +33055,7 @@ Invoca um sigilo mágico que recupera<cf>a Saúde daqueles que entram.
 Uma forma avançada de Anodyne que<cf>restaura a Saúde em um ritmo mais rápido, e<cf>continua a ser eficaz mesmo após<cf>deixar o sigilo.
 Uma forma avançada de Alto Anódino que<cf>restaura mais Saúde e dura por um período<cf>ainda mais longo.
 Invoca um sigilo mágico que limpa o<cf>seguinte daqueles que entrarem: Veneno,<cf>Torpor, Silêncio, tendo Fogo Pegado e<cf>sendo Sólido Congelado.
-Invoca um sigilo de longa duração que limpa todas as debilitações<cf>, exceto Drenching, Tarring,<cf>Petrification e atributos rebaixados.
+Invoca um sigilo de longa duração que limpa todas as fraquezas<cf>, exceto Drenching, Tarring,<cf>Petrification e atributos rebaixados.
 
 Lança um raio de magia que encanta<cf>a arma de um aliado com fogo.
 Uma forma avançada de Boon de Fogo que<cf>aumenta a duração do encantamento<cf>, bem como a Magia do recipiente.
@@ -33197,8 +33197,8 @@ Uma forma avançada de Vislumbre Mágicko que<cf>estende ainda mais a largura e 
 Solta uma flecha mágica que atrai<cf>inimigos leves próximos.
 Uma forma avançada de Trilha de Funil que<cf>persiste por um longo período de tempo e<cf>possui um alcance expandido para atrair<cf>ainda mais inimigos leves nas proximidades.
 
-Solta uma flecha mágica que torna um aliado<cf>impermeável a todos os tipos de debilitações<cf>por um tempo.
-Uma forma avançada de Ward Arrow que<cf>protege os alvos de todos os tipos<cf>de debilitações por um tempo.
+Solta uma flecha mágica que torna um aliado<cf>impermeável a todos os tipos de fraquezas<cf>por um tempo.
+Uma forma avançada de Ward Arrow que<cf>protege os alvos de todos os tipos<cf>de fraquezas por um tempo.
 
 Solta uma flecha mágica que fortalece<cf>um aliado contra os golpes do inimigo<cf>por um tempo.
 Uma forma avançada de Flecha de Braçadeira que<cf>aumenta a resistência daqueles<cf>alvejados aos golpes inimigos.
@@ -34128,9 +34128,9 @@ Devemos nos juntar a você, mestre.<cf>Avante, para o covil do wyrm.
 Tenho um mau pressentimento sobre isso...
 Sobreviventes! Vamos nos juntar a eles!
 Horrível ... Vou acender uma luz.
-O ninho do dragão está logo além.<cf>Devemos nos apressar.
-Os ossos de ainda mais soldados ...<cf>Que horrível ...
-Este ainda vive!
+O covil do dragão está logo além.<cf>Vamos nos apressar!
+Tantos ossos de soldados ...<cf>Que cena horrível ...
+Ele ainda vive!
 Um sobrevivente!
 Temo que não haja nada que<cf>possamos fazer por eles agora ...
 É ... está além da imaginação ...
@@ -35274,7 +35274,7 @@ Use <ICON PAD_RS> para mirar a balista,<cf>e pressione <ICON SHOT> para atirar.
 Sente-se nesta cadeira especial para ser o mentor de seu Pawn principal.<cf>
 Para certas magias poderosas, conjurar<cf>o mesmo feitiço que um Pawn encurtará o<cf>tempo necessário para lançá-lo.
 Executar ações que as pessoas não gostam<cf>diminuirá a afinidade delas por você.
-Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar debilitações.
+Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar fraquezas.
 É difícil se mover em áreas com muito vento.<cf>No entanto, pessoas mais pesadas serão menos afetadas<cf>pela resistência.
 As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
@@ -38357,7 +38357,7 @@ Aumenta a Força quando você é notado<cf>por um grande número de inimigos.
 Reduz ligeiramente o dano de ataques de arco.<cf>
 Reduz o dano de ataques de arco.
 Tem um leve efeito restaurador nos Pawns<cf>próximos a você.
-Suas debilitações se curam<cf>naturalmente mais rapidamente do que o normal.
+Suas fraquezas se curam<cf>naturalmente mais rapidamente do que o normal.
 Restaura gradualmente pequenas quantidades de<cf>Saúde.
 Restaura a saúde gradualmente.
 Aumenta o poder dos escudos normais e mágicos.<cf>
@@ -38454,7 +38454,7 @@ Aumentos ativados
 Habilidades habilitadas
 Viagem no tempo com você
 
-Em geral
+Geral
 Jogador
 Pawns
 Gransys Denizens
@@ -38526,7 +38526,7 @@ Precisamos de luz, Arisen.
 Mortos-vivos dormem sob a terra!
 Observe o chão abaixo de você!
 Acender essas lâmpadas pode ser útil ...
-Está bloqueado ...
+Está bloqueado...
 Parece bloqueado e por nenhuma tecla<cf>comum ...
 Isso deve fazer alguma coisa ...
 Agora podemos descer.
@@ -38773,7 +38773,7 @@ Não se esqueça de habilitar habilidades e incrementos<cf>para seu Pawn princip
 Você pode passar itens de e para seus Pawns<cf>no submenu.
 Se você continuar, não poderá<cf>retornar por algum tempo. Certifique-se de que você está<cf>amplamente preparado.
 Executar ações que as pessoas não gostam<cf>diminuirá a afinidade delas por você.
-Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar debilitações.
+Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar fraquezas.
 É difícil se mover em áreas com muito vento.<cf>No entanto, pessoas mais pesadas serão menos afetadas<cf>pela resistência.
 As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 1> Pressione <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para atacar.
@@ -38790,12 +38790,12 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
 <TUTO> Para empunhar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> para mirar,<cf>então pressione <SIZE 24><ICON SHOT></SIZE> para disparar uma flecha.
-<TUTO 5> Certos inimigos e áreas podem infligir<cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
+<TUTO 5> Certos inimigos e áreas podem infligir<cf>fraquezas como sono, veneno,<cf>petrificação e cegueira.
 <TUTO 7> Certas ações, como usar habilidades e<cf>e correr, consomem sua resistência.<cf>Tome cuidado para não se exaurir.
 <TUTO> Conforme você avança em suas aventuras, os<cf>Pawns fornecerão informações e dicas úteis para.<cf>
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
-<TUTO> Usar uma lanterna irá manter a escuridão sob controle.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
+<TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
 <TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
@@ -38891,7 +38891,7 @@ Mensagem Inválida
 Se um arco for equipado como arma secundária, <lf> enquanto estiver jogando em um mouse e teclado, <lf> você pode pressionar <ICON BMODE> para ativar o Modo de Arco.
 Quando o Modo de Arco é ativado, as ações relevantes do arco <lf> substituirão os controles padrão. <lf> Pressione <ICON ATTACK1> para mirar <lf> Pressione <ICON ATTACK0> para atirar
 Você também pode salvar manualmente<cf>a qualquer momento, clicando em  <TUTO><SIZE 28><ICON PAD_SL></SIZE> no menu de pausa.<cf>
-<TUTO> Usar uma lanterna irá manter a escuridão à distância.<cf>Clique em <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
+<TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Clique em <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
 O status de um Pawn pode ser determinado por seus ícones.<cf><SIZE 32><ICON ONLINE></SIZE> significa que o Pawn está online.<cf><SIZE 32><ICON FRIEND></SIZE> é o Pawn de um amigo .<cf><SIZE 32><ICON BORROW></SIZE> é um Pawn que você alistou no passado.
 Tanta fragilidade se torna uma esposa dos mares ...
 Nngh ... Dói ...
@@ -40625,7 +40625,7 @@ Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
-Menu Quest
+Menu Missão
 
 Dungeon Quest
 Country Quest
@@ -41391,7 +41391,7 @@ Recupera força.
 Recupera Magick. 
 Recupera defesas. 
 Recupera as defesas mágicas. 
-Cura todas as debilitações. 
+Cura todas as fraquezas. 
 Cura o choque do trovão. 
 Inflige envenenamento. 
 Inflige torpor. 
@@ -41457,9 +41457,9 @@ Fornecido pelos soldados da Greatwall.
 Fornecido por todos.
 
 
-Em geral
-Ofensas
-Defesas
+Geral
+Ataque
+Defesa
 Doença
 Perfil
 Bestiário
@@ -41477,7 +41477,7 @@ sagrado
 Trevas
 
 Revigorações
-Debilitações
+fraquezas
 
 Um inimigo desconhecido
 Uma missão desconhecida
@@ -41485,7 +41485,7 @@ Um local desconhecido
 Aumentos
 Habilidades
 Informações gerais
-Status ofensivo
+Status de ataque
 Status de defesa
 Doença
 Perfil
@@ -42014,7 +42014,7 @@ Aumentos ativados
 Habilidades habilitadas
 Viagem no tempo com você
 
-Em geral
+Geral
 Jogador
 Pawns
 Gransys Denizens
@@ -42284,7 +42284,7 @@ Não podemos permitir que o wyrm trabalhe<cf>em mais atrocidades.
 Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
 Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
 O que é essa abominação ?! Tenha cuidado,<cf>cuidado, Mestre!
-O recuo contém apenas a morte, Arisen!<cf>Devemos abrir um caminho para a frente!
+Recuar só leva a morte, Arisen!<cf>Vamos abrir caminho por cima deles!
 Foram os pés de incontáveis ​​peregrinos<cf>que percorreram pela primeira vez esta estrada para o templo.
 Não há outros sobreviventes?
 Monstros destruíram<cf>este lugar ...
@@ -42300,7 +42300,7 @@ Por aqui.
 Nosso objetivo está à frente.
 Siga-me, Arisen.
 Cuidado onde pisa.
-Como está escuro!<cf>Você tem uma fonte de luz?
+Que escuridão!<cf>Você tem algo para iluminar?
 Venha, Mestre!
 Aqui está outro caminho, Mestre.
 Por aqui!
@@ -43841,7 +43841,7 @@ Uma magia emana do encanto. Não parece muito resistente ...
 A fechadura se abre.
 Como já se disse, é melhor deixar os cães adormecidos mentirem. Pessoas dormindo também.
 Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
-Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar debilitações.
+Sua taxa de movimento diminui em áreas<cf>aquosas, como rios ou pântanos. Além disso,<cf>pisar em ou próximo a algumas áreas pode<cf>causar fraquezas.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viagem, mas cada pedra desaparece após<cf>um único uso.
 Você pode se equipar com uma arma primária e<cf>uma arma secundária.
@@ -44933,7 +44933,7 @@ Limitar por gênero
 Caças de curta distância
 Caças de longo alcance
 Pessoal de apoio
-Pode causar debilitações
+Pode causar fraquezas
 Tem fogo elemental
 Tem gelo elementar
 Tem relâmpagos elementais
@@ -44958,7 +44958,7 @@ Habilidades habilitadas (1)
 Habilidades habilitadas (2)
 Gênero
 ID do criador
-Conhecimento da Quest?
+Conhecimento da Missão?
 Classificação
 Transferências
 Atualizada
@@ -45000,7 +45000,7 @@ Perfil
 Equipamento
 Habilidades e melhorias
 Resistências
-Status ofensivo
+Status de ataque
 Status de defesa
 Conhecimento Inimigo
 Conhecimento Quest
@@ -45991,8 +45991,8 @@ Pernas
 Acessórios
 Equipamento
 
-Itens que restauram a saúde e o vigor,<cf>curam debilitações e assim por diante.
-Itens frequentemente usados em aventuras<cf>​​e batalhas.
+Itens que restauram a saúde e o vigor,<cf>curam fraquezas e assim por diante.
+Itens frequentemente usados em<cf>aventuras e batalhas.
 Os itens podem ser combinados ou usados​​<cf>para aprimorar armas e armaduras.
 Itens de importância crucial para sua missão.
 Itens variados.
@@ -46071,13 +46071,13 @@ ST
 Força
 Magick
 Elemento
-Debilitações
-Defesas
-Defesas mágicas
+fraquezas
+Defesa
+Defesa mágica
 Resistência à perfuração
 Resistência ao ataque
 Resistência Elemental
-Resistência à Debilitação
+Resistência à Fraqueza
 
 Lutador
 Strider
@@ -46119,7 +46119,7 @@ Carregando...
 Nome do Pawn
 Apelido
 Custo
-Conhecimento da Quest?
+Conhecimento da Missão?
 Conhecimento Inimigo
 Habilidades primárias
 Habilidades secundárias
@@ -46537,7 +46537,7 @@ Selecione quem pode alistar seu Pawn principal online. Limitar o acesso de<cf>ao
 Ative ou desative as mensagens do tutorial na tela.
 Ative ou desative o guia do botão na tela.
 Ative ou desative o guia de comandos de Pawn na tela.
-Defina a exibição de medidores de saúde e resistência,<cf>ícones de debilitação e nomes de Pawns.
+Defina a exibição de medidores de saúde e resistência,<cf>ícones de fraqueza e nomes de Pawns.
 Alterne o uso de cinemáticas em batalha destacando oportunidades<cf>para ataques em tandem com seus Pawns.
 
 Jogabilidade
@@ -46664,7 +46664,7 @@ Detalhe de textura
 Filtragem de textura
 Qualidade da grama
 Volume de Efeito
-Câmera FOV
+Campo de Visão
 Defina a resolução da tela.
 Definir tela inteira ou exibição em janela.
 Defina a frequência de exibição.
@@ -46678,24 +46678,24 @@ Defina a qualidade da filtragem de textura. (Só pode ser alterado <lf> em Opç�
 Defina a qualidade de exibição da grama. (Só pode ser alterado <lf> em Opções do Menu Principal.)
 Defina a qualidade do efeito e a densidade das partículas. (Só pode ser alterado <lf> em Opções do Menu Principal.)
 Defina o campo de visão.
-Siga em frente
-Mover para trás
-Vire à esquerda
-Mover para a direita
+Avançar
+Recuar
+Mover para esquerda
+Mover para direita
 Pular
 Ataque pesado
 Ataque leve
 Ação
 Conjunto de habilidades primárias
 Conjunto de habilidades secundárias
-Agarrar / escalar
-Empunhar / embainhar a arma
+Agarrar / Escalar
+Empunhar / Embainhar a arma
 Traço
-Alternar caminhada / corrida
-Estoque aberto
-Pawns de comando para ir
-Pawns de comando para virem até você
-Pawns de comando para ajudar
+Alternar caminhar / Correr
+Inventario
+Comando Pawn para ir
+Comando Pawn para virem até você
+Comando Pawn para ajudar
 Alternar modo de arco
 Mova o personagem para frente.
 Mova o personagem para trás.
@@ -46708,7 +46708,7 @@ Interaja com o meio ambiente.
 Use o conjunto de habilidades primárias (use com os botões de habilidade).
 Use o conjunto de habilidades secundárias (use com os botões de habilidade).
 Pegue o item ou agarre / escale o inimigo.
-Desenhe / embainhe a arma.
+Desembanhar / Embainhar a arma.
 Comece a correr.
 Alterne entre caminhar e correr.
 Abra o inventário.
@@ -47044,7 +47044,7 @@ Armadura imbuída de Archmagick escuro.
 Vigor não consumido por um tempo limitado.
 Ganhe mais experiência por um tempo limitado.
 Ganhe mais ouro por um tempo limitado.
-Cura quaisquer debilitações atuais.<cf>Protege contra todas as debilitações por um tempo.
+Cura quaisquer fraquezas atuais.<cf>Protege contra todas as fraquezas por um tempo.
 Força reduzida por um tempo limitado.
 Defesas reduzidas por um tempo limitado.
 Magick baixou por um tempo limitado.
@@ -48429,12 +48429,12 @@ O portão está bem fechado. Você sente uma presença do outro lado ...
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
 <TUTO> Segure <SIZE 24><ICON SUB_WEP></SIZE> para bloquear.
 <TUTO> Para empunhar um arco, segure <SIZE 24><ICON SUB_WEP></SIZE> para mirar,<cf>então pressione <SIZE 24><ICON SHOT></SIZE> para disparar uma flecha.
-<TUTO 5> Certos inimigos e áreas podem infligir<cf>debilitações como sono, veneno,<cf>petrificação e cegueira.
+<TUTO 5> Certos inimigos e áreas podem infligir<cf>fraquezas como sono, veneno,<cf>petrificação e cegueira.
 <TUTO 7> Certas ações, como usar habilidades e<cf>e correr, consomem sua resistência.<cf>Tome cuidado para não se exaurir.
 <TUTO> Conforme você avança em suas aventuras os<cf>Pawns fornecerão informações e dicas úteis<cf>para te ajudar.
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
-<TUTO> Usar uma lanterna irá manter a escuridão sob controle.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
+<TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
 <TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
 Uma grande porta ... Abre por algum interruptor, mais parecido.
 Nenhuma outra resposta, ao que parece.
