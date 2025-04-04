@@ -1595,7 +1595,7 @@ Você tem uma chance de aumentar a afinidade de um companheiro<cf>, acompanhando
 
 
 
-[A1]
+
 
 
 Escolta para o seu destino
@@ -50140,4 +50140,3 @@ Já temos o suficiente com que nos preocupar sem que sua espécie acrescente<cf>
 Fournival deve permanecer em cativeiro até ser absolvido.
 Sempre calmo e cauteloso, meu mestre estava ... Sempre vigilante e rápido em responder ...
 Sim, foi a falha deste Pawn que custou sua vida. Se eu tivesse contido aquele golpe ...
-[A1]here
