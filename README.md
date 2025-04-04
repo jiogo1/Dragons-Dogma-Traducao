@@ -63,6 +63,6 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 ---
 
 ### **Preview do README no GitHub:**  
-![Preview](https://imgur.com/a/SzKDkVS) *(imagem ilustrativa)*  
+![Preview]([ ](https://imgur.com/gallery/dragons-dogma-pt-br-SzKDkVS) *(imagem ilustrativa)*  
 
 ---
