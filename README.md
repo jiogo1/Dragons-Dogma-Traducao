@@ -10,7 +10,7 @@ Não precisa ser expert em Git! Qualquer um pode ajudar:
 
 ### **1️⃣ Método Rápido (via GitHub Web):**  
 1. **Clique no arquivo** que deseja revisar (`message.pck.txt`).  
-2. Aperte o botão **✏️ (Open it Dev)** no canto superior direito.  
+2. Aperte o botão **✏️ (Open with github.dev)** no canto superior direito.  
 3. Faça suas correções/sugestões **diretamente no texto**.  
 4. No final da página, clique em **"Propose changes"** → **"Create Pull Request"**.  
 
@@ -51,7 +51,7 @@ Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lan
 ---
 
 ### **✨ Pronto para entrar na lenda?**  
-**Clique em ✏️Dev e comece a traduzir agora mesmo!** Sua ajuda fará do *Dragon’s Dogma* uma experiência ainda melhor para a comunidade brasileira.  
+**Clique no ✏️(github.dev) e comece a traduzir agora mesmo!** Sua ajuda fará do *Dragon’s Dogma* uma experiência ainda melhor para a comunidade brasileira.  
 
 🚀 **"The Arisen needs you!"** → **"O Arisen precisa de você!"**  
 
