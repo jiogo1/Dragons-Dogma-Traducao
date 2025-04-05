@@ -499,7 +499,7 @@ Calma, bom pescador.
 É uma loucura, pura e simples ...
 Dar uma olhada!
 Obrigado, primo!
-Finalmente, a ajuda chega! Foi uma espera e tanto, Ser.
+Finalmente, a ajuda chega! Foi uma espera e tanto, Sir.
 O líder daqueles fanáticos foi para o andar de cima.
 Há uma passagem aqui que o levará até lá mais rapidamente. Eu vou abrir.
 Sim, as línguas se mexem com a conversa de Madeleine.
@@ -871,14 +871,14 @@ Se você deseja trocar Rift Crystals por mercadorias, você só precisa pedir.<c
 Este Pawn deve ajudá-lo da melhor maneira possível, Arisen.
 Eu rezo para que você veja os sonhos de minha amante realizados.
 As esperanças de minha amante caída vão com você ... Eu oro para que você seja o único a conceder o descanso a ela.
-<RMSH> Escolha como quiser, ser.
+<RMSH> Escolha como quiser, sir.
 Comprar
 Esquece
 Estou sempre ao seu serviço.
 Eu que agradeço.
 Estou sempre ao seu serviço.
 Boa sorte esteja com você.
-<EQRM> Escolha como quiser, ser.
+<EQRM> Escolha como quiser, sir.
 Comprar
 Mudar de equipamento
 Esquece
@@ -2775,7 +2775,7 @@ Você me acha cruel, Arisen? É uma triste verdade que a retidão é um luxo rar
 Você está empenhado em matar o wyrm, e só isso.
 Nenhum juramento o vincula ao duque, nem minha morte lhe serviria de grande valor.
 Existem aqueles que podem me chamar de monstro, mas eu não sou um dragão, Sr. ...O que diz você?
-Eu sou derrotado, ser ...
+Eu sou derrotado, sir ...
 Morto por sua mão e trazido de volta também ...
 Essa derrota absoluta deixará espaço para discussão.
 Voltarei à capital e me colocarei à mercê do tribunal.
@@ -3034,7 +3034,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Há muitos como eu aqui ... Pawns desprovidos de seus mestres.
 Abandonados como estamos pela morte, podemos apenas esperar, à deriva na desolação sem fim ...
 Então você veio ... Muito bem, Arisen.
@@ -7567,7 +7567,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Terra de oportunidade
 Fournival busca despejar inquilinos de uma propriedade que<cf>possui, para que ele possa vendê-la por dinheiro rápido. Ele pede a<cf>que você intervenha em seu nome.
 
@@ -9138,7 +9138,7 @@ Então, devo esperar por você aqui.
 Estamos agora na Bitterblack Isle, longe<cf>da enseada de onde partimos.
 Eu pediria a você para explorar suas profundezas.
 Do fundo do coração, eu sinto a vontade de<cf>alguém como você, tocado pelo wyrm.
-Eu imploro, ser ... Encontre aquela alma perdida e<cf>leve-a à redenção.
+Eu imploro, sir ... Encontre aquela alma perdida e<cf>leve-a à redenção.
 Se fosse possível, eu não o dispensaria<cf>com uma explicação tão pobre.
 Mas temo que eu mesmo não saiba disso melhor.<cf>Meu passado, meus objetivos em vir aqui, tudo isso<cf>está perdido como uma névoa.
 Tudo que sei é que eu, como você, fui chamado<cf>aqui e devo ficar. Senti você<cf>à distância e chamei sua ajuda.
@@ -9160,7 +9160,7 @@ As palavras que falei implorando por sua ajuda não eram minhas,<cf>mas delas ..
 Além disso, ainda há uma névoa.
 O que devo fazer aqui, de verdade?.<cf>.. Perdoe-me. Não é uma pergunta que você<cf>pudesse responder, embora eu mesmo não saiba.
 Por enquanto, meu curso não mudou. Devo<cf>ajudar como puder e orar para que<cf>tenha mais clareza.
-Tome cuidado, ser ...
+Tome cuidado, sir ...
 Memórias antigas estão surgindo na superfície ...<cf>embora mostrem um passado que não é meu.
 Lembro-me de ter lutado ... Eu estava a serviço de um grande<cf>guerreiro, e juntos vencemos muitas provações.
 Seu fim mal merecido foi um golpe esmagador para mim,<cf>também. Minha alma foi despedaçada.
@@ -9187,7 +9187,7 @@ Eu era seu Pawn e, além disso, sua amada.
 Por favor ... Você deve libertá-lo.
 Que o seu ferro seja como um martelo para quebrar<cf>os laços do ódio que o mantêm aqui.
 E se a liberdade está além de seu alcance, Por favor, ofereça-lhe<cf>pelo menos um fim pacífico ...
-Por favor, ser ... imploro que o ajude.
+Por favor, sir ... imploro que o ajude.
 Deixe que sua vontade se mostre mais forte e esmague<cf>os laços de inimizade que o prendem.
 Sua alma foi uma escrava por muito tempo. Por favor,<cf>leve seu sofrimento a um fim misericordioso ...
 Apenas uma vontade mais forte ... Uma vontade como a sua pode trazer paz para<cf>ele.
@@ -9285,7 +9285,7 @@ Aprenda habilidades
 Definir habilidades
 Mudar vocação
 Esquece
-Ser ... Eu levaria você lá agora,<cf>se for isso que você deseja.
+Sir ... Eu levaria você lá agora,<cf>se for isso que você deseja.
 Sim
 Não
 Trancado. Você não tem a chave para encaixá-lo ...
@@ -14469,7 +14469,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Eu sou um grande hematoma ... É uma maravilha eu estar vivo.
 Agradeço sua ajuda, prima. Estou saudável e saudável por seus esforços.
 Na verdade, mover-se livremente é uma bênção muitas vezes esquecida.
@@ -15704,7 +15704,7 @@ Ser, eu ... eu sei que não é um assunto digno de ser imposto a um estranho que
 Por favor. Peço apenas que ouça um pouco ... Só um pouco.
 Sim
 Não
-Obrigado, ser ...
+Obrigado, sir ...
 Esta criança é ... Este é meu filho. Era meu filho. Seu coração parou há poucas horas.
 Sempre fraco, seu doce coração ... Desde que ele era apenas um bebê. Eu sabia há muito tempo que ele não viveria muito.
 Mas para ver ... Para vê-lo escapar das minhas mãos ... Nada me resta senão a raiva de minha impotência.
@@ -18454,7 +18454,7 @@ Maldito feiticeiro!
 Guardas! Faça alguma coisa!
 M-monstro!
 Aaah!
-Tenho uma dívida com você, ser ... Muito obrigado, sinceramente.
+Tenho uma dívida com você, sir ... Muito obrigado, sinceramente.
 Eles eram dos bandidos do sul, ao que parecia. Pior do que monstros, sua espécie ...
 Graças a você, estou vivo e inteiro, mas aqueles ratos fugiram com tudo que eu tinha ... Até levaram aquele livro de magia ...
 Hmm? Tem interesse em tais tomos, não é?
@@ -21261,7 +21261,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sir?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Flores para remédio, não é? O mesmo composto que Benita fez há muito tempo, sem dúvida.
 Pelo que me lembro, era feito de uma flor comum, combinada com mais uma rara.
 Ela falou da excepcional flor que cresce onde sopra a brisa do mar, e que só floresce com a luz da lua ...
@@ -23186,7 +23186,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr.?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Eu sabia que você era um vilão!
 Eu sofri sua avareza e decepções por deferência ao cargo de Arisen ...
 Mas você mostrou sua verdadeira cor, Sr.! Você é um traidor do duque e de todos nós!
@@ -23840,7 +23840,7 @@ Mm, isso pode levar algum tempo. Vou começar imediatamente.
 Imploro sua paciência, Sr.
 Temo que o texto ainda demore um pouco.
 Por favor, seja paciente, Sr. Um texto de cada vez, por favor.
-O texto foi decifrado, ser.
+O texto foi decifrado, sir.
 Por favor, leve isso com você.
 Hmm ... Embora me doa dizer, isso está além da minha compreensão, Sr.
 Ahh, encontrou algo, não é? Por favor, deixe-me dar uma olhada.
@@ -25125,7 +25125,7 @@ Você não irá mais longe!
 O-oh! Minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 O que? Muito bem. Vou cuidar disso imediatamente.
 Uma questão da natureza mais urgente chegou até nós. Vá para o castelo do sul imediatamente.
 Recebi um relatório de que um dos homens do duque voltou de longe gravemente ferido.
@@ -26207,12 +26207,12 @@ Aanh ...
 Waaaugh ...
 Nh!
 Eagh!
-Muito bem, ser ...
+Muito bem, sir ...
 Por favor, com licença.
 Sim, sim.
 Oh, eu não acho ...
 Não sei o que dizer, Sr.
-O-obrigado ... Ser.
+O-obrigado ... Sir.
 O duque reúne homens de grande valor para se levantarem contra o dragão ...
 Eu rezo para que eles tenham sucesso.
 Apesar de sua majestade, temo que até mesmo as paredes de Gran Soren possam nos proteger do dragão.
@@ -26224,7 +26224,7 @@ Perdi minha casa e com ela minha esperança ...
 É esta penitência por algum desprezo desconhecido? Ou o mundo é realmente tão cruel?
 Que horror...!
 Pensar, se tivéssemos permanecido em nossa antiga casa ... Eu ... Minha família estaria toda ...
-O-obrigado ... Ser.
+O-obrigado ... Sir.
 Trancado. Você não tem a chave para encaixá-lo ...
 Emperrado. Talvez pudesse abrir do outro lado.
 Está bloqueado. Pode ser capaz de quebrar o parafuso.
@@ -28319,7 +28319,7 @@ Eu daria tudo para ver meu filho, mas mais uma vez ...
 Devemos fugir. Se formos descobertos, os horrores que eu suportaria cairiam dez vezes sobre sua cabeça.
 Depressa, Arisen!
 Eegh !?
-P-perdão, ser ...
+P-perdão, sir ...
 Pronto ... Você ouviu isso !? Eles estão sobre nós!
 Espere ... Não, são apenas meus nervos.
 Perdão, Arisen. Meu egoísmo sem dúvida prejudicou sua reputação.
@@ -31934,7 +31934,7 @@ Então, devo esperar por você aqui.
 Estamos agora na Bitterblack Isle, longe<cf>da enseada de onde partimos.
 Eu pediria a você para explorar suas profundezas.
 Do fundo do coração, eu sinto a vontade de<cf>alguém como você, tocado pelo wyrm.
-Eu imploro, ser ... Encontre aquela alma perdida e<cf>leve-a à redenção.
+Eu imploro, sir ... Encontre aquela alma perdida e<cf>leve-a à redenção.
 Se fosse possível, eu não o dispensaria<cf>com uma explicação tão pobre.
 Mas temo que eu mesmo não saiba disso melhor.<cf>Meu passado, meus objetivos em vir aqui, tudo isso<cf>está perdido como uma névoa.
 Tudo que sei é que eu, como você, fui chamado<cf>aqui e devo ficar. Senti você<cf>à distância e chamei sua ajuda.
@@ -31962,7 +31962,7 @@ Eu era seu Pawn e, além disso, sua amada.
 Por favor ... Você deve libertá-lo.
 Que o seu ferro seja como um martelo para quebrar<cf>os laços do ódio que o mantêm aqui.
 E se a liberdade está além de seu alcance, por favor, ofereça-lhe<cf>pelo menos um fim pacífico ...
-Por favor, ser ... imploro que o ajude.
+Por favor, sir ... imploro que o ajude.
 Deixe que sua vontade se mostre mais forte e esmague<cf>os laços de inimizade que o prendem.
 Sua alma foi uma escrava por muito tempo. Por favor,<cf>leve seu sofrimento a um fim misericordioso ...
 Memórias antigas estão surgindo na superfície ...<cf>embora mostrem um passado que não é meu.
@@ -32025,7 +32025,7 @@ Mesmo para alguém com vontade suficiente para ganhar a marca<cf>do dragão, o c
 Estamos agora na Bitterblack Isle, longe<cf>da enseada de onde partimos.
 Eu pediria a você para explorar suas profundezas.
 Do fundo do coração, eu sinto a vontade de<cf>alguém como você, tocado pelo wyrm.
-Eu imploro, ser ... Encontre aquela alma perdida e<cf>leve-a à redenção.
+Eu imploro, sir ... Encontre aquela alma perdida e<cf>leve-a à redenção.
 Se fosse possível, eu não o dispensaria<cf>com uma explicação tão pobre.
 Mas temo que eu mesmo não saiba disso melhor.<cf>Meu passado, meus objetivos em vir aqui, tudo isso<cf>está perdido como uma névoa.
 Tudo que sei é que eu, como você, fui chamado<cf>aqui e devo ficar. Senti você<cf>à distância e chamei sua ajuda.
@@ -32773,7 +32773,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Quão pouco você sabe, Arisen!
 A bendita destruição está quase sobre nós! Em breve, todos seremos salvos!
 Somente conhecendo o caos o mundo pode ser limpo e renascer!
@@ -35347,7 +35347,7 @@ Não se pode esperar que um povo entorpecido por duas gerações de paz conheça
 ... Mas não devo falar em termos tão ousados ​​diante de Sua graça.
 Não tenho mais nada a dizer. Por favor, com licença.
 Arisen? Ser? Perdão, Sr.
-Trago uma mensagem de milady Aelinore. Ela falaria com você ser ... em particular, por favor.
+Trago uma mensagem de milady Aelinore. Ela falaria com você sir ... em particular, por favor.
 Alguns iriam ... levantar uma sobrancelha a tal pedido, dados os votos de milady ao duque ... eu confio ...
 Perdoe-me, Arisen! Devo aprender a segurar minha língua em uma companhia adequada. Por favor, encontre-me esta noite nos jardins do castelo.
 Você deve saber que é o primeiro companheiro em que milady confiou desde que veio a este lugar.
@@ -37723,7 +37723,7 @@ Você não irá mais longe!
 M-minhas mais profundas desculpas ...
 O que o traz aqui, Sr?
 Não posso permitir que nem mesmo o Arisen passe sem ser convidado.
-Eu agradeceria a você se abster de tais ações no futuro, ser ...
+Eu agradeceria a você se abster de tais ações no futuro, sir ...
 Não mais, Sr. Não devemos admitir nenhum convidado além deste ponto.
 Devemos procurar o Padre Geffrey na<cf>catedral.
 Padre Geffrey espera na catedral.
@@ -38213,7 +38213,7 @@ A Igreja estuda o dragão há séculos, mas cada vez que ele ataca, pedaços des
 E se todo o aprendizado do homem fosse retido de alguma forma? E se o conhecimento nunca fosse esquecido?
 Pense em tudo que poderíamos realizar ...
 O círculo gira novamente ... O que pode ser feito sobre tudo isso?
-Eh? Você derrotou o dragão? Sim, sim, huzzah para você, bom ser ...
+Eh? Você derrotou o dragão? Sim, sim, huzzah para você, bom sir ...
 Meu mestre continua desaparecido ...
 Com ele ausente, ainda me encontro à deriva, sem propósito ...
 É muito gentil de sua parte.
@@ -38901,7 +38901,7 @@ Eyah!
 Aaaaah ...
 Nh!
 Eagh!
-Saudações, ser.
+Saudações, sir.
 Por favor, fique bem.
 Sim...
 Não...
@@ -38916,7 +38916,7 @@ Salve, guerreiro cansado da estrada. Bem cumprido.
 Você procura o duque? Acho que ele está trabalhando em seu solar a esta hora.
 Temo saber muito pouco sobre a guerra e como ela é travada.
 ...
-Ser...
+Sir...
 ...
 Bom ser, não devemos demorar tanto ...
 As paredes do castelo têm olhos, e há quem interprete mal nossa amizade.
@@ -42312,7 +42312,7 @@ Vovó me deu uma parte de sua própria alma. Foi uma gentileza que nunca poderei
 No começo, eu não sabia como usar esse dom.
 Mas agora eu te conheci ...
 Minha ... pegada?
-Posso realmente viver? Posso ser ... humano?
+Posso realmente viver? Posso sir ... humano?
 Minha ... própria voz ...
 Eu ficaria com você.
 A consciência surge em mim.
@@ -42714,7 +42714,7 @@ Eu era seu Pawn e, além disso, sua amada.
 Por favor ... Você deve libertá-lo.
 Que o seu ferro seja como um martelo para quebrar<cf>os laços do ódio que o mantêm aqui.
 E se a liberdade está além de seu alcance, por favor, ofereça-lhe<cf>pelo menos um fim pacífico ...
-Por favor, ser ... imploro que o ajude.
+Por favor, sir ... imploro que o ajude.
 Deixe que sua vontade se mostre mais forte e esmague<cf>os laços de inimizade que o prendem.
 Sua alma foi uma escrava por muito tempo. Por favor,<cf>leve seu sofrimento a um fim misericordioso ...
 Nenhum caminho leva a isso.
@@ -43680,14 +43680,14 @@ O que é?
 Não tenho nada a dizer a você.
 Venha se juntar à nossa pequena banda?
 - A estrada está cuidando de você, primo?
-Er, muito bem, ser ... Por favor, perdoe-me pelos problemas que causei.
+Er, muito bem, sir ... Por favor, perdoe-me pelos problemas que causei.
 Eu deixei de lado o ladrão, eu deixei. Torne-se um homem honesto, aprendiz do estalajadeiro ...
 Tenho uma dívida com o homem. Você também, se isso lhe agradar. Você me mostrou que há mais vida do que cuidar de uma barriga vazia.
 Gosto muito da minha vida aqui, com certeza, mas ... preciso terminar minha vida passada de maneira adequada.
 Pretendo ver meus irmãos mais velhos. Para deixar o redil para sempre e tudo ... embora eles não gostem de ouvir isso.
 Reuni toda a coragem que tenho e voltei pronto para morrer ... e fui perdoado!
 Depois que eu falhar, minha cabeça vai voar, não se engane. ... Mas este é o caminho que escolhi para mim. Não tenho arrependimentos.
-Er, muito bem, ser ... Por favor, perdoe-me pelos problemas que causei.
+Er, muito bem, sir ... Por favor, perdoe-me pelos problemas que causei.
 Eu deixei de lado o ladrão, eu deixei. Torne-se um homem honesto, aprendiz do estalajadeiro ...
 Tenho uma dívida com o homem. Você também, se isso lhe agradar. Você me mostrou que há mais vida do que cuidar de uma barriga vazia.
 Gosto muito da minha vida aqui, com certeza, mas ... preciso terminar minha vida passada de maneira adequada.
@@ -44843,7 +44843,7 @@ Rrgh ...
 Bastardo obstinado ...
 Renda-se, maldito seja!
 Solte-me!
-Er, muito bem, ser ... Por favor, perdoe-me pelos problemas que causei.
+Er, muito bem, sir ... Por favor, perdoe-me pelos problemas que causei.
 Eu deixei de lado o ladrão, eu deixei. Torne-se um homem honesto, aprendiz do estalajadeiro ...
 Tenho uma dívida com o homem. Você também, se isso lhe agradar. Você me mostrou que há mais vida do que cuidar de uma barriga vazia.
 Gosto muito da minha vida aqui, com certeza, mas ... preciso terminar minha vida passada de maneira adequada.
