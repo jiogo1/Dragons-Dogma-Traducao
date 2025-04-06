@@ -3427,7 +3427,7 @@ A missão não pode mais ser concluída.
 
 
 
-Airtight Flask
+Frasco Hermético
 Retalho de Fera
 Beast-Steak
 Ambrosial Meat
@@ -3456,7 +3456,7 @@ Rotten Berry
 Rotten Apple
 Rotten Grandgrapes
 Twigbean
-Carrot
+Cenoura
 Pumpkin
 Moldy Twigbean
 Moldy Carrot
@@ -3472,9 +3472,9 @@ Moonglow
 Wilted Blossom
 Greenwarish
 Potent Greenwarish
-Mushroom
-Large Mushroom
-Avernal Mushroom
+Cogumelo
+Cogumelo Grande
+Cogumelo Avernal
 Mithridate
 Bringbout
 Small Nut
@@ -3483,7 +3483,7 @@ Copper Ore
 Silver Ore
 Gold Ore
 Fuligin Ore
-Hemp
+Cânhamo
 Wool-Cloth
 Silk
 Argence
@@ -3491,13 +3491,13 @@ Pine Branch
 Cedar Branch
 Chestnut Branch
 Beech Branch
-Lantern
+Lanterna
 Lantern (Half-Full)
 Ferrystone
-Empty Flask
-Flask of Water
-Flask of Oil
-Kindling
+Frasco Vazio
+Frasco com Água
+Frasco com Óleo
+Graveto
 Item Desconhecido
 Ceramic Jug
 Rock
@@ -3509,20 +3509,20 @@ Item Desconhecido
 Throwblast
 Dragon's Spit
 Item Desconhecido
-Smother Sap
+Seiva Abafadora
 Harspud Milk
 Harspud Juice
 Harspud Sauce
 Interventive
-Spicy Mushroom Tea
+Chá Ardente de Cogumelo
 Light-Cure
 Item Desconhecido
 Panacea
 White Wine
 Red Wine
-Poison Flask
+Frasco com veneno	
 Absorbent Rag
-Clean Cloth
+Pano Limpo
 Item Desconhecido
 Suavizador Secreto
 Liquid Vim
@@ -3986,7 +3986,7 @@ Tunic
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
-Hemp Shirt
+Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
 Linen Shirt
@@ -4066,7 +4066,7 @@ Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
-Hemp Hosen
+Calças de Cânhamo
 Worker's Pants
 Yellow Gaiters
 Half Chain Hosen
@@ -4769,7 +4769,7 @@ Item Desconhecido
 Desiccated Herbs
 Stone-Moss Poultice
 Foreign Medicament
-Pickled Mushrooms
+Cogumelos em Conserva
 Backfat Oil
 Staminal Drench
 Crimson Concoction
@@ -4802,7 +4802,7 @@ Tagilus's Miracle
 Steel Nut Salve
 Salomet's Secret
 Decoction of Bandlily
-Mushroom Potage
+Creme de Cogumelos
 Sobering Wine
 Martyr's Talisman
 Golden Talisman
@@ -4874,7 +4874,7 @@ Nightcry
 Waterfell Gentian Root
 Waterfell Gentian Leaf
 z
-Polar Mushroom
+Cogumelo Polar
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -5438,7 +5438,7 @@ A missão não pode mais ser concluída.
 
 
 Missão bem-sucedida
-Você pegou em armas e saiu da sala.<cf>Recompensa da missão recebida.
+Você pegou suas armas e saiu da sala.<cf>Recompensa da missão recebida.
 
 
 
@@ -7236,7 +7236,7 @@ Shearing Wind
 Toss And Trigger
 Advanced Trigger
  
-Scarlet Kisses
+Sussurros do Carrasco
 Hundred Kisses
 Thousand Kisses
 Dazzle Hold
@@ -7470,7 +7470,7 @@ Holy Grace
  
 Loose
 Quick-Loose
-Threefold Arrow
+Rajada Tripla
 Fivefold Flurry
  
 Triad Shot
@@ -10111,7 +10111,7 @@ A visita do dragão deixou ferimentos e tristeza em seu<cf>rastro. Colete flores
 
 
 Entregue flores para Benita
-Benita precisa de luz solar e luz da lua para<cf>seu cataplasma. Primeiro reúna um pouco de brilho solar<cf>e traga para ela.
+Benita precisa de luz solar e luz da lua para<cf>seu cataplasma. Primeiro reúna um pouco de<cf>brilho solar e traga para ela.
 
 
 
@@ -24757,7 +24757,7 @@ Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
 É hora de você começar sua jornada como<cf>Surgido. Mas antes que você possa ganhar seu coração<cf>de volta do dragão, você precisa se preparar ...
 Comece perguntando ao redor da aldeia por pistas.<cf>Alguém deve ser capaz de apontar você na<cf>direção certa.
-Para saber realmente o que os Arisen pretendem fazer,<cf>provavelmente é melhor seguir a liderança do Pawn.
+Para saber realmente o que os Arisen pretendem fazer,provavelmente é<cf>melhor seguir a liderança do Pawn.
 Finalmente, você saiu da vila de sua<cf>juventude. Pegue as estradas e siga para o acampamento.<cf>
 Mercedes pegou a cabeça da hidra para oferecer<cf>como tributo ao duque. Vá para a Montanha<cf>Waycastle e ajude-a a escoltá-la.
 Existem muitas informações sobre o dragão<cf>que podem ser encontradas em Gran Soren. Participe de algumas missões<cf>e explore a cidade.
@@ -33539,8 +33539,8 @@ Biting Wind
 Cutting Wind
 Toss And Trigger
 Advanced Trigger
-Scarlet Kisses
-Hundred Kisses
+Sussurros do Carrasco
+Cem golpes de Aço
 Dazzle Hold
 Dazzle Blast
 Sprint
@@ -33701,7 +33701,7 @@ Holy Aid
 Holy Grace
 Loose
 Quick-Loose
-Threefold Arrow
+Rajada Tripla 
 Fivefold Flurry
 Triad Shot
 Pentad Shot
@@ -35784,7 +35784,7 @@ Não é possível continuar a missão
 A missão não pode mais ser concluída.
 Se não fosse por aquela besta, meu mestre ainda viveria ...
 Mas ele se foi, enquanto eu permaneço ... sozinho ...
-Airtight Flask
+Frasco Hermético
 Retalho de Fera
 Beast-Steak
 Ambrosial Meat
@@ -35813,7 +35813,7 @@ Rotten Berry
 Rotten Apple
 Rotten Grandgrapes
 Twigbean
-Carrot
+Cenoura
 Pumpkin
 Moldy Twigbean
 Moldy Carrot
@@ -35829,9 +35829,9 @@ Moonglow
 Wilted Blossom
 Greenwarish
 Potent Greenwarish
-Mushroom
-Large Mushroom
-Avernal Mushroom
+Cogumelo
+Cogumelo Grande
+Cogumelo Avernal
 Mithridate
 Bringbout
 Small Nut
@@ -35840,7 +35840,7 @@ Copper Ore
 Silver Ore
 Gold Ore
 Fuligin Ore
-Hemp
+Cânhamo
 Wool-Cloth
 Silk
 Argence
@@ -35848,13 +35848,13 @@ Pine Branch
 Cedar Branch
 Chestnut Branch
 Beech Branch
-Lantern
+Lanterna
 Lantern (Half-Full)
 Ferrystone
-Empty Flask
-Flask of Water
-Flask of Oil
-Kindling
+Frasco Vazio
+Frasco com Água
+Frasco com Óleo
+Graveto
 Item Desconhecido
 Ceramic Jug
 Rock
@@ -35866,20 +35866,20 @@ Item Desconhecido
 Throwblast
 Dragon's Spit
 Item Desconhecido
-Smother Sap
+Seiva Abafadora
 Harspud Milk
 Harspud Juice
 Harspud Sauce
 Interventive
-Spicy Mushroom Tea
+Chá Ardente de Cogumelo
 Light-Cure
 Item Desconhecido
 Panacea
 White Wine
 Red Wine
-Poison Flask
+Frasco com veneno	
 Absorbent Rag
-Clean Cloth
+Pano Limpo
 Item Desconhecido
 Suavizador Secreto
 Liquid Vim
@@ -36343,7 +36343,7 @@ Tunic
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
-Hemp Shirt
+Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
 Linen Shirt
@@ -36423,7 +36423,7 @@ Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
-Hemp Hosen
+Calças de Cânhamo
 Worker's Pants
 Yellow Gaiters
 Half Chain Hosen
@@ -37126,7 +37126,7 @@ Item Desconhecido
 Desiccated Herbs
 Stone-Moss Poultice
 Foreign Medicament
-Pickled Mushrooms
+Cogumelos em Conserva
 Backfat Oil
 Staminal Drench
 Crimson Concoction
@@ -37159,7 +37159,7 @@ Tagilus's Miracle
 Steel Nut Salve
 Salomet's Secret
 Decoction of Bandlily
-Mushroom Potage
+Creme de Cogumelos
 Sobering Wine
 Martyr's Talisman
 Golden Talisman
@@ -37231,7 +37231,7 @@ Nightcry
 Waterfell Gentian Root
 Waterfell Gentian Leaf
 z
-Polar Mushroom
+Cogumelo Polar
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -38281,7 +38281,7 @@ A missão não pode mais ser concluída.
 [Spark Slash/Corona Slash]
 [Arc Of Might/Arc Of Deliverance]
 [Biting Wind/Cutting Wind]
-[Scarlet Kisses/Hundred Kisses]
+[Sussurros do Carrasco/Cem golpes de Aço]
 [Helm Splitter/Skull Splitter]
 [Stepping Stone/Leaping Stone]
 [Shadowpin/Shadowshackle]
@@ -38784,7 +38784,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa<cf>queda resultará em ferimentos - ou morte.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
 <TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
@@ -38796,7 +38796,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
-<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
+<TUTO> Invocar esta pedra pode lhe render novos aliados conhecidos como "Pawns",<cf>cuja lealdade na batalha<cf>nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
 Esta é uma fenda ... um espaço entre os reinos<cf>a partir do qual todo e qualquer tipo de Pawn<cf>pode ser encontrado.
@@ -38816,7 +38816,7 @@ Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
 É hora de você começar sua jornada como<cf>Surgido. Mas antes que você possa ganhar seu coração<cf>de volta do dragão, você precisa se preparar ...
 Comece perguntando ao redor da aldeia por pistas.<cf>Alguém deve ser capaz de apontar você na<cf>direção certa.
-Para saber realmente o que os Arisen pretendem fazer,<cf>provavelmente é melhor seguir a liderança do Pawn.
+Para saber realmente o que os Arisen pretendem fazer,provavelmente é<cf>melhor seguir a liderança do Pawn.
 Finalmente, você saiu da vila de sua<cf>juventude. Pegue as estradas e siga para o acampamento.<cf>
 Mercedes pegou a cabeça da hidra para oferecer<cf>como tributo ao duque. Vá para a Montanha<cf>Waycastle e ajude-a a escoltá-la.
 Existem muitas informações sobre o dragão<cf>que podem ser encontradas em Gran Soren. Participe de algumas missões<cf>e explore a cidade.
@@ -41648,7 +41648,7 @@ Eles são uma ameaça quando bem unidos.
 Silencie o soprador da buzina!
 Cuidado, eles não te cegam!
 Ignore os goblins! Ataque o fogão!
-Hobgoblin! Isto é uminimigo formidável.
+Hobgoblin! Isto é um inimigo formidável.
 Muitos...!
 É território goblin, isso.
 Fique firme. Eles descem sobre<cf>os caídos.
@@ -42285,7 +42285,7 @@ Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
 Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
 O que é essa abominação ?! Tenha cuidado,<cf>cuidado, Mestre!
 Recuar só leva a morte, Arisen!<cf>Vamos abrir caminho à frente!
-Foram os pés de incontáveis ​​peregrinos<cf>que percorreram pela primeira vez esta estrada para o templo.
+Foram os pés de incontáveis ​​peregrinos que percorreram<cf>pela primeira vez esta estrada para o templo.
 Não há outros sobreviventes?
 Monstros destruíram<cf>este lugar ...
 Vamos nos apressar para o ninho do dragão.
@@ -48423,7 +48423,7 @@ O portão está bem fechado. Você sente uma presença do outro lado ...
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa<cf>queda resultará em ferimentos - ou morte.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
 <TUTO> Esta é uma riftstone. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
