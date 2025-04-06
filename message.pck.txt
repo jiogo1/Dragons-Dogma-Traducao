@@ -11358,7 +11358,7 @@ Temos curativos suficientes?
 Muitos bens podem ser mais um obstáculo<cf>do que uma ajuda.
 Mantenha-se vigilante. É sempre melhor vermos nossos<cf>inimigos antes que eles nos vejam.
 Ouça bem, pois poucos são os monstros que<cf>se calam.
-Lucky é o Pawn capaz de lutar ao lado de<cf>Arisen. Eu sou grato.
+Sortudo é o Pawn capaz de lutar ao lado do<cf>Arisen! Eu Sou grato!
 É meu dever compartilhar esta jornada com você,<cf>e uma honra além disso.
 Hmm? Você disse algo, Arisen?
 Como posso atendê-lo?
@@ -34120,7 +34120,7 @@ Prepare-se, Arisen. Eu sinto olhos sobre nós.
 Surgida, a vanguarda marcha sobre a morada do dragão.<cf> Vamos nos apressar e nos juntar a eles!
 Eles precisam da nossa ajuda, mestre!
 Devemos estar seguros aqui por<cf>momento. Mesmo assim, prossiga com cuidado ...
-Um portal para a Fenda, aqui? <cf>Vá e toque naquela pedra.
+Um portal para a Fenda, aqui? <cf>Arisen,vá e toque naquela pedra.
 Este Pawn está sob seu comando,<cf>Arisen.
 Viemos de outro mundo para servir<cf>a você, Arisen, imortal e sem medo.
 Devemos nos juntar a você, mestre.<cf>Avante, para o covil do wyrm.
@@ -42276,7 +42276,7 @@ Vamos prosseguir.
 Eu posso sentir o dragão ... Estamos perto.
 Os restos de um templo, talvez?
 Por aqui para o dragão, Mestre.<cf>Vamos terminar isso.
-Esta aura ... este é o dragão, com certeza.
+Essa aura... isso só pode ser o dragão!
 Até os dragões morrem ... A hora<cf>chegou, Arisen!
 Este é o nosso valor, luta contra o mal do<cf>wyrm ...
 Estamos chegando ao fim da nossa jornada. o destino final <cf> da nossa longa luta...
