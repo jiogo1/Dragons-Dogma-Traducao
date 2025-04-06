@@ -12,9 +12,9 @@ Ele não é um mero viajante, isso é<cf>claro.
 Parece que ele não nos deseja mal.
 Ele parece saber algo deste lugar.
 Ele dança conforme a sua própria música.
-Ele é um tipo astuto.
+Ele é um cara astuto.
 Que missão poderia mantê-lo<cf>aqui?
-Confiemos a ele o fortalecimento de nossas armas.<cf>
+Confiaremos a ele o fortalecimento de nossas armas.<cf>
 Parece que ele oferece serviços de ferreiro que<cf>envergonham os mestres de Gran Soren.
 Não conseguiremos abrir sem uma chave.
 É uma porta muito resistente para arrombar.
@@ -28,7 +28,7 @@ Na verdade, nem lembrava a última vez que havia desembainhado minha arma.
 Entrei para a guarda para lutar contra hordas estrangeiras, não bestas de mitos e lendas.
 É um grande espetáculo colocar homens nas muralhas, mas hoje em dia isso é inútil.
 Gransys há muito tempo fez as pazes com a maioria de seus vizinhos.
-As guerras dos homens pouco importam diante do dragão. Até nossos vizinhos agora oferecem ajuda.
+As guerras do homem pouco importam diante do dragão. Até nossos vizinhos agora oferecem ajuda.
 Receio pela guarda — poucos de nós são veteranos de batalha.
 Prosperamos sob a longa paz do Duque Edmun, mas isso pode ser nossa ruína.
 Outro guarda me perguntou se desertaria com ele quando a hora chegasse...
@@ -3428,13 +3428,13 @@ A missão não pode mais ser concluída.
 
 
 Airtight Flask
-Scrag of Beast
+Retalho de Fera
 Beast-Steak
 Ambrosial Meat
-Sour Scrag of Beast
+Retalho de Fera Azedo
 Sour Beast-Steak
 Sour Ambrosial Meat
-Rotten Scrag of Beast
+Retalho de Fera Podre
 Rotten Beast-Steak
 Rotten Ambrosial Meat
 Small Fish
@@ -3657,13 +3657,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
-Kept Scrag of Beast
+Retalho de Fera Preservado
 Kept Beast-Steak
 Kept Ambrosial Meat
-Kept Sour Scrag of Beast
+Retalho de Fera Azedo Preservado
 Kept Sour Beast-Steak
 Kept Sour Ambrosial Meat
-Kept Rotten Scrag of Beast
+Retalho de Fera Podre Preservado
 Kept Rotten Beast-Steak
 Kept Rotten Ambrosial Meat
 Kept Small Fish
@@ -35785,13 +35785,13 @@ A missão não pode mais ser concluída.
 Se não fosse por aquela besta, meu mestre ainda viveria ...
 Mas ele se foi, enquanto eu permaneço ... sozinho ...
 Airtight Flask
-Scrag of Beast
+Retalho de Fera
 Beast-Steak
 Ambrosial Meat
-Sour Scrag of Beast
+Retalho de Fera Azedo
 Sour Beast-Steak
 Sour Ambrosial Meat
-Rotten Scrag of Beast
+Retalho de Fera Podre
 Rotten Beast-Steak
 Rotten Ambrosial Meat
 Small Fish
@@ -36014,13 +36014,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
-Kept Scrag of Beast
+Retalho de Fera Preservado
 Kept Beast-Steak
 Kept Ambrosial Meat
-Kept Sour Scrag of Beast
+Retalho de Fera Azedo Preservado
 Kept Sour Beast-Steak
 Kept Sour Ambrosial Meat
-Kept Rotten Scrag of Beast
+Retalho de Fera Podre Preservado
 Kept Rotten Beast-Steak
 Kept Rotten Ambrosial Meat
 Kept Small Fish
