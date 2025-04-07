@@ -2175,7 +2175,7 @@ Nas profundezas do Shadow Fort, dizem que se esconde um<cf>ciclope envolto na ar
 Espero por você nas Frontier Caverns.
 Diz-se que uma poderosa cocatriz faz seu kip nas<cf>profundezas do Canyon do Soulflayer. Se surgir e<cf>descer sobre a capital, o dano será<cf>incomensurável. Devemos cuidar para que ele nunca desperte.
 Relatos de vendedores ambulantes e Pawns atacados por<cf>ciclopes se tornaram um assunto diário. O duque<cf>despachou uma força de Gran Soren, mas os brutos<cf>são numerosos. Houve avistamentos<cf>perto das cataratas e no sul. Vá<cf>e diminua suas fileiras.
-Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados ​​enquanto um<cf>compete contra o outro. Eles não veem<cf>que agora é a hora de se unirem contra<cf>o wyrm? Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
+Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados<cf>​​enquanto um compete contra o outro. Eles não veem<cf>que agora é a hora de se unirem contra<cf>o wyrm? Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
 É um tolo que considera os goblins um<cf>incômodo inofensivo. O que não representa uma ameaça para um soldado<cf>armado ainda pode matar uma mulher ou criança. Eles<cf>possuem força em números, e mostram uma<cf>ousadia perturbadora, além disso. Se quisermos<cf>desencorajá-los, precisaremos reduzir um bom número<cf>aqui.
 Alguns afirmam que os goblins já foram criaturas dóceis,<cf>embora eu duvide em olhar para os demônios agora.<cf>Eles se tornaram especialmente ousados ​​no final do<cf>sul. Se eles não derem ouvidos à razão, o aço<cf>frio será suficiente.
 Há muitos rumores de que os homens mortos na batalha<cf>tornaram-se mortos-vivos não muito depois. Não posso<cf>deixar de sentir pena que essas pobres almas<cf>tenham sido roubadas até a morte ... Por favor, entregue-lhes<cf>um descanso pacífico - e final.
@@ -16120,7 +16120,7 @@ Certo, vamos ver.
 Este aqui, sim?
 Como você quiser.
 Receio que não.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 Por mais forte que você seja, ainda é humano. Há um limite para o que se pode fazer.
 A quem recorrer?
 De que adianta correr atrás de moedas quando o dragão veio para nos transformar em cinzas?
@@ -20351,8 +20351,8 @@ A missão não pode mais ser concluída.
 
 Não tenho vontade de quase nada, verdade seja dita.
 Isso é horrível ... Pior do que eu temia.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 Não chore por mim, pois eu dou as boas-vindas à libertação.
 Finalmente, estou livre da eternidade ... Do infinito ...
 Livre do anel cruel e interminável!
@@ -21317,7 +21317,7 @@ Para honrar seus nobres trabalhos, você é bem-vindo à Caçada à Wyrm.
 Agora você pode aceitar ordens de Sr. Maximilian, Capitão da Caçada.
 Traga este mandado para Sr. Maximilian, fora dos portões do castelo. Ele irá instruí-lo ainda mais.
 Esse documento confere a você o status de caçador. Leve-o sempre consigo.
-Uma nuvem de inquietoação paira sobre a terra atualmente.
+Uma nuvem de inquietação paira sobre o mundo hoje.
 A quem recorrer?
 Não tenho vontade de quase nada, verdade seja dita.
 A quem recorrer?
@@ -22778,7 +22778,7 @@ Ah, trouxe o resto deles, não é? Meu obrigado, prima.
 Tudo o que resta é encontrar um pouco de Moonglow. Uma pitada misturada com estes dará um ótimo remédio.
 Sim, é esse mesmo! Você encontrou!
 Moonglow tornou-se raro nestas partes ultimamente. É um alívio ver isso.
-Bom, são os dois. Na verdade, estou surpreso ao ver que eles ficaram tão rapidamente.
+Bom, são as duas. Na verdade, estou surpreso ao ver que elas tão rapidamente.
 Vou trabalhar diretamente. Com sorte, teremos todos de volta à saúde em breve. É coisa sua, primo.
 Temo que haja pouco que eu possa lhe oferecer em agradecimento, exceto isso. Por favor, pegue. Agora, para fazer um remédio!
 Graças a você, os feridos pelo dragão estão bem e curados.
@@ -24766,7 +24766,7 @@ Você não pode permitir que os enredos do Elysion<cf>aconteçam. Vá para Great
 Você derrubou o dragão e completou<cf>seu objetivo! Relate sua vitória para os<cf>aldeões.
 Você derrubou o dragão, mas o que<cf>aconteceu com Gran Soren? Depois de falar com<cf>os aldeões, é melhor ver por si mesmo.
 Você progride no jogo completando missões.<cf>Sempre converse com as pessoas que você encontrar.<cf>Eles certamente terão algo para você fazer.
-Se você chegou a um impasse em uma missão, tente<cf>defini-la como sua missão prioritária para garantir que<cf>receba dicas e informações úteis.
+Se você chegou a um impasse em uma missão,<cf>tente defini-la como sua missão prioritária <cf>para garantir que receba dicas e informações<cf>úteis.
 Diferentes Pawns têm diferentes forças, então<cf>use Pawns de suporte para ajustar seu grupo para atender<cf>suas necessidades atuais.
 Ecbal, localizado no quartel-general de comando<cf>do acampamento, fornece muitas funções de suporte<cf>diferentes para aventureiros.
 Fale com ele para descansar e curar suas feridas,<cf>aprender e habilitar habilidades úteis com armas ou<cf>armazenar itens em excesso.
@@ -30811,7 +30811,7 @@ Compartilhamos essas estradas com vendedores ambulantes<cf>, guardas e outras pe
 Os aldeões ficarão felizes em ver<cf>você em casa novamente, Arisen.
 Bem resistente, este lugar ...
 Construído para manter os goblins afastados, devo<cf>pensar.
-Este acampamento serve como um excelente baluarte<cf>contra monstros.
+Este acampamento serve como um excelente<cf>baluartecontra monstros.
 Atrevo-me a dizer que esta estrada raramente é usada por<cf>civis.
 Eu rezo para que os monstros do dia não<cf>assombrem as estradas não esteja longe.
 Estamos prontos para encontrar bandidos e ladrões<cf>tão frequentemente quanto vendedores ambulantes, Mestre. Esteja atento.
@@ -31823,7 +31823,7 @@ Foi retirado dos goblins, com certeza, mas eles dizem que nenhum homem ainda exi
 E agora há histórias de uma voz misteriosa e um monstro gigante, nada menos. É uma bagunça certa!
 Pouca misericórdia de saber que a capital não é o único lugar atormentado por tais males ...
 Fala-se de monstros emergindo das águas rasas ao longo da costa.
-Coisas desagradáveis ​​também. A Salmoura, eles os chamam ... Eles dizem que são muitos e ainda um, seja o que for que isso signifique.
+Coisas desagradáveis ​​também. A Salmoura, eles os chamam ...<cf>Eles dizem que são muitos e ainda um, seja o que for que isso signifique.
 Parece que esta "salmoura" não pode ser superada, o que é mais. Nada a fazer a não ser evitar a beira da água.
 Os tempos estão realmente difíceis ...
 Tenho um mau pressentimento sobre isso ...
@@ -38825,7 +38825,7 @@ Você não pode permitir que os enredos do Elysion<cf>aconteçam. Vá para The G
 Você derrubou o dragão e completou<cf>seu objetivo! Relate sua vitória para os<cf>aldeões.
 Você derrubou o dragão, mas o que<cf>aconteceu com Gran Soren? Depois de falar com<cf>os aldeões, é melhor ver por si mesmo.
 Você progride no jogo<cf>completando missões. Sempre converse com as<cf>pessoas que você encontrar. Eles certamente terão<cf>algo para você fazer.
-Se você chegou a um impasse em uma missão, tente<cf>defini-la como sua missão prioritária para garantir que<cf>receba dicas e informações úteis.
+Se você chegou a um impasse em uma missão,<cf>tente defini-la como sua missão prioritária <cf>para garantir que receba dicas e informações<cf>úteis.
 Diferentes Pawns têm diferentes forças, então<cf>use Pawns de suporte para ajustar seu grupo para atender<cf>suas necessidades atuais.
 Ecbal, localizado no quartel-general de comando<cf>do acampamento, fornece muitas funções de suporte<cf>diferentes para aventureiros.
 Fale com ele para descansar e curar suas feridas,<cf>aprender e habilitar habilidades úteis com armas ou<cf>armazenar itens em excesso.
