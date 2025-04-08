@@ -1,6 +1,7 @@
 # **🐉 Bem-vindo ao Projeto de Revisão de *Dragon's Dogma*!**  
-*(Organizado pela **Amianto Traduções**)*  
-
+*(Revisado por jiogo1)*  
+(A versão de revisão do meu fork, possui melhorias gerais feitas a dedo por mim)
+ **Deixo meus agradecimentos a **Amianto Traduções** por deixar a tradução em código aberto**
 🔍 **Estamos revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
 
 ---
