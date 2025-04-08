@@ -111,7 +111,7 @@ Gransys
 Qual marcador de ponto de passagem você gostaria de colocar?
 Parece que o Olhar do Dragão perdeu seu poder.
 Parece que este item perdeu seu poder.
-Depois de aceitar uma missão, primeiro observe o<cf>marcador de missão  em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.
+Depois de aceitar uma missão, primeiro<cf>observe o marcador de missão  em seu mapa.<cf>Em seguida, continue procurando os itens necessários ou as informações.
 Os marcadores de missão variam de acordo com o tempo, a localização<cf>e as ações do seu alvo.
 Se você chegou a um impasse em uma missão,<cf>por que não tenta progredir em outra?<cf>Você pode encontrar uma solução para seu problema<cf>inicial.
 Desloque o mapa com <SIZE 24><ICON PAD_LS></SIZE>.
@@ -418,7 +418,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -1365,7 +1365,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -1737,7 +1737,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -1977,7 +1977,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -3003,7 +3003,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -4890,7 +4890,7 @@ Thornflower
 Chaffstem
 Nurse Log Sap
 Item Desconhecido
-Gransys Herb
+Erva de Gransys
 Toadstool Sitter
 Spiny Nut
 Loneflower
@@ -6184,7 +6184,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -7059,7 +7059,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -7765,7 +7765,7 @@ Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada<cf>derrotando monstros ou explorando o ambiente.<cf> Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Derrotar inimigos e completar missões<cf>dá a você experiência, e cada nível<cf>ganho aumenta todos os seus atributos.
@@ -7809,7 +7809,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -8159,7 +8159,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -8402,7 +8402,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -8545,7 +8545,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -9431,7 +9431,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -12309,7 +12309,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -15974,7 +15974,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -18582,7 +18582,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -22771,15 +22771,15 @@ Você mesmo tem outras coisas a fazer, sem dúvida, mas é por uma boa causa. Vi
 Você não vai deixar a tarefa pela metade, certo? Boa. Deixo o assunto em suas mãos.
 Sim, é esse mesmo. Agora eu preciso do outro, Sr.
 Não temos tempo a perder. Por favor, apresse-se.
-Os feridos precisam de remédios, prima. Por favor, traga as flores para o complexo, o mais rápido que puder.
-A mistura pede dois tipos de flores. Fale com os outros para mais informações sobre isso.
-Peço-lhe este favor porque confio em você, bom pescador. Eu sei que você não vai deixar essas pessoas sofrerem.
-Ah, trouxe o resto deles, não é? Meu obrigado, prima.
+Os feridos precisam de remédios, primo. Por favor, traga as flores para o complexo, o mais rápido que puder.
+A mistura precisa de dois tipos de flores. Fala com os outros pra saber mais sobre isso.
+Te peço esse favor porque confio em você, pescador. Sei que você não vai deixar essa gente sofrer.
+Ah, trouxe o resto deles, não é? Muito obrigado, primo.
 Tudo o que resta é encontrar um pouco de Moonglow. Uma pitada misturada com estes dará um ótimo remédio.
-Sim, é esse mesmo! Você encontrou!
+Sim, é essa mesmo! Você a encontrou!
 Moonglow tornou-se raro nestas partes ultimamente. É um alívio ver isso.
-Bom, são as duas. Na verdade, estou surpreso ao ver que elas tão rapidamente.
-Vou trabalhar diretamente. Com sorte, teremos todos de volta à saúde em breve. É coisa sua, primo.
+Bom, são as duas. Na verdade, estou surpresa de ver que as encontrou tão rápido.
+Vou trabalhar diretamente. Com sorte, todos estarão de volta à saúde em breve. Isso é obra tua, primo.
 Temo que haja pouco que eu possa lhe oferecer em agradecimento, exceto isso. Por favor, pegue. Agora, para fazer um remédio!
 Graças a você, os feridos pelo dragão estão bem e curados.
 Tanto quanto qualquer remédio, foi a visão de você lutando pelo bem da aldeia que os curou, se quer saber.
@@ -24300,7 +24300,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -24574,7 +24574,7 @@ Mudar de equipamento
 Esquece.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada<cf>derrotando monstros ou explorando o ambiente.<cf> Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com  <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Depois de atingir um determinado nível,<cf>você pode ir para a pousada para realizar<cf>vocações avançadas.
@@ -24631,7 +24631,7 @@ Cada vocação acumula seu próprio<cf>disciplina separada total.
 Pontos de disciplina podem ser gastos para<cf>aprender habilidades e aprimoramentos úteis.
 Habilidades e aprimoramentos devem ser habilitados em<cf>para fazer uso deles.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Você pode encontrar lojas ou mercadores viajantes<cf>vendendo produtos especialmente raros.
 Alguns vendedores ambulantes só aceitam Rift Crystals.<cf>Eles geralmente carregam itens incomuns que você<cf>não verá à venda em nenhum outro lugar.
 Você pode correr clicando em <TUTO><SIZE 24><ICON PAD_L3></SIZE>,<cf>durante e fora do combate.
@@ -24663,7 +24663,7 @@ Se o seu grupo estiver sobrecarregado, fale com um<cf>guardião do armazém para
 Qualquer coisa armazenada pode ser recuperada de<cf>qualquer depósito do mundo.
 Você também pode enviar itens para o armazenamento de qualquer local de descanso.<cf> Mantenha seu inventário limpo e<cf>organizado e evite ser sobrecarregado.
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
 Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
@@ -24748,10 +24748,10 @@ Se algum chamar sua atenção, fale com<cf>o Pawn para alistá-lo ao seu grupo.
 Você pode contratar apenas dois Pawns para o seu grupo<cf>de cada vez. Eles podem então ser<cf>dispensados ​​falando com eles novamente.
 Com dinheiro e os materiais certos,<cf>todas as armas e armaduras, exceto joias<cf>, podem ser aprimoradas.
 Se você não tiver materiais suficientes<cf>em mãos, o restante será automaticamente<cf>retirado de seu inventário.
-Depois de aceitar uma missão, primeiro observe o<cf>marcador de missão  em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.
+Depois de aceitar uma missão, primeiro<cf>observe o marcador de missão  em seu mapa.<cf>Em seguida, continue procurando os itens necessários ou as informações.
 Os marcadores de missão variam de acordo com o tempo, a localização<cf>e as ações do seu alvo.
 Se você chegou a um impasse em uma missão,<cf>por que não tenta progredir em outra?<cf>Você pode encontrar uma solução para seu problema<cf>inicial.
-Quando os inimigos parecerem demais para controlar, tente<cf>ganhar níveis ou obter equipamentos melhores.
+Quando os inimigos parecerem demais para<cf>controlar, tente ganhar níveis ou obter<cf>equipamentos melhores.
 Se suas estratégias parecem inúteis contra<cf>seus inimigos, tente mudar a composição do seu grupo, habilidades habilitadas para<cf>e equipamento.
 Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
@@ -24790,7 +24790,7 @@ Quando você não tiver certeza de como proceder ou<cf>não conseguir derrotar u
 Procure por novos locais, equipamentos ou itens não experimentados<cf>e pessoas que você nunca conheceu. Conforme<cf>você aprende, mais experiências estarão disponíveis.
 Não existe uma maneira "certa" de completar esta<cf>aventura. Prepare-se para tentar<cf>derrotar o dragão e abrir seu próprio caminho.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Dar aos Pawns curativos para segurar permitirá que<cf>eles os usem a seu próprio critério.
+Dar aos Pawns curativos para segurar,permitirá que<cf>eles os usem a seu próprio critério.
 Além do nível de atenção e das habilidades<cf>disponíveis, o conhecimento de um Pawn é outra parte<cf>importante da criação de um grupo<cf>eficaz.
 Pawns com conhecimento apropriado de missões<cf>ou inimigos podem fornecer conselhos úteis e estratégias de batalha.<cf>
 Você pode dar instruções sobre como gostaria que<cf>eles agissem na batalha e enquanto estiverem no campo.
@@ -25303,7 +25303,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -27251,7 +27251,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -30811,7 +30811,7 @@ Compartilhamos essas estradas com vendedores ambulantes<cf>, guardas e outras pe
 Os aldeões ficarão felizes em ver<cf>você em casa novamente, Arisen.
 Bem resistente, este lugar ...
 Construído para manter os goblins afastados, devo<cf>pensar.
-Este acampamento serve como um excelente<cf>baluartecontra monstros.
+Este acampamento serve como um excelente<cf>baluarte contra monstros.
 Atrevo-me a dizer que esta estrada raramente é usada por<cf>civis.
 Eu rezo para que os monstros do dia não<cf>assombrem as estradas não esteja longe.
 Estamos prontos para encontrar bandidos e ladrões<cf>tão frequentemente quanto vendedores ambulantes, Mestre. Esteja atento.
@@ -32619,7 +32619,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -35261,7 +35261,7 @@ Se o seu grupo estiver sobrecarregado, fale com um<cf>guardião do armazém para
 Qualquer coisa armazenada pode ser recuperada de<cf>qualquer depósito do mundo.
 Você também pode enviar itens para o armazenamento de qualquer local de descanso.<cf> Mantenha seu inventário limpo e<cf>organizado e evite ser sobrecarregado.
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
 Clique em <SIZE 24><ICON PAD_R3></SIZE> para redefinir<cf>a posição da câmera.
@@ -35285,7 +35285,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -35308,7 +35308,7 @@ Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido pa
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
-Uma variedade de itens úteis pode ser encontrada<cf>derrotando monstros ou explorando o ambiente.<cf> Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
 Oof.
 Guh!
 Uaaaugh ...
@@ -37247,7 +37247,7 @@ Thornflower
 Chaffstem
 Nurse Log Sap
 Item Desconhecido
-Gransys Herb
+Erva de Gransys
 Toadstool Sitter
 Spiny Nut
 Loneflower
@@ -37926,7 +37926,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -38633,7 +38633,7 @@ Que criatura vil e insignificante é o homem ...
 Eu te peço, afie seu espírito. Refine-o.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada<cf>derrotando monstros ou explorando o ambiente.<cf> Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com  <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Depois de atingir um determinado nível,<cf>você pode ir para a pousada para realizar<cf>vocações avançadas.
@@ -38690,7 +38690,7 @@ Cada vocação acumula seu próprio<cf>disciplina separada total.
 Pontos de disciplina podem ser gastos para<cf>aprender habilidades e aprimoramentos úteis.
 Habilidades e aprimoramentos devem ser habilitados em<cf>para fazer uso deles.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Você pode encontrar lojas ou mercadores viajantes<cf>vendendo produtos especialmente raros.
 Alguns vendedores ambulantes só aceitam Rift Crystals.<cf>Eles geralmente carregam itens incomuns que você<cf>não verá à venda em nenhum outro lugar.
 Você pode correr clicando em <TUTO><SIZE 24><ICON PAD_L3></SIZE>,<cf>durante e fora do combate.
@@ -38722,7 +38722,7 @@ Se o seu grupo estiver sobrecarregado, fale com um<cf>guardião do armazém para
 Qualquer coisa armazenada pode ser recuperada de<cf>qualquer depósito do mundo.
 Você também pode enviar itens para o armazenamento de qualquer local de descanso.<cf> Mantenha seu inventário limpo e<cf>organizado e evite ser sobrecarregado.
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 Equipar armadura destinada a guerreiros de nível<cf>significativamente mais alto que o seu próprio<cf>drenará seu Vigor mais rapidamente.
 Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
@@ -38807,10 +38807,10 @@ Se algum chamar sua atenção, fale com<cf>o Pawn para alistá-lo ao seu grupo.
 Você pode contratar apenas dois Pawns para o seu grupo<cf>de cada vez. Eles podem então ser<cf>dispensados ​​falando com eles novamente.
 Com dinheiro e os materiais certos,<cf>todas as armas e armaduras, exceto joias<cf>, podem ser aprimoradas.
 Se você não tiver materiais suficientes<cf>em mãos, o restante será automaticamente<cf>retirado de seu inventário.
-Depois de aceitar uma missão, primeiro observe o<cf>marcador de missão  em seu mapa. Em seguida, continue<cf>procurando os itens necessários ou as informações.
+Depois de aceitar uma missão, primeiro<cf>observe o marcador de missão  em seu mapa.<cf>Em seguida, continue procurando os itens necessários ou as informações.
 Os marcadores de missão variam de acordo com o tempo, a localização<cf>e as ações do seu alvo.
 Se você chegou a um impasse em uma missão,<cf>por que não tenta progredir em outra?<cf>Você pode encontrar uma solução para seu problema inicial.
-Quando os inimigos parecerem demais para controlar, tente<cf>ganhar níveis ou obter equipamentos melhores.
+Quando os inimigos parecerem demais para<cf>controlar, tente ganhar níveis ou obter<cf>equipamentos melhores.
 Se suas estratégias parecem inúteis contra seus inimigos,<cf>tente mudar a composição do seu grupo, habilidades habilitadas para e equipamento.
 Para receber os efeitos das magias curativas,<cf>entre na área da luz de cura.
 Agora você pode assumir as missões de<cf>Caça à Wyrm. Vá para os portões do castelo no<cf>bairro nobre de Gran Soren e fale com Sr.Maximilian.
@@ -38849,7 +38849,7 @@ Quando você não tiver certeza de como proceder ou<cf>não conseguir derrotar u
 Procure por novos locais, equipamentos ou itens não experimentados<cf>e pessoas que você nunca conheceu. Conforme<cf>você aprende, mais experiências estarão disponíveis.
 Não existe uma maneira "certa" de completar esta<cf>aventura. Prepare-se para tentar<cf>derrotar o dragão e abrir seu próprio caminho.
 Equipar armas destinadas a aventureiros de nível<cf>significativamente mais alto do que o seu próprio<cf>drenará seu Vigor mais rapidamente.
-Dar aos Pawns curativos para segurar permitirá que<cf>eles os usem a seu próprio critério.
+Dar aos Pawns curativos para segurar,permitirá que<cf>eles os usem a seu próprio critério.
 Além do nível de atenção e das habilidades<cf>disponíveis, o conhecimento de um Pawn é outra parte<cf>importante da criação de um grupo<cf>eficaz.
 Pawns com conhecimento apropriado de missões<cf>ou inimigos podem fornecer conselhos úteis e estratégias de batalha.<cf>
 Você pode dar instruções sobre como gostaria que<cf>eles agissem na batalha e enquanto estiverem no campo.
@@ -40115,7 +40115,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -40495,7 +40495,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -40874,7 +40874,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -41249,7 +41249,7 @@ Se o seu grupo estiver sobrecarregado, fale com um<cf>guardião do armazém para
 Qualquer coisa armazenada pode ser recuperada de<cf>qualquer depósito do mundo.
 Você também pode enviar itens para o armazenamento de qualquer local de descanso.<cf> Mantenha seu inventário limpo e<cf>organizado e evite ser sobrecarregado.
 Se um Pawn possuir o conhecimento<cf>e as habilidades corretas, ele poderá ajudá-lo<cf>em ataques conjuntos.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 É somente aqui que você pode habilitar as habilidades<cf>e aprimoramentos que aprender. Você não pode alterá-los no campo.
 Habilidades básicas são habilitadas assim que<cf>são aprendidas.
 Verifique o menu Opções para alternar entre<cf>ou não o seu minimapa girar conforme você gira.
@@ -41273,7 +41273,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -43299,7 +43299,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -43850,7 +43850,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -44262,7 +44262,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -48440,7 +48440,7 @@ Uma grande porta ... Abre por algum interruptor, mais parecido.
 Nenhuma outra resposta, ao que parece.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Selecione "Status" no menu de pausa para<cf>ver os detalhes de sua condição atual.
-Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar - e escalar<cf>em - monstros maiores, com algum custo<cf>em seu Vigor.
+Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
 Clique em <TUTO><SIZE 24><ICON PAD_L3></SIZE> para correr.<cf>Qualquer lugar fora das cidades,<cf>correr consumirá Vigor.
 Você pode controlar a câmera com <SIZE 23><ICON PAD_RS></SIZE>.
@@ -48454,7 +48454,7 @@ Além de armas e armaduras, você também pode<cf>equipar acessórios com certas
 Apenas uma joia e uma única capa<cf>podem ser equipadas como acessórios<cf>por vez.
 Uma carga pesada fará com que sua resistência<cf>se esgote mais rapidamente. Venda ou descarte<cf>todo e qualquer item de que você não precisa mais.
 Sua lanterna consome óleo. Se escurecer,<cf>use um frasco de óleo para reabastecê-lo.
-Alguns itens podem ser combinados com outros para<cf>produzir resultados surpreendentes. Experimente e<cf>veja o que você descobriu.
+Alguns itens podem ser combinados com outros para produzir resultados surpreendentes.<cf>Experimente e veja o que você descobriu.
 Coloque marcadores de waypoint em seu mapa para<cf>acompanhar seu progresso.
 Se você se esqueceu de onde está na história,<cf>selecione "Crônica" no Menu de Pausa para<cf>revisar a história de sua jornada até o momento.
 Selecione "Opções" no Menu de Pausa para<cf>personalizar seu minimapa e exibição de status.
@@ -49900,7 +49900,7 @@ Midnight Helix
 Tower of Treasons Repaid
 Bitterblack Sanctum
 Solicitar placa
-pedra do abismo Quebrada
+Pedra do abismo quebrada
 Banco de descanso
 Monumento da Memória
 Para Bitterblack Isle
