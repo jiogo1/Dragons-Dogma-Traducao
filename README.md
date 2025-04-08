@@ -1,4 +1,4 @@
-# **🐉 Bem-vindo ao Projeto de Tradução de *Dragon's Dogma*!**  
+# **🐉 Bem-vindo ao Projeto de Revisão de *Dragon's Dogma*!**  
 *(Organizado pela **Amianto Traduções**)*  
 
 🔍 **Estamos revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
