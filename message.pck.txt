@@ -3477,8 +3477,8 @@ Cogumelo Grande
 Cogumelo Avernal
 Mithridate
 Bringbout
-Small Nut
-Large Nut
+Noz Pequena
+Noz Grande
 Copper Ore
 Silver Ore
 Gold Ore
@@ -3492,18 +3492,18 @@ Cedar Branch
 Chestnut Branch
 Beech Branch
 Lanterna
-Lantern (Half-Full)
+Lanterna (Meio-Cheia)
 Ferrystone
 Frasco Vazio
 Frasco com Água
 Frasco com Óleo
 Graveto
 Item Desconhecido
-Ceramic Jug
+Jarro de Cerâmica
 Rock
 Skull
-Pickaxe
-Lantern (No Fuel)
+Picareta
+Lanterna (Sem óleo)
 Item Desconhecido
 Item Desconhecido
 Throwblast
@@ -3560,13 +3560,13 @@ Item Desconhecido
 Wooden Arrow
 Poison Arrow
 Blinder Arrow
-Silencer Arrow
+Flecha Silenciadora
 Sleeper Arrow
 Oil Arrow
 z
 Petrifying Arrow
 Item Desconhecido
-Blast Arrow
+Flecha Explosiva
 Maker's Finger
 Item Desconhecido
 First Key To Salvation
@@ -3611,7 +3611,7 @@ Shadow Fort Lever
 Wyrmward Perfume
 Item Desconhecido
 Item Desconhecido
-Seeker's Token
+Tokens do Buscador
 Badge of Vows
 Item Desconhecido
 Engraved Lever
@@ -3931,7 +3931,7 @@ Item Desconhecido
 Item Desconhecido
 Griffinbane
 Repeller Bow
-Rusted Bow
+Arco Enferrujado
 Plain Longbow
 Reinforced Longbow
 Bespoke Longbow
@@ -3978,8 +3978,8 @@ Stagnant Surge
 Thousandlimbs
 White Hawk's Talon
 Item Desconhecido
-Plebian Shirt
-Cloth Greaves
+Camisa Plebeia
+Grevas de Tecido
 Faded Vest
 Traveler's Shirt
 Tunic
@@ -4002,7 +4002,7 @@ Bliaut
 Light Outfit
 Iron Vest
 Blessed Vest
-Brigandine Jerkin
+Túnica de Brigandina
 Hard Leather Plate
 Trooper Outfit
 Item Desconhecido
@@ -4030,7 +4030,7 @@ Item Desconhecido
 Item Desconhecido
 Illusory Broadsword
 Illusory Mark of the Chimera
-Illusory Brigandine Jerkin
+Túnica Ilusória de Brigandina
 Illusory Laborer's Breeches
 Illusory Divine Surcoat
 Illusory Shadow Gauntlets
@@ -4061,7 +4061,7 @@ Illusory Runic Bangles
 Illusory Leather Shoes
 Short Pants
 Traveler's Tights
-Cotton Hosen
+Calças de Algodão
 Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
@@ -4412,7 +4412,7 @@ Bronze Sabatons
 Fur & Cuisses
 Riveted Boots
 Blue Longkilt
-Dusk Shoes
+Sapatos do Crepúsculo
 Steel Sabatons
 Battle Greaves
 Downcuffs & Cuisses
@@ -4485,11 +4485,11 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Leather Cape
+Capa de Couro
 Shed Cape
 Shoulder Cape
 Ebon Neck Wrap
-Scholar's Cape
+Capa do Erudito
 Mahogany Cape
 Direwolf Cape
 Adventurer's Cloak
@@ -4646,7 +4646,7 @@ Quill
 Wooden Board
 Tray
 Sconce
-Blank Scroll
+Pergaminho em Branco
 Broom
 Ancient Scroll
 Shackle
@@ -4912,7 +4912,7 @@ Cursed Carving
 Snakeskin Purse
 Priceless Artifact
 Brick
-Festival Pie
+Torta de Festival
 Gran Soren Rubble
 Noonflower
 Item Desconhecido
@@ -5271,7 +5271,7 @@ Item Desconhecido
 Expediting Papers
 Item Desconhecido
 Item Desconhecido
-Light Pickaxe
+Picareta Leve
 Staff-Bearer's Ring (DL)
 Item Desconhecido
 Swordsman's Ring (DL)
@@ -12972,7 +12972,7 @@ Uma garra irrestrita de metal alquímico dourado.<cf> Vale um pouco de dinheiro,
 Uma Garra Unfettered untada que molha<cf>tudo o que atinge no óleo.
 Uma vara de marfim fixada com uma pedra<cf>enfeitiçada que amplifica o poder mágico de<cf>qualquer feitiço.
 Um cajado requintado digno de seu homônimo.<cf>Cheio a ponto de quase explodir com o poder mágico<cf>do dragão.
-Uma haste com acabamento em ferro. Pesado na mão<cf>, mas facilmente manejado por conjuradores de<cf>todos os tipos.
+Uma haste com acabamento em ferro.<cf>Pesado namão, mas facilmente manejado por conjuradores<cf>de todos os tipos.
 Uma haste com acabamento em metais finos. Sua cabeça cravejada de<cf>e seus potentes recursos tornam o<cf>uma escolha popular.
 Uma Graça Tácita de metal alquímico dourado.<cf> Vale um pouco de dinheiro, mas<cf>de outra forma normal.
 Uma Graça Tácita untada que banha<cf>qualquer coisa que atinge em óleo.
@@ -22908,7 +22908,7 @@ Aproxime-se da voz que acena do centro<cf>do acampamento.
 
 
 Faça o lance do Rift
-Encontre o número necessário de Seeker's Tokens e<cf>entregue-os na fenda.
+Encontre o número necessário de Tokens do Buscadors e<cf>entregue-os na fenda.
 
 
 
@@ -35834,8 +35834,8 @@ Cogumelo Grande
 Cogumelo Avernal
 Mithridate
 Bringbout
-Small Nut
-Large Nut
+Noz Pequena
+Noz Grande
 Copper Ore
 Silver Ore
 Gold Ore
@@ -35849,18 +35849,18 @@ Cedar Branch
 Chestnut Branch
 Beech Branch
 Lanterna
-Lantern (Half-Full)
+Lanterna (Meio-Cheia)
 Ferrystone
 Frasco Vazio
 Frasco com Água
 Frasco com Óleo
 Graveto
 Item Desconhecido
-Ceramic Jug
+Jarro de Cerâmica
 Rock
 Skull
-Pickaxe
-Lantern (No Fuel)
+Picareta
+Lanterna (Sem óleo)
 Item Desconhecido
 Item Desconhecido
 Throwblast
@@ -35917,13 +35917,13 @@ Item Desconhecido
 Wooden Arrow
 Poison Arrow
 Blinder Arrow
-Silencer Arrow
+Flecha Silenciadora
 Sleeper Arrow
 Oil Arrow
 z
 Petrifying Arrow
 Item Desconhecido
-Blast Arrow
+Flecha Explosiva
 Maker's Finger
 Item Desconhecido
 First Key To Salvation
@@ -35968,7 +35968,7 @@ Shadow Fort Lever
 Wyrmward Perfume
 Item Desconhecido
 Item Desconhecido
-Seeker's Token
+Tokens do Buscador
 Badge of Vows
 Item Desconhecido
 Engraved Lever
@@ -36288,7 +36288,7 @@ Item Desconhecido
 Item Desconhecido
 Griffinbane
 Repeller Bow
-Rusted Bow
+Arco Enferrujado
 Plain Longbow
 Reinforced Longbow
 Bespoke Longbow
@@ -36335,8 +36335,8 @@ Stagnant Surge
 Thousandlimbs
 White Hawk's Talon
 Item Desconhecido
-Plebian Shirt
-Cloth Greaves
+Camisa Plebeia
+Grevas de Tecido
 Faded Vest
 Traveler's Shirt
 Tunic
@@ -36359,7 +36359,7 @@ Bliaut
 Light Outfit
 Iron Vest
 Blessed Vest
-Brigandine Jerkin
+Túnica de Brigandina
 Hard Leather Plate
 Trooper Outfit
 Item Desconhecido
@@ -36387,7 +36387,7 @@ Item Desconhecido
 Item Desconhecido
 Illusory Broadsword
 Illusory Mark of the Chimera
-Illusory Brigandine Jerkin
+Túnica Ilusória de Brigandina
 Illusory Laborer's Breeches
 Illusory Divine Surcoat
 Illusory Shadow Gauntlets
@@ -36418,7 +36418,7 @@ Illusory Runic Bangles
 Illusory Leather Shoes
 Short Pants
 Traveler's Tights
-Cotton Hosen
+Calças de Algodão
 Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
@@ -36769,7 +36769,7 @@ Bronze Sabatons
 Fur & Cuisses
 Riveted Boots
 Blue Longkilt
-Dusk Shoes
+Sapatos do Crepúsculo
 Steel Sabatons
 Battle Greaves
 Downcuffs & Cuisses
@@ -36842,11 +36842,11 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Leather Cape
+Capa de Couro
 Shed Cape
 Shoulder Cape
 Ebon Neck Wrap
-Scholar's Cape
+Capa do Erudito
 Mahogany Cape
 Direwolf Cape
 Adventurer's Cloak
@@ -37003,7 +37003,7 @@ Quill
 Wooden Board
 Tray
 Sconce
-Blank Scroll
+Pergaminho em Branco
 Broom
 Ancient Scroll
 Shackle
@@ -37269,7 +37269,7 @@ Cursed Carving
 Snakeskin Purse
 Priceless Artifact
 Brick
-Festival Pie
+Torta de Festival
 Gran Soren Rubble
 Noonflower
 Item Desconhecido
@@ -37628,7 +37628,7 @@ Item Desconhecido
 Expediting Papers
 Item Desconhecido
 Item Desconhecido
-Light Pickaxe
+Picareta Leve
 Staff-Bearer's Ring (DL)
 Liftstone (DL)
 Swordsman's Ring (DL)
@@ -45996,12 +45996,12 @@ Itens frequentemente usados em<cf>aventuras e batalhas.
 Os itens podem ser combinados ou usados​​<cf>para aprimorar armas e armaduras.
 Itens essenciais para sua missão.
 Itens variados.
-Armamentos empunhados com uma ou ambas<cf>as mãos.
-Armadura para o rosto e a cabeça.
-Armadura e vestimenta para a área do peito.
-Armadura para mãos e braços.
-Armadura e vestimenta para as pernas.
-Joias e mantos com poderes especiais.
+Armas empunhadas com uma ou<cf>duas mãos
+Armadura para o rosto e a cabeça
+Armadura e roupas para a região do peito
+Armadura para mãos e braços
+Armadura e roupas para as pernas
+Joias e mantos com poderes especiais
 Itens inestimáveis ​​para sua busca ...?
 Vá para o menu Equipamento.
 
