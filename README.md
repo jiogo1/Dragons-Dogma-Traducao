@@ -51,7 +51,7 @@ Queremos uma tradução **natural para o PT-BR**, então:
 
 ## **🙌 Créditos**  
 Todos os contribuidores serão creditados no **arquivo `CREDITOS.md`** e nos lançamentos oficiais!  
-
+**Amianto Traduções**
 ---
 
 ### **✨ Pronto para entrar na lenda?**  
