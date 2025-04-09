@@ -960,7 +960,7 @@ Muitos barcos, como você esperaria de<cf>uma vila de pescadores.
 Um ótimo lugar para pescar, sem dúvida.
 Por que você acha que o poço está selado?
 Algo neste poço<cf>parece ... errado.
-Parece que o dragão deixou muitos<cf>feridos em seu rastro.
+Parece que o dragão deixou muitos<cf>feridos em seu caminho.
 Quase se podia andar pela vila<cf>pelos telhados ...
 Talvez haja algo a ser encontrado<cf>perdido no topo dos telhados da vila.
 Eu vejo uma espécie de baú - lá,<cf>perto dos penhascos.
@@ -2175,8 +2175,8 @@ Nas profundezas do Shadow Fort, dizem que se esconde um<cf>ciclope envolto na ar
 Espero por você nas Frontier Caverns.
 Diz-se que uma poderosa cocatriz faz seu kip nas<cf>profundezas do Canyon do Soulflayer. Se surgir e<cf>descer sobre a capital, o dano será<cf>incomensurável. Devemos cuidar para que ele nunca desperte.
 Relatos de vendedores ambulantes e Pawns atacados por<cf>ciclopes se tornaram um assunto diário. O duque<cf>despachou uma força de Gran Soren, mas os brutos<cf>são numerosos. Houve avistamentos<cf>perto das cataratas e no sul. Vá<cf>e diminua suas fileiras.
-Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados<cf>​​enquanto um compete contra o outro. Eles não veem<cf>que agora é a hora de se unirem contra<cf>o wyrm? Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
-É um tolo que considera os goblins um<cf>incômodo inofensivo. O que não representa uma ameaça para um soldado<cf>armado ainda pode matar uma mulher ou criança. Eles<cf>possuem força em números, e mostram uma<cf>ousadia perturbadora, além disso. Se quisermos<cf>desencorajá-los, precisaremos reduzir um bom número<cf>aqui.
+Uma rivalidade entre os bandidos do oeste e do sul<cf>os leva a crimes cada vez mais ousados ​​enquanto<cf>um compete contra o outro. Eles não veem que agora é<cf>a hora de se unirem contra o wyrm?<cf>Por favor para limpar as estradas ao sul de<cf>esses ladrões idiotas.
+É um tolo que considera os goblins um incômodo inofensivo.<cf>O que não representa uma ameaça para um soldado<cf>armado ainda pode matar uma mulher ou criança. Eles<cf>possuem força em números, e mostram uma<cf>ousadia perturbadora, além disso. Se quisermos<cf>desencorajá-los, precisaremos reduzir um bom número<cf>aqui.
 Alguns afirmam que os goblins já foram criaturas dóceis,<cf>embora eu duvide em olhar para os demônios agora.<cf>Eles se tornaram especialmente ousados ​​no final do<cf>sul. Se eles não derem ouvidos à razão, o aço<cf>frio será suficiente.
 Há muitos rumores de que os homens mortos na batalha<cf>tornaram-se mortos-vivos não muito depois. Não posso<cf>deixar de sentir pena que essas pobres almas<cf>tenham sido roubadas até a morte ... Por favor, entregue-lhes<cf>um descanso pacífico - e final.
 Já se foi o tempo em que os goblins eram confinados<cf>no Shadow Fort. Agora, com os hobgoblins<cf>para liderá-los, eles marcharam sobre All Gransys.<cf>Não devemos permitir que eles se tornem mais ousados!<cf>Mate os hobgoblins e impeça que a praga<cf>se espalhe ainda mais.
@@ -2237,7 +2237,7 @@ Desde que entrou em contato com uma anomalia<cf>em Everfall, este Pawn se sentiu
 Sua Graça, Duque Edmun Dragonsbane,<cf>declarou o seguinte como uma ameaça à<cf>paz e ordem da terra, e clama por<cf>sua destruição imediata:
 Relatos de ataques de pequenos animais estão<cf>mais uma vez em alta. Para a segurança de<cf>o ducado, pedimos ajuda para suprimir seus números.<cf>
 Procura-se: Guerreiros Fortes!<cf>Você ama esta boa terra? Você<cf>empunharia espada e escudo para proteger os cidadãos<cf>dela? A valente irmandade da<cf>Guarda Capital precisa de você! Faça sua parte para<cf>expulsar todo o mal de Gransys!
-Eu sou apenas um mascate viajante - aquele cujo negócio<cf>sofreu uma queda<cf>repentina e impressionante. Depois de consultar um profissional,<cf>parece que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você me encontrasse<cf>uma besta para que eu pudesse ser libertado desse tormento!
+Eu sou apenas um mascate viajante - aquele cujo negócio<cf>sofreu uma queda<cf>repentina e impressionante. Depois de consultar um<cf>profissional,parece que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você me encontrasse<cf>uma besta para que eu pudesse ser libertado desse tormento!
 Do Conselho Consultivo do Duque ao<cf>mais recente descaradamente reivindicado o título de "Arisen" -<cf>Tendo ouvido falar muito de sua insolência,<cf>queremos que você prove se é realmente<cf>digno do grande A bênção de Wyrmking,<cf>ou se você tiver que ser sacrificado como a<cf>besta inculta que parece ser.
 Todos os anos, mais e mais animais são vítimas<cf>de ataques de monstros. Essas feras<cf>infelizes e feridas enlouquecem de dor, atacando<cf>indiscriminadamente. Você não fará a coisa certa<cf>e colocará essas pobres almas fora de sua miséria?
 Para a segurança contínua de All Gransys, os<cf>listados abaixo devem ser eliminados sem demora.
@@ -2268,7 +2268,7 @@ O Arisen deve sempre se esforçar por maiores<cf>alturas de habilidade e valor, 
 É dever de todos os que servem<cf>o Duque não deixar nenhuma ameaça à segurança<cf>do povo de Gransys.<cf>Patrulhe a terra e veja essas feras<cf>desfeitas.
 É dever de todos os que servem<cf>o Duque não deixar nenhuma ameaça à segurança<cf>do povo de Gransys.<cf>Patrulhe a terra e veja essas feras<cf>desfeitas.
 É dever de todos os que servem<cf>o Duque não deixar nenhuma ameaça à segurança<cf>do povo de Gransys.<cf>Patrulhe a terra e veja essas feras<cf>desfeitas.
-Eu sou apenas um mascate viajante - aquele cujo negócio<cf>sofreu uma queda<cf>repentina e impressionante. Depois de consultar um profissional,<cf>parece que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você me encontrasse<cf>uma besta para que eu pudesse ser libertado desse tormento!
+Eu sou apenas um mascate viajante - aquele cujo negócio<cf>sofreu uma queda<cf>repentina e impressionante. Depois de consultar um<cf>profissional,parece que fui vítima de uma maldição vil e persistente.<cf>Minha única esperança é que ela seja transferida para<cf>outro ser. Eu pediria que você me encontrasse<cf>uma besta para que eu pudesse ser libertado desse tormento!
 Do Conselho Consultivo do Duque ao<cf>mais recente descaradamente reivindicado o título de "Arisen" -<cf>Tendo ouvido falar muito de sua insolência,<cf>queremos que você prove se é realmente<cf>digno do grande A bênção de Wyrmking,<cf>ou se você tiver que ser sacrificado como a<cf>besta inculta que parece ser.
 Todos os anos, mais e mais animais são vítimas<cf>de ataques de monstros. Essas feras<cf>infelizes e feridas enlouquecem de dor, atacando<cf>indiscriminadamente. Você não fará a coisa certa<cf>e colocará essas pobres almas fora de sua miséria?
 Do Conselho Consultivo do Duque ao<cf>mais recente descaradamente reivindicado o título de "Arisen" -<cf>Tendo ouvido falar muito de sua insolência,<cf>queremos que você prove se é realmente<cf>digno do grande A bênção de Wyrmking,<cf>ou se você tiver que ser sacrificado como a<cf>besta inculta que parece ser.
@@ -3429,13 +3429,13 @@ A missão não pode mais ser concluída.
 
 Frasco Hermético
 Retalho de fera
-Beast-Steak
+Bife de Fera
 Ambrosial Meat
 Retalho de fera Azedo
-Sour Beast-Steak
+Bife de Fera Azedo
 Sour Ambrosial Meat
 Retalho de fera Podre
-Rotten Beast-Steak
+Bife de Fera Podre
 Rotten Ambrosial Meat
 Small Fish
 Large Fish
@@ -3457,7 +3457,7 @@ Rotten Apple
 Rotten Grandgrapes
 Twigbean
 Cenoura
-Pumpkin
+Abóbora
 Moldy Twigbean
 Moldy Carrot
 Moldy Pumpkin
@@ -3547,7 +3547,7 @@ Monk's Periapt
 Veteran's Periapt
 Banker's Periapt
 Isometricine
-Foreign Knife
+Faca Exótica
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -3658,13 +3658,13 @@ Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
 Retalho de fera conservado
-Kept Beast-Steak
+Bife de Fera Conservado
 Kept Ambrosial Meat
 Retalho de fera conservado azedo
-Kept Sour Beast-Steak
+Bife de Fera Azedo Conservado
 Kept Sour Ambrosial Meat
 Retalho de fera conservado podre
-Kept Rotten Beast-Steak
+Bife de Fera Podre Conservado
 Kept Rotten Ambrosial Meat
 Kept Small Fish
 Kept Large Fish
@@ -3728,13 +3728,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Iron Sword
+Espada de Ferro
 Cutlass
 Silver Rapier
 Golden Rapier
 Aneled Rapier
 Broadsword
-Trusty Sword
+Espada Leal
 Undulant Sword
 Undulant Gold
 Undulant Black
@@ -3812,7 +3812,7 @@ Item Desconhecido
 Cyclop's Bane
 Stamina Hammer
 Rusted Warhammer
-Throatcutters
+Ceifadores de Garganta
 Signs of Valor
 Crimson Teeth
 Bardiche Daggers
@@ -3832,8 +3832,8 @@ Aneled Snags
 Item Desconhecido
 Saurian Bane
 Dowsing Spikes
-Rusted Daggers
-Wooden Staff
+Adagas Enferrujadas
+Cajado de Madeira
 Favored Flower
 Volant White
 Unfettered Claw
@@ -3841,7 +3841,7 @@ Golden Claw
 Aneled Claw
 Cast Stone
 Dragon's Nous
-Ironclad Staff
+Cajado de Ferro
 Unspoken Grace
 Golden Grace
 Aneled Grace
@@ -3890,7 +3890,7 @@ Divine Axis
 Algid Bloom
 Iron Shield
 Pelta
-Round Shield
+Escudo Redondo
 Gran Soren Shield
 Mark of the Chimera
 Orilux Shield
@@ -3918,7 +3918,7 @@ Item Desconhecido
 Zombiebane
 Brilliance
 Rusted Magick Shield
-Shortbow
+Arco Curto
 Direwolf Bow
 Sylvan Bow
 Fluted Bow
@@ -4059,15 +4059,15 @@ Illusory Wizard's Helm
 Illusory Missionary's Robe
 Illusory Runic Bangles
 Illusory Leather Shoes
-Short Pants
-Traveler's Tights
+Calças Curtas
+Malhas do Viajante
 Calças de Algodão
 Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
 Calças de Cânhamo
-Worker's Pants
+Calças de Trabalhador
 Yellow Gaiters
 Half Chain Hosen
 Laced Leggings
@@ -4300,7 +4300,7 @@ Patterned Gambeson
 Item Desconhecido
 Delta Guard
 Silk Tights
-Traveler's Hood
+Capuz de Viajante
 Minstrel's Band
 Mistletoe Circlet
 Immortal's Helm
@@ -4335,12 +4335,12 @@ Immortal's Bracers
 Trophy Bracers
 Dragonwing Gloves
 Blessed Sleeves
-Wooden Bands
-Talismanic Beads
-Novice's Bracers
-Funnybone Guards
+Braçadeiras de Madeira
+Braçadeira Talismânica
+Braceletes de Novato
+Protetores do Osso Travesso
 Bandit's Glove
-Scholar's Bangle
+Pulseira do Estudioso
 Navy Leather Gloves
 Bronze Gauntlets
 Hand Covers
@@ -4398,14 +4398,14 @@ Grave Claws
 Carrion Claws
 Worker's Gloves
 Item Desconhecido
-Budget Greaves
-Leather Cuisses
-Leather Shoes
+Grevas Simples
+Coxotes de Couro
+Sapatos de Couro
 Novice Breeches
 Cassardi Greaves
 Metal Greaves
-Fur Greaves
-Scholar's Boots
+Grevas Peludas
+Botas de Estudioso
 Iron Leg Guards
 Steel-Toed Boots
 Bronze Sabatons
@@ -4487,7 +4487,7 @@ Item Desconhecido
 Item Desconhecido
 Capa de Couro
 Shed Cape
-Shoulder Cape
+Capa de Ombro
 Ebon Neck Wrap
 Capa do Erudito
 Mahogany Cape
@@ -4612,7 +4612,7 @@ Set of Servant's Garb
 Set of Duke's Clothing
 Set of Salvation Robes
 Set of Fisherman's Garb
-Set of Fisherman's Tatters
+Kit de Trapos de Pescador
 Set of Royal Guard Armor
 Set of Lady's Garb
 Set of Caretaker's Garb
@@ -5442,8 +5442,8 @@ Você pegou suas armas e saiu da sala.<cf>Recompensa da missão recebida.
 
 
 
-Você viu Cortese, prima?
-Não vi meu irmão desde que o dragão chegou. Ele também não está entre os feridos ...
+Você viu Cortese, primo?
+Eu não vejo meu irmão desde que o dragão apareceu. Ele também não está entre os feridos.
 O que? Cortese foi encontrado !?
 ...<cf>Eu ... entendo.
 Elvar também sofreu com isso ...
@@ -9727,7 +9727,7 @@ Inez's Alehouse
 Casa do pescador
 Capela da Vila
 Starfall Bay
-Village Pier
+Píer da Vila
 Campos de treinamento
 Base do Corpo de Alistamento
 Quartel-General do Comando
@@ -14600,7 +14600,7 @@ Missões do Quadro de Avisos
 Meta
 Objetivos
 Recompensa
-Solicitar
+Solicitação
 Mensagem Inválida
 Selecione uma missão para assumir.<cf>Veja os detalhes com <SIZE 23><ICON PAD_RL></SIZE>.
 
@@ -21711,8 +21711,8 @@ Pilhar
 Examinar
 Ajuda
 Monte
-Reunir
-Minha
+Coletar
+Minerar
 Ajuda
 Observar
 Curar
@@ -21795,7 +21795,7 @@ Solicitar Purificação
 Pular
 Ocultar / Mostrar personagem
 Mirar
-Modo de Arco
+Arco
 Habilidades primárias
 Habilidades secundárias
 Gamercard
@@ -22982,8 +22982,8 @@ Um bando de monstros está atacando o acampamento.<cf> Mande-os embora para prov
 Um ciclope ataca o acampamento. Desvie-o<cf>para provar seu "espírito incansável de auto-<cf>aperfeiçoamento".
 
 
-Reporte ao Rift
-Volte à fenda para relatar como seu<cf>"espírito incansável de autoaperfeiçoamento" se manteve<cf>verdadeiro em face da adversidade.
+Reporte ao Abismo
+Volte à fenda para relatar como seu<cf>"espírito incansável de autoaperfeiçoamento" se<cf>manteve verdadeiro em face da adversidade.
 
 
 
@@ -23316,9 +23316,9 @@ Mas se ele estivesse em casa, eu seria viúva - tanto melhor que ele estivesse l
 Esses pensamentos são vaidade com outros sofrendo, mas acho que não posso evitar.
 Ah, é você!
 Aquele que lutou contra o dragão quando ele se posicionou na aldeia.<cf>..
-Eu ouço falar assustador de suas feridas. Posso fazer algo por você?
+Eu ouvi dizer que suas feridas são assustadoras. Posso te ajudar com alguma coisa?
 Foram as orações de Quina que salvaram você da morte. Estou certo disso.
-É raro ver uma oração respondida com tanta certeza, hein?
+É raro ver um dia em que uma oração é respondida com tanta certeza, hein?
 Nosso chefe sofre nestes tempos. Que havia alguma maneira de ajudá-lo ...
 Eles dizem que quando um dragão aparece, ele pressagia a destruição em todas as terras vizinhas.
 Conheço vilas que reuniram tudo e buscaram águas mais seguras após um ataque.
@@ -35786,13 +35786,13 @@ Se não fosse por aquela besta, meu mestre ainda viveria ...
 Mas ele se foi, enquanto eu permaneço ... sozinho ...
 Frasco Hermético
 Retalho de fera
-Beast-Steak
+Bife de Fera
 Ambrosial Meat
 Retalho de fera Azedo
-Sour Beast-Steak
+Bife de Fera Azedo
 Sour Ambrosial Meat
 Retalho de fera Podre
-Rotten Beast-Steak
+Bife de Fera Podre
 Rotten Ambrosial Meat
 Small Fish
 Large Fish
@@ -35814,7 +35814,7 @@ Rotten Apple
 Rotten Grandgrapes
 Twigbean
 Cenoura
-Pumpkin
+Abóbora
 Moldy Twigbean
 Moldy Carrot
 Moldy Pumpkin
@@ -35904,7 +35904,7 @@ Monk's Periapt
 Veteran's Periapt
 Banker's Periapt
 Isometricine
-Foreign Knife
+Faca Exótica
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
@@ -36015,13 +36015,13 @@ Item Desconhecido
 Item Desconhecido
 Wyrmking's Ring
 Retalho de fera conservado
-Kept Beast-Steak
+Bife de Fera Conservado
 Kept Ambrosial Meat
 Retalho de fera preservado azedo
-Kept Sour Beast-Steak
+Bife de Fera Azedo Conservado
 Kept Sour Ambrosial Meat
 Retalho de fera conservado podre
-Kept Rotten Beast-Steak
+Bife de Fera Podre Conservado
 Kept Rotten Ambrosial Meat
 Kept Small Fish
 Kept Large Fish
@@ -36085,13 +36085,13 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Iron Sword
+Espada de Ferro
 Cutlass
 Silver Rapier
 Golden Rapier
 Aneled Rapier
 Broadsword
-Trusty Sword
+Espada Leal
 Undulant Sword
 Undulant Gold
 Undulant Black
@@ -36169,7 +36169,7 @@ Item Desconhecido
 Cyclop's Bane
 Stamina Hammer
 Rusted Warhammer
-Throatcutters
+Ceifadores de Garganta
 Signs of Valor
 Crimson Teeth
 Bardiche Daggers
@@ -36189,8 +36189,8 @@ Aneled Snags
 Item Desconhecido
 Saurian Bane
 Dowsing Spikes
-Rusted Daggers
-Wooden Staff
+Adagas Enferrujadas
+Cajado de Madeira
 Favored Flower
 Volant White
 Unfettered Claw
@@ -36198,7 +36198,7 @@ Golden Claw
 Aneled Claw
 Cast Stone
 Dragon's Nous
-Ironclad Staff
+Cajado de Ferro
 Unspoken Grace
 Golden Grace
 Aneled Grace
@@ -36247,7 +36247,7 @@ Divine Axis
 Algid Bloom
 Iron Shield
 Pelta
-Round Shield
+Escudo Redondo
 Gran Soren Shield
 Mark of the Chimera
 Orilux Shield
@@ -36275,7 +36275,7 @@ Item Desconhecido
 Zombiebane
 Brilliance
 Rusted Magick Shield
-Shortbow
+Arco Curto
 Direwolf Bow
 Sylvan Bow
 Fluted Bow
@@ -36416,15 +36416,15 @@ Illusory Wizard's Helm
 Illusory Missionary's Robe
 Illusory Runic Bangles
 Illusory Leather Shoes
-Short Pants
-Traveler's Tights
+Calças Curtas
+Malhas do Viajante
 Calças de Algodão
 Leather Bandings
 Cassardi Trousers
 Fine Cassardi Hosen
 Item Desconhecido
 Calças de Cânhamo
-Worker's Pants
+Calças de Trabalhador
 Yellow Gaiters
 Half Chain Hosen
 Laced Leggings
@@ -36657,7 +36657,7 @@ Patterned Gambeson
 Item Desconhecido
 Delta Guard
 Silk Tights
-Traveler's Hood
+Capuz de Viajante
 Minstrel's Band
 Mistletoe Circlet
 Immortal's Helm
@@ -36692,12 +36692,12 @@ Immortal's Bracers
 Trophy Bracers
 Dragonwing Gloves
 Blessed Sleeves
-Wooden Bands
-Talismanic Beads
-Novice's Bracers
-Funnybone Guards
+Braçadeiras de Madeira
+Braçadeira Talismânica
+Braceletes de Novato
+Protetores do Osso Travesso
 Bandit's Glove
-Scholar's Bangle
+Pulseira do Estudioso
 Navy Leather Gloves
 Bronze Gauntlets
 Hand Covers
@@ -36755,14 +36755,14 @@ Grave Claws
 Carrion Claws
 Worker's Gloves
 Item Desconhecido
-Budget Greaves
-Leather Cuisses
-Leather Shoes
+Grevas Simples
+Coxotes de Couro
+Sapatos de Couro
 Novice Breeches
 Cassardi Greaves
 Metal Greaves
-Fur Greaves
-Scholar's Boots
+Grevas Peludas
+Botas de Estudioso
 Iron Leg Guards
 Steel-Toed Boots
 Bronze Sabatons
@@ -36844,7 +36844,7 @@ Item Desconhecido
 Item Desconhecido
 Capa de Couro
 Shed Cape
-Shoulder Cape
+Capa de Ombro
 Ebon Neck Wrap
 Capa do Erudito
 Mahogany Cape
@@ -36969,7 +36969,7 @@ Set of Servant's Garb
 Set of Duke's Clothing
 Set of Salvation Robes
 Set of Fisherman's Garb
-Set of Fisherman's Tatters
+Kit de Trapos de Pescador
 Set of Royal Guard Armor
 Set of Lady's Garb
 Set of Caretaker's Garb
@@ -38889,7 +38889,7 @@ A misteriosa ilha conhecida como<cf>Bitterblack Isle apareceu na costa<cf>de Cas
 Na Ilha Bitterblack, a carniça de inimigos<cf>que você matou pode atrair monstros<cf>ainda mais fortes na área. Esteja sempre vigilante.
 Mensagem Inválida
 Se um arco for equipado como arma secundária, <lf> enquanto estiver jogando em um mouse e teclado, <lf> você pode pressionar <ICON BMODE> para ativar o Modo de Arco.
-Quando o Modo de Arco é ativado, as ações relevantes do arco <lf> substituirão os controles padrão. <lf> Pressione <ICON ATTACK1> para mirar <lf> Pressione <ICON ATTACK0> para atirar
+Quando o de Arco é ativado, as ações relevantes do arco <lf> substituirão os controles padrão. <lf> Pressione <ICON ATTACK1> para mirar <lf> Pressione <ICON ATTACK0> para atirar
 Você também pode salvar manualmente<cf>a qualquer momento, clicando em  <TUTO><SIZE 28><ICON PAD_SL></SIZE> no menu de pausa.<cf>
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Clique em <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
 O status de um Pawn pode ser determinado por seus ícones.<cf><SIZE 32><ICON ONLINE></SIZE> significa que o Pawn está online.<cf><SIZE 32><ICON FRIEND></SIZE> é o Pawn de um amigo .<cf><SIZE 32><ICON BORROW></SIZE> é um Pawn que você alistou no passado.
@@ -42395,7 +42395,7 @@ Pilhar
 Examinar
 Ajuda
 Monte
-Reunir
+Coletar
 Minerar
 Ajuda
 Observar
@@ -46696,7 +46696,7 @@ Inventario
 Comande Pawn para ir
 Comande Pawn para virem até você
 Comande Pawn para ajudar
-Alternar modo de arco
+Alternar para arco
 Mova o personagem para frente.
 Mova o personagem para trás.
 Mova o personagem para a esquerda.
@@ -49740,7 +49740,7 @@ Inez's Alehouse
 Casa do pescador
 Capela da Vila
 Starfall Bay
-Village Pier
+Píer da Vila
 Campos de treinamento
 Base do Corpo de Alistamento
 Quartel-General do Comando
