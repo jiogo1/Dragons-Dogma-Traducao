@@ -1193,7 +1193,7 @@ Os dados salvos foram atualizados com seu conteúdo baixável<cf>recém-adquirid
 Isso apagará seus dados antigos salvos.
 <SIZE 38> Dragon's Dogma </SIZE><cf>Em 14 de março de 2012, o produtor do Dragon's Dogma<cf>Kobayashi vai trazer um presente muito especial do White Day...<cf>seu Pawn especial, "Dodonpa 19", <cf > esteja chegando ao seu reino!<cf><cf>Procure na fenda por Pawns especiais e<cf>prepare-se para a aventura!
 Não foi possível conectar e recuperar os dados. <lf> Tentar recuperar os dados novamente?
-Continuar
+Prosseguir
 Retorne ao menu principal
 O <DLC> está corrompido.
 Falha ao receber conteúdo para download.
@@ -2877,7 +2877,7 @@ Você completou o regime de treinamento. Recompensa da missão<cf>recebida.
 
 Salvar e continuar
 Salvar e retornar à tela de título
-Saia do jogo sem salvar
+Sair do jogo sem salvar
 Voltar ao último ponto de verificação
 Salvar irá sobrescrever seus dados salvos atuais. Prosseguir?
 Salvando ...<cf>Não desligue a energia nem desconecte o sistema PlayStation®4.
@@ -4635,7 +4635,7 @@ Royal Banner
 Enlistment Corps Banner
 War Bugle
 Fishing Bob
-Bucket
+Balde
 Hoe
 Spade
 Scythe
@@ -4647,7 +4647,7 @@ Wooden Board
 Tray
 Sconce
 Pergaminho em Branco
-Broom
+Vassoura
 Ancient Scroll
 Shackle
 Large Coin Pouch
@@ -5553,7 +5553,7 @@ Através dele, os Pawns podem ser procurados<cf>e convocados.
 Se algum chamar sua atenção, fale com<cf>o Pawn para alistá-lo ao seu grupo.
 É função de todos os Pawns servir<cf>o Arisen.
 Você pode contratar apenas dois Pawns para o seu grupo<cf>de cada vez. Eles podem então ser<cf>dispensados ​​falando com eles novamente.
-Os aliados de Pawns podem ser descarregados<cf>ao falar com eles novamente.
+Os Pawns aliados podem ser descarregados<cf>ao falar com eles novamente.
 Devo levar alguma mensagem,<cf>Mestre?
 Então eu irei, Arisen.
 Se você usar o para mim novamente, você tem<cf>mas para dizer a palavra.
@@ -7769,7 +7769,7 @@ Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explora
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Derrotar inimigos e completar missões<cf>dá a você experiência, e cada nível<cf>ganho aumenta todos os seus atributos.
-Os materiais coletados durante suas viagens<cf>podem ser usados ​​em lojas ou outros locais<cf>para aprimorar seu equipamento.
+Os materiais coletados durante suas viagens podem ser usados em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Sempre converse com as pessoas que<cf>vê na cidade ou nas estradas. Alguns podem<cf>oferecer informações ou missões importantes.
 As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode<cf>sempre consultar a seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
 Se você tiver várias missões em andamento ao mesmo tempo<cf>, poderá definir uma como "Prioridade"<cf>na seção "Missões" do Menu de Pausa.
@@ -8354,10 +8354,10 @@ Como já se disse, é melhor deixar os cães adormecidos mentirem. Pessoas dormi
 Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
 Não pode ser aberto a partir daqui.
 Depois de atingir um determinado nível,<cf>você pode ir para a pousada para realizar<cf>vocações avançadas.
-Os materiais coletados durante suas viagens<cf>podem ser usados ​​em lojas ou outros locais<cf>para aprimorar seu equipamento.
+Os materiais coletados durante suas viagens podem ser usados ​em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Portcrystals funcionam em conjunto com<cf>Ferrystones.
 Incorpore este Portal de Cristal ao solo em qualquer<cf>lugar, exceto uma masmorra, e você pode usar<cf>um Ferrystone para retornar lá em um instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Os quadros de avisos da Gransys anunciam as missões<cf>- tarefas e favores que você pode<cf>decidir realizar.
@@ -11327,7 +11327,7 @@ Lembro-me de um local onde podemos descansar não muito longe<cf>daqui.
 É o diário do pai de Reynard.
 Lá! Uma pedra do abismo!
 Reynard esperou a vida inteira por notícias de<cf>seu pai. É cruel mantê-lo esperando.
-Cuidado com o limite, Mestre!
+Atente-se ao limite, Mestre!
 Uma queda aqui significa morte certa!
 É lento atravessar os pântanos.
 Cuidado, Sr. Os pântanos atrapalham<cf>nosso movimento.
@@ -19056,8 +19056,8 @@ Chamas que consomem tudo ...
 Divida o céu!
 Brilho, raio radiante ...
 Pegue meu fogo!
-Eu concordo com você a chama do fogo!
-Eu concordo com você a mordida de gelo!
+Abençoo-te com chama do fogo!
+Abençoo-te com mordida do gelo!
 Devemos selar essa magia!
 Para atacar daqui ...!
 Tome cuidado para ficar longe!
@@ -19067,15 +19067,15 @@ Cuidado com seus feitiços!
 Ó, relâmpago!
 Pegue meu raio!
 É ... engolido ...
-Eu concordo com você as presas do raio!
+Abençoo-te as presas do relâmpago!
 Isso é sibilo ... gás?
 Parece pronto para cuspir alguma coisa!
 Cuidado com a explosão!
 Pegue minha escuridão!
-Golpeie com sombra!
+Golpeie com a sombra!
 Eu concedo a você o manto da sombra!
 Pegue o poder da chama!
-Eu concordo com suas armas de fogo!
+Abençoo suas armas com a chama do fogo!
 Ataque com a explosão da chama!
 Pegue o poder do gelo!
 Eu te empresto o poder do gelo!
@@ -19139,7 +19139,7 @@ Eu vou te ajudar de uma vez!
 Estou vindo para ajudar!
 Eu não posso obedecer agora!
 O gelo serve bem contra eles!
-Consegui!
+Conseguimos!
 Bem feito!
 Que gafe ...
 Eu fui desajeitado ...
@@ -19353,7 +19353,7 @@ Eu vou pegar suas costas!
 Vou agarrar onde estiver mais fraco!
 Vou escalar e atacar de cima!
 Eu vou escalar. Ataque enquanto ele está distraído!
-Nós os encaminharemos com uma única carga!
+Acabaremos com eles de uma só vez!
 Vamos prosseguir ...
 Eles são poucos.<cf>Vamos atacar através deles.
 Seus números são poucos.
@@ -20175,7 +20175,7 @@ Missões concluídas
 
 Você não tem missões ativas no momento.
 
-No momento, você não completou missões.
+No momento, você não completou nenhuma missão.
 Missões em andamento. Veja os detalhes com <SIZE 23><ICON PAD_RL></SIZE>.
 Missões que você completou. Veja os detalhes com <SIZE 28><ICON PAD_RL></SIZE>.
 
@@ -22758,7 +22758,7 @@ Eles florescem nas raízes de árvores crescidas. Como se não houvesse alguns a
 Mãos hábeis estão em falta, primo. Nós, como podemos trabalhar, devemos fazer o que pudermos. Traga as flores que encontrar aqui.
 Eu faria curativos para os feridos, se tivesse condições. Se eu soubesse ...
 Primo, preciso de um favor. Você pode buscar as flores que preciso de fora da aldeia?
-Preciso de mais do que você vê lá, e de outro tipo além disso.
+Preciso de mais do que você vê lá, e uma de outro tipo além disso.
 Quanto mais você puder encontrar, melhor.
 Me dói deixar os feridos sofrerem assim ...
 Os feridos ainda sofrem. Se não forem tratados logo ...
@@ -23158,7 +23158,7 @@ O poder combinado do reino não era páreo para<cf>o dragão. Toda esperança es
 
 
 
-Persiga o Dragão<cf>Amianto Traduções Apresenta...
+Persiga o Dragão
 Você perseguiu o dragão aqui, até a<cf>A Montanha Profanada. Lute até o coração<cf>do covil do dragão e enfrente tudo o que o espera.
 
 
@@ -24581,13 +24581,13 @@ Depois de atingir um determinado nível,<cf>você pode ir para a pousada para re
 As fendas permitem que você pesquise e alugue Pawns<cf>que atendam às suas necessidades específicas.
 Fale com um Pawn para alistá-lo<cf>como membro do grupo.
 Derrotar inimigos e completar missões<cf>dá a você experiência, e cada nível<cf>ganho aumenta todos os seus atributos.
-Os materiais coletados durante suas viagens<cf>podem ser usados ​​em lojas ou outros locais<cf>para aprimorar seu equipamento.
+Os materiais coletados durante suas viagens podem ser usados ​em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viagem, mas cada pedra desaparece após<cf>um único uso.
 Portcrystals funcionam em conjunto com<cf>Ferrystones.
 Um círculo de Cristais de Portais é definido no solo<cf>em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar em Gransys.
 Incorpore este Portal de Cristal ao solo em qualquer<cf>lugar, exceto uma masmorra, e você pode usar<cf>um Ferrystone para retornar lá em um instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Este é o seu Pawn principal, o companheiro que você<cf>criou como Arisen. Ele sempre atuará como<cf>seu servo fiel.
@@ -24720,7 +24720,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 1> Pressione <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para atacar.
 <TUTO 2> Atacar enquanto segura <ICON SUB_WEP> ou <ICON MAIN_WEP><cf>executará uma habilidade de arma.
 <TUTO 3> Pressione <SIZE 28><ICON LIFT></SIZE> para pegar itens, pessoas ou<cf>inimigos. Você pode restringir ou lançar alvos,<cf>ou pressionar <SIZE 28><ÍCONE LIFT></SIZE> novamente para abatê-los.
-<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas para seus<cf>aliados de Pawn.
+<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas para seus aliados.
 <TUTO> Verifique seu status atual e inventário<cf>com <SIZE 28><ICON PAD_SL></SIZE>.
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
@@ -24737,7 +24737,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
-<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
+<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
 Esta é uma fenda ... um espaço entre os reinos<cf>a partir do qual todo e qualquer tipo de Pawn<cf>pode ser encontrado.
@@ -25291,7 +25291,7 @@ Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
 Quando estiver perto de paredes ou saliências, pressione <TUTO><SIZE 25><ICON LIFT></SIZE> em<cf>no momento certo para agarrar.
 Salte para Everfall para explorar a próxima área<cf>das ruínas.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Seu Pawn principal ganhará Rift Crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu lacaio!
@@ -27240,7 +27240,7 @@ A alavanca foi removida. É inútil neste estado.
 Ele não abre ... Parece que é controlado por algum dispositivo.<cf>
 Uma alavanca está firmemente presa.
 Se você continuar, não poderá<cf>retornar por algum tempo. Certifique-se de que você está<cf>amplamente preparado.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
@@ -27658,7 +27658,7 @@ Evite o ataque do dragão e volte para um<cf>local mais seguro.
 
 
 
-Persiga o Dragão<cf>Amianto Traduções Apresenta...
+Persiga o Dragão
 Cruze a ponte antes que ela desmorone e persiga<cf>atrás do dragão.
 
 
@@ -32607,7 +32607,7 @@ Você está ganhando tempo.
 Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Seu Pawn principal ganhará Rift Crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu lacaio!
@@ -34129,11 +34129,11 @@ Tenho um mau pressentimento sobre isso...
 Sobreviventes! Vamos nos juntar a eles!
 Horrível ... Vou acender uma luz.
 O covil do dragão está logo além.<cf>Vamos nos apressar!
-Tantos ossos de soldados ...<cf>Que cena horrível ...
+Os ossos de mais soldados ...<cf>Que cena horrível ...
 Ele ainda vive!
 Um sobrevivente!
 Temo que não haja nada que<cf>possamos fazer por eles agora ...
-É ... está além da imaginação ...
+Isso... está além da imaginação ...
 Não muito longe do ninho do dragão agora.
 Ele se revelou!
 Uma demonstração de confiança?
@@ -35245,7 +35245,7 @@ Colete mais como este.
 A fechadura se abre.
 Como já se disse, é melhor deixar os cães adormecidos mentirem. Pessoas dormindo também.
 Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Este jogo possui uma função de salvamento automático,<cf>salvando periodicamente seu progresso<cf>ao longo da aventura.
@@ -36992,7 +36992,7 @@ Royal Banner
 Enlistment Corps Banner
 War Bugle
 Fishing Bob
-Bucket
+Balde
 Hoe
 Spade
 Scythe
@@ -37004,7 +37004,7 @@ Wooden Board
 Tray
 Sconce
 Pergaminho em Branco
-Broom
+Vassoura
 Ancient Scroll
 Shackle
 Large Coin Pouch
@@ -37914,7 +37914,7 @@ Você está ganhando tempo.
 Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Seu Pawn principal ganhará Rift Crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu lacaio!
@@ -38640,13 +38640,13 @@ Depois de atingir um determinado nível,<cf>você pode ir para a pousada para re
 As fendas permitem que você pesquise e alugue Pawns<cf>que atendam às suas necessidades específicas.
 Fale com um Pawn para alistá-lo<cf>como membro do grupo.
 Derrotar inimigos e completar missões<cf>dá a você experiência, e cada nível<cf>ganho aumenta todos os seus atributos.
-Os materiais coletados durante suas viagens<cf>podem ser usados ​​em lojas ou outros locais<cf>para aprimorar seu equipamento.
+Os materiais coletados durante suas viagens podem ser usados ​em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
 É de longe o método mais rápido e seguro<cf>de viagem, mas cada pedra desaparece após<cf>um único uso.
 Portcrystals funcionam em conjunto com<cf>Ferrystones.
 Um círculo de Cristais de Portais é definido no solo<cf>em Gran Soren, mas outro cristal<cf>móvel pode ser encontrado em algum lugar em Gransys.
 Incorpore este Portal de Cristal ao solo em qualquer<cf>lugar, exceto uma masmorra, e você pode usar<cf>um Ferrystone para retornar lá em um instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Este é o seu Pawn principal, o companheiro que você<cf>criou como Arisen. Ele sempre atuará como<cf>seu servo fiel.
@@ -38779,12 +38779,12 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 1> Pressione <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para atacar.
 <TUTO 2> Atacar enquanto segura <ICON SUB_WEP> ou <ICON MAIN_WEP><cf>executará uma habilidade de arma.
 <TUTO 3> Pressione <SIZE 28><ICON LIFT></SIZE> para pegar itens, pessoas ou inimigos.<cf>Você pode restringir ou lançar alvos, ou pressionar <SIZE 28><ICON LIFT></SIZE> novamente para abatê-los.
-<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas <lf> para seus aliados de Pawn.
+<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas para seus aliados.
 <TUTO> Verifique seu status atual e inventário<cf>com <SIZE 28><ICON PAD_SL></SIZE>.
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará em ferimentos<cf>ou morte.
 <TUTO> Esta é uma pedra do abismo. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
@@ -40453,7 +40453,7 @@ Como já se disse, é melhor deixar os cães adormecidos mentirem. Pessoas dormi
 Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
 Portcrystals funcionam em conjunto com<cf>Ferrystones.
 Incorpore este Portal de Cristal ao solo em qualquer<cf>lugar, exceto uma masmorra, e você pode usar<cf>um Ferrystone para retornar lá em um instante.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Os quadros de avisos da Gransys anunciam as missões<cf>- tarefas e favores que você pode<cf>decidir realizar.
@@ -40862,7 +40862,7 @@ Você está ganhando tempo.
 Parece que você veio na hora errada.
 Pode haver outro caminho.
 É uma arma poderosa ... Pena que não funciona.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Seu Pawn principal ganhará Rift Crystals<cf>enquanto estiver online em outros mundos. Incentive<cf>outros jogadores a recrutar seu lacaio!
@@ -41229,7 +41229,7 @@ Como já se disse, é melhor deixar os cães adormecidos mentirem. Pessoas dormi
 Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
 As fendas permitem que você pesquise e alugue Pawns<cf>que atendam às suas necessidades específicas.
 Fale com um Pawn para alistá-lo<cf>como membro do grupo.
-Os materiais coletados durante suas viagens<cf>podem ser usados ​​em lojas ou outros locais<cf>para aprimorar seu equipamento.
+Os materiais coletados durante suas viagens podem ser usados ​em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Este é o seu Pawn principal, o companheiro que você<cf>criou como Arisen. Ele sempre atuará como<cf>seu servo fiel.
 Sob sua orientação, seu Pawn principal<cf>aprenderá e desenvolverá suas habilidades e outros<cf>comportamentos no decorrer de suas aventuras.
 Esses Pawns invocados não ganham níveis.<cf>A experiência que eles ganham transmuta em Rift Crystals<cf>quando retornam ao seu mestre.
@@ -41585,7 +41585,7 @@ Sua espécie odeia gelo e fogo!
 Goblins são fracos para morder o gelo.
 O gelo serve bem contra os goblins!
 Prepare-se, goblin!
-O goblin cai! Strike, agora!
+O goblin cai! Ataque, agora!
 Eu vou golpear os caídos!
 Vou esmagar sua cabeça!
 A cabeça de um goblin é vulnerável!
@@ -42153,7 +42153,7 @@ Aqui para mais contos do dragão, não é?
 Pelo que me lembro, o dragão do duque começou a fazer ninhos no extremo norte.
 Dormi por semanas no topo de alguma montanha árida e cruel ...
 O duque Edmun partiu para enfrentar seu dragão onde ele estava. Veja bem, isso foi antes de ele ser duque.
-Ele cavalgou como o Arisen então, e ele invadiu a montanha com seus aliados de Pawn a reboque.
+Ele cavalgou como o Arisen então, e ele invadiu a montanha com seus Pawns aliados a reboque.
 Eles dizem que Edmun lutou com o wyrm por três dias e três noites sem descanso.
 Se o dragão de hoje é a mesma besta, volte ou qualquer outra coisa, eu não poderia dizer ...
 Mas se for o mesmo, pode muito bem estar no mesmo pico agora, reunindo forças.
@@ -42276,21 +42276,21 @@ Vamos prosseguir.
 Eu posso sentir o dragão ... Estamos perto.
 Os restos de um templo, talvez?
 Por aqui para o dragão, Mestre.<cf>Vamos terminar isso.
-Essa aura... isso só pode ser o dragão!
+Essa aura... é com certeza o dragão!
 Até os dragões morrem ... A hora<cf>chegou, Arisen!
-Este é o nosso valor, luta contra o mal do<cf>wyrm ...
+Este é o nosso valor, a luta contra o mal do<cf>dragão ...
 Estamos chegando ao fim da nossa jornada. o destino final <cf> da nossa longa luta...
-Não podemos permitir que o wyrm trabalhe<cf>em mais atrocidades.
+Não podemos permitir que o dragão faça mais<cf>atrocidades.
 Não ... Temo que toda a vanguarda<cf>tenha sido massacrada.
-Mais corpos ... O wyrm deve ser<cf>feito para saldar esta dívida.
+Mais corpos... O dragão deve<cf>pagar por essas mortes.
 O que é essa abominação ?! Tenha cuidado,<cf>cuidado, Mestre!
 Recuar só leva a morte, Arisen!<cf>Vamos abrir caminho à frente!
 Foram os pés de incontáveis ​​peregrinos que percorreram<cf>pela primeira vez esta estrada para o templo.
 Não há outros sobreviventes?
 Monstros destruíram<cf>este lugar ...
-Vamos nos apressar para o ninho do dragão.
-Eu sinto isso perto, Arisen. Esteja<cf>sempre pronto à medida que avançamos.
-Sinto outra presença. Uma poderosa besta<cf>, mas ... não o wyrm ...
+Vamos nos apressar para o covil do dragão.
+Eu o sinto perto, Arisen. Esteja<cf>sempre pronto à medida que avançamos.
+Sinto outra presença. Uma poderosa besta,<cf>mas ... não o dragão ...
 Nossa espécie está sempre pronta para lutar<cf>pela graça de sua orientação, Arisen.
 A porta abre ficando no painel.<cf>
 Esse painel pode conter um link<cf>para a porta?
@@ -43288,7 +43288,7 @@ O Ur-Dragon é um inimigo incrivelmente poderoso.<cf>Derrotá-lo requer vários 
 Quando você estiver conectado online, o progresso de outros<cf>jogadores contribuirá para<cf>derrotar o Ur-Dragon em sua instância.
 A recompensa que você ganha depende de quanto dano você causa. Se você realmente<cf>tiver sorte, poderá até dar o golpe final!
 Um inimigo poderoso e maligno espreita por perto.<cf>Cuidado com qualquer Pawn na batalha, pois<cf>eles podem estar sob sua influência.
-Wakestones são itens milagrosos que podem<cf>trazer seu personagem, aliados de Pawn ou<cf>outros de volta à vida.
+Wakestones são itens milagrosos que podem<cf>trazer seu personagem, Pawns aliados ou<cf>outros de volta à vida.
 Valorize cada Wakestone, pois os fragmentos<cf>necessários para formá-los são bastante raros e<cf>cada pedra pode ser usada apenas uma vez.
 Reúna fragmentos de Wakestone suficientes e<cf>eles se reunirão automaticamente para<cf>formar uma pedra completa.
 Um Ferrystone o levará de volta ao Gran<cf>Soren em um instante, não importa onde você<cf>esteja.
@@ -45957,12 +45957,12 @@ Por Real Decreto II
 Por Decreto Real III
 Eu estou ... estou morrendo ...?
 Aquele homem com quem você estava falando ... Ele é da legião de Pawns.
-Eles vêm de algum lugar desconhecido. Apenas apareça, sem avisar. Eles são muito estranhos.
-Não é humano, absolutamente. Eles parecem a parte com certeza, mas eles não têm a vontade ... a faísca que nos move.
-Não têm capacidade de sentir nem de agir sozinhos, por isso vivem como mercenários. Mirmidões, eles são chamados.
+Eles vêm de algum lugar desconhecido.simplesmente aparecem, sem avisar. Eles são muito estranhos.
+Não são humanos, absolutamente. Têm forma semelhante, é verdade, mas lhes falta o essencial – a vontade... a centelha que nos impulsiona.
+São incapazes de sentir ou agir por vontade própria – e assim vivem como mercenários. 'Mirmidões', assim são chamados.
 Mm ... Há um acampamento a oeste da aldeia onde os homens se reúnem para enfrentar o dragão.
 Aposto que um bom número de sua espécie também estará lá.
-Por que você não o leva? Pode ser que você aprenda alguma coisa por que ele veio até você em primeiro lugar.
+Por que você não o leva? Pode ser que você aprenda alguma coisa, por que ele veio até você em primeiro lugar.
 Esse Pawn estará olhando para o oeste para o acampamento, sem dúvida.
 Por que você não o vê lá? Ele não fará a viagem sozinho.
 Sua espécie apodrecerá onde estão, a menos que um humano ordene que se movam.
@@ -45993,8 +45993,8 @@ Equipamento
 
 Itens que restauram a saúde e o vigor,<cf>curam fraquezas e assim por diante.
 Itens frequentemente usados em<cf>aventuras e batalhas.
-Os itens podem ser combinados ou usados​​<cf>para aprimorar armas e armaduras.
-Itens essenciais para sua missão.
+Os itens que podem ser combinados ou​<cf>usados​ para aprimorar armas e armaduras.
+Itens essenciais para sua jornada.
 Itens variados.
 Armas empunhadas com uma ou<cf>duas mãos
 Armadura para o rosto e a cabeça
@@ -48408,7 +48408,7 @@ Que atrocidade ...
 <TUTO 1> Pressione <SIZE 25><ICON ATTACK0></SIZE> ou <SIZE 25><ICON ATTACK1></SIZE> para atacar.
 <TUTO 2> Atacar enquanto segura <ICON SUB_WEP> ou <ICON MAIN_WEP><cf>executará uma habilidade de arma.
 <TUTO 3> Pressione <SIZE 28><ICON LIFT></SIZE> para pegar itens, pessoas ou<cf>inimigos. Você pode restringir ou lançar alvos,<cf>ou pressionar <SIZE 28><ÍCONE LIFT></SIZE> novamente para abatê-los.
-<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas <lf> para seus aliados de Pawn.
+<TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas para seus Pawns aliados.
 <TUTO> Verifique seu status atual e inventário<cf>com <SIZE 28><ICON PAD_SL></SIZE>.
 Está bem fechado. Uma passagem pode ser vista através das barras.
 Esta é uma pedra do abismo, uma pedra gravada com marcas estranhas. Pode ser usado para invocar Pawns do além.
@@ -48423,7 +48423,7 @@ O portão está bem fechado. Você sente uma presença do outro lado ...
 <TUTO 5> Os ícones ao lado de seu medidor de saúde<cf>indicam quaisquer mudanças em seu status.
 <TUTO 6> Aproxime-se dos aliados caídos e pressione <SIZE 25><ICON TOUCH></SIZE><cf>para reanimá-los.
 <TUTO> Pressione <SIZE 28><ICON PAD_ST></SIZE> para ver os controles do jogo.
-<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará<cf>em ferimentos - ou morte.
+<TUTO> Preste atenção ao mundo ao seu redor.<cf>Algumas saliências podem ser escaladas, mas uma longa queda resultará em ferimentos<cf>ou morte.
 <TUTO> Esta é uma pedra do abismo. Acesse a fenda para<cf>trocar Pawns dentro e fora do seu grupo.
 <TUTO> As habilidades com armas disponíveis variam,<cf>dependendo do tipo de arma que você tem<cf>equipado.
 <TUTO> Velocidade de movimento e Vigor são<cf>afetados por seu tipo de corpo.
@@ -49483,10 +49483,10 @@ A música deles é magia de queda.
 Atraia-os e ataque!
 Pronto, Mestre! Harpias!
 Pronto, uma harpia!
-Harpia da neve!
-Um bando de harpias da neve!
+Harpia das neves!
+Um bando de harpias das neves!
 Pronto, Mestre! Harpias da neve!
-Mestre, uma harpia da neve!
+Mestre, uma harpia das neves!
 Uma súcubo!
 Uma ninhada de súcubos!
 Pronto, Mestre! Succubi!
