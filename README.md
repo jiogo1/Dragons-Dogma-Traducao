@@ -1,11 +1,10 @@
-# **🐉 Bem-vindo ao Projeto de Revisão de *Dragon's Dogma*!**  
-*(Revisado por jiogo1)*  
-(A versão de revisão do meu fork, possui melhorias gerais feitas a dedo por mim)
+# **🐉 Bem-vindo ao Projeto Tradução Definitiva *Dragon's Dogma*!**  
+*(jiogo1)*  
+(A versão definitiva para jogar Dragons Dogma Dark Arisen, feita a dedo por mim)
  
-**Deixo meus agradecimentos a **Amianto Traduções** por deixar a 
-tradução em código aberto**
-
-🔍 **Estamos revisando e melhorando a tradução do jogo** para torná-la mais fiel, imersiva e divertida em português! Se você é fã do jogo ou ama traduções de games, **sua ajuda é essencial** para esse projeto colaborativo.  
+*Deixo meus agradecimentos a **Amianto Traduções** por disponibilizar a versão
+0.1.7 para essa reformulação da tradução.*
+*Deixo meus agradecimentos ao ''GuilhermeA'' por ajudar no empacotamente do arquivo em .pck*
 
 ---
 
