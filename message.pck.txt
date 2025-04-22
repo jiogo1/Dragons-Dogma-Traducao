@@ -430,7 +430,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -973,7 +973,7 @@ Há outra sala aqui.
 Uma caverna...
 Uma pequena caverna está além. Podemos<cf>minerá-lo em busca de minério.
 Tem certeza de que devemos entrar<cf>na casa de alguém sem ser convidados?
-Antes de sair, visite a loja para<cf>e certifique-se de ter suprimentos suficientes.
+Antes de sair, visite a loja para<cf>se certificar de ter suprimentos suficientes.
 Do dia à noite, esta área parece<cf>completamente diferente.
 Cuidado com seus fundos.
 A vida de um vendedor certamente tem<cf>suas próprias provações.
@@ -1377,7 +1377,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo .<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -1749,7 +1749,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -1989,7 +1989,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -3015,7 +3015,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -3506,8 +3506,8 @@ Picareta
 Lanterna (Sem óleo)
 Item Desconhecido
 Item Desconhecido
-Throwblast
-Dragon's Spit
+Bomba Explosiva
+Cuspe de Dragão
 Item Desconhecido
 Seiva Abafadora
 Harspud Milk
@@ -3557,12 +3557,12 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Wooden Arrow
-Poison Arrow
+Flecha de Madeira
+Flecha Envenenada
 Blinder Arrow
 Flecha Silenciadora
-Sleeper Arrow
-Oil Arrow
+Flecha Sonífera
+Flecha Oleosa
 z
 Petrifying Arrow
 Item Desconhecido
@@ -3980,16 +3980,16 @@ White Hawk's Talon
 Item Desconhecido
 Camisa Plebeia
 Grevas de Tecido
-Faded Vest
-Traveler's Shirt
-Tunic
+Colete Desbotado
+Camisa do Viajante
+Túnica
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
 Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
-Linen Shirt
+Camisa de Linho
 Riveted Coat
 Assembled Vest
 Quilted Jerkin
@@ -4142,7 +4142,7 @@ Melting Focus
 Dominion Claw
 Item Desconhecido
 Item Desconhecido
-Leather Cap
+Boné de couro
 Circlet
 Leather Hood
 Chain Coif
@@ -4228,16 +4228,16 @@ Blackwing Bow
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Skull Belts
-Leather Jacket
-Shabby Robe
+Cinto Esquelético
+Jaqueta de Couro
+Túnica Surrada 
 Bone Armor
 Bone Plate Armor
-Leather Belts
+Cinto de Couro
 Sectional Armor
-Chestguard
-Scholar's Coat
-Healer's Robe
+Protetor de Peito
+Casaco do Erudito
+Túnica do Curandeiro
 Bronze Cuirass
 Leather Waistwrap
 Mummer's Wear
@@ -4314,7 +4314,7 @@ Hood of Shadow
 Hood of Oblivion
 Grave Veil
 Carrion Veil
-Traveler's Vest
+Colete do Viajante
 Novice's Coat
 Item Desconhecido
 Immortal's Coat
@@ -4405,7 +4405,7 @@ Novice Breeches
 Cassardi Greaves
 Metal Greaves
 Grevas Peludas
-Botas de Estudioso
+Botas do Erudito
 Iron Leg Guards
 Steel-Toed Boots
 Bronze Sabatons
@@ -6196,7 +6196,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -6593,7 +6593,7 @@ Habilidades de arma primária
 Agarrar / atirar
 Habilidades de arma secundária
 Pedidos de penhor
-Ataque Pesado
+Ataque Forte
 Ação
 Ataque Leve
 Pular
@@ -6624,8 +6624,8 @@ Tipo H
 Mensagem Inválida
 Saltar / Confirmar
 Saltar / Cancelar
-Ataque pesado / confirmação
-Ataque pesado / cancelamento
+Ataque Forte / confirmação
+Ataque Forte / cancelamento
 Ação / Confirmar
 Ação / Cancelar
 Mover câmera (<ICON PAD_R3>: Centro)
@@ -7071,7 +7071,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -7765,14 +7765,14 @@ Você pode tentar puxar conversa ... você simplesmente não terá sucesso.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
-Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
+Uma variedade de itens úteis pode ser<cf>encontrada derrotando monstros ou<cf>explorando o ambiente.<cf>Mantenha seus olhos abertos.
+Você pode ver uma descrição completa de qualquer item que possui, verificando<cf>seu inventário com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Derrotar inimigos e completar missões<cf>dá a você experiência, e cada nível<cf>ganho aumenta todos os seus atributos.
 Os materiais coletados durante suas viagens podem ser usados em lojas ou outros locais<cf>para aprimorar seu equipamento.
 Sempre converse com as pessoas que<cf>vê na cidade ou nas estradas. Alguns podem<cf>oferecer informações ou missões importantes.
-As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode<cf>sempre consultar a seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
-Se você tiver várias missões em andamento ao mesmo tempo<cf>, poderá definir uma como "Prioridade"<cf>na seção "Missões" do Menu de Pausa.
+As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode sempre consultar a<cf>seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
+Se você tiver várias missões em andamento ao mesmo tempo,<cf>poderá definir uma como "Prioridade"na seção "Missões"<cf>do Menu de Pausa.
 Isso fará com que todas as pessoas, lugares,<cf>e coisas relevantes para a missão prioritária<cf>apareçam com destaque em seu minimapa.
 Os Pawns em seu grupo também oferecerão conselhos<cf>para a missão prioritária com mais freqüência do que para<cf>outras missões em seu log.
 Os quadros de avisos da Gransys anunciam as missões<cf>- tarefas e favores que você pode<cf>decidir realizar.
@@ -7821,7 +7821,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione  <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -8171,7 +8171,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -8414,7 +8414,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -8557,7 +8557,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -8713,7 +8713,7 @@ Arremessos além do alvo com lâminas<cf>estendidas, entregando barras que podem
 Uma forma avançada de Shearing Wind. Golpeia<cf>além do alvo, acrescentando mais golpes ao<cf>o ataque ao se conectar com um inimigo.
 Avança com um golpe de lâmina que envia<cf>o alvo para o alto. Os botões adicionais pressionados<cf>lançam e detonam um depósito de pólvora.
 Uma forma avançada de Lançamento e Ativação com<cf>uma barra para cima mais forte que envia os inimigos<cf>para o alto. Apertos adicionais de botão lançam<cf>e detonam um estoque maior de pólvora.
-Concentra uma enxurrada de golpes em um único ponto<cf>, destruindo facilmente inimigos com<cf>resistência insuficiente.
+Concentra uma enxurrada de golpes em um único<cf>ponto, destruindo facilmente inimigos com<cf>resistência insuficiente.
 Uma forma avançada de Beijos Escarlates que<cf>concentra uma rajada rápida de golpes em um único ponto<cf>, permitindo mais golpes.
 Lança um explosivo de fogos de artifício na briga<cf>que atordoa os inimigos próximos.
 Uma forma avançada de Dazzle Hold que<cf>lança um explosivo criado para atordoar os inimigos<cf>em um raio maior.
@@ -9443,7 +9443,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -9839,7 +9839,7 @@ Vestad Hills
 Site de Erradicação
 Devilfire Grove
 Santuário do Conquistador
-De Aestella
+Apotecário de Aestella
 
 
 
@@ -12321,7 +12321,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -12622,7 +12622,7 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que usa combustível líquido,<cf>deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo.
+Uma pequena fonte de luz que usa combustível<cf>líquido,deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo.
 Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está quase<cf>cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
@@ -13109,7 +13109,7 @@ Um archistaff contaminado com miasma por um feiticeiro mestre.<cf> Seu encanto s
 Uma espada longa feia e áspera feita com a função<cf>, não com a forma em mente. Tão impossivelmente<cf>enorme, nenhum humano normal poderia lidar com isso.
 Uma lâmina delgada, bonita e de fácil manuseio.<cf> Seu design único e elegante<cf>aumenta a visibilidade de seu portador aos<cf>olhos dos outros.
 Detalhes desconhecidos.
-Uma camisa de estilo comum e tecido<cf>barato. Oferece proteção contra o frio<cf>, mas pouco mais.
+Uma camisa de estilo comum e tecido<cf>barato. Oferece proteção contra o frio,<cf>mas pouco.
 Calças de estilo comum e tecido<cf>barato.
 Um colete de couro plissado. Bem usado, mas<cf>ainda adequado para uso diário.
 Uma camisa resiliente capaz de suportar longas<cf>viagens e a vida na estrada.
@@ -14478,7 +14478,7 @@ Encontrei você!
 Lá!
 Não deixe ninguém escapar!
 Mate todos eles se for preciso!
-Não dê trimestre!
+Não dê trégua!
 Mensagem Inválida
 Mensagem Inválida
 Mensagem Inválida
@@ -15144,7 +15144,7 @@ Olá, Sr. ... Diga-me, você acha que estou fazendo isso direito? Estou há apen
 Um comerciante me pagou para comprar aqui e avisa se eu encontrar algo de valor.
 ... Mas não tenho olho para coisas preciosas, verdade seja dita. Você pode explorar o lugar como quiser.
 Você vai pagar por nos jogar como tolos!
-Como está o dia que encontrou você?
+Como está neste dia?
 Segure aqui!
 O capitão da Pedra do Norte busca suprimentos? Muito bem.
 Vou providenciar isso imediatamente. Sabe qual a quantidade que ele precisa?
@@ -15414,8 +15414,8 @@ Muito bem, Sr!
 Sim, é isso!
 Bastante lutador, hein?
 Isso foi muito perto ...
-Chamo-me Reynard. Um caixeiro viajante, embora aquelas bestas malditas arruinassem minhas mercadorias ...
-Mas, graças a você, perdi apenas mercadorias. Vou considerar isso uma pechincha. Você tem o meu agradecimento.
+Chamo-me Reynard. Um caixeiro viajante, embora aquelas bestas malditas tenham arruinado minhas mercadorias ...
+Mas, graças a você, perdi apenas as mercadorias. Vou considerar isso uma barganha. Você tem o meu agradecimento.
 Temo que isso seja tudo que eu deixei para oferecer a você. Com sorte, você encontrará alguma utilidade nisso.
 É melhor eu ir embora antes que apareçam mais ... Espero vê-lo novamente, amigo, assim que tiver novo estoque!
 Suponho que voltarei atrás e comprarei novo estoque ... Com sorte, nos encontraremos novamente!
@@ -15986,7 +15986,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -18594,7 +18594,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -19032,7 +19032,7 @@ A luz funciona bem!
 Agora! Ataque!
 Está machucado!
 Uma abertura!
-Não dê trimestre!
+Não dê trégua!
 Não mostres misericórdia!
 Ataque com tudo que você tem!
 Acerte com todas as suas forças!
@@ -19056,7 +19056,7 @@ Chamas que consomem tudo ...
 Divida o céu!
 Brilho, raio radiante ...
 Pegue meu fogo!
-Abençoo-te com chama do fogo!
+Abençoo-te com a chama do fogo!
 Abençoo-te com mordida do gelo!
 Devemos selar essa magia!
 Para atacar daqui ...!
@@ -19279,7 +19279,7 @@ Eu vou te ajudar com fogo de arco!
 Está enfurecido! Olhe!
 Vamos assistir e esperar.
 Acabou!
-Eu te mando de volta para o túmulo!
+Eu te mando de volta pro túmulo!
 Esta é a nossa chance!
 Agora! Traga fogo!
 Eu vou segurar isso!
@@ -19948,7 +19948,7 @@ Nnnrgh ...
 Aaargh ...
 Hnh!
 Hrgh!
-Como está o dia que encontrou você?
+Como está neste dia?
 O Maker acelera seus passos.
 Direito.
 Nah ...
@@ -21750,7 +21750,7 @@ Examinar
 -
 -
 Pular
-Ataque Pesado
+Ataque Forte
 Ataque Leve
 Abaixe
 Lançar
@@ -22268,7 +22268,7 @@ Ouça ele
 Agora não
 Sim, eu sabia que podia contar com você.
 Verdade seja dita, o crime já chegou. Um ladrão, primo.
-Ele atinge os mesmos pontos todas as vezes. A mercearia de Heraldo e o boticário de Aestella sofreram, assim como eu.
+Ele atinge os mesmos pontos todas as vezes. A mercearia de Heraldo e o Apotecário da Aestella sofreram, assim como eu.
 O rato rouba no meio da noite e belisca os alimentos e os estoques vitais que reunimos para os momentos de necessidade.
 Um desgraçado habilidoso também, e bem astuto. Existe uma ordem estrita para seu roubo.
 Falei com os outros e combinamos um plano para pegar nosso rato.
@@ -24312,7 +24312,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -24574,7 +24574,7 @@ Mudar de equipamento
 Esquece.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser<cf>encontrada derrotando monstros ou<cf>explorando o ambiente.<cf>Mantenha seus olhos abertos.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com  <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Depois de atingir um determinado nível,<cf>você pode ir para a pousada para realizar<cf>vocações avançadas.
@@ -24599,8 +24599,8 @@ Qualquer item que um Pawn invocado equipa<cf>se tornará um presente para seu me
 O Pawn principal que você criou pode viajar<cf>para outros mundos online para ajudar outros jogadores<cf>em suas viagens.
 Essas aventuras podem resultar em novos conhecimentos, itens e equipamentos<cf>que eles<cf>trazem de volta quando retornam.
 Sempre converse com as pessoas que<cf>vê na cidade ou nas estradas. Alguns podem<cf>oferecer informações ou missões importantes.
-As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode<cf>sempre consultar a seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
-Se você tiver várias missões em andamento ao mesmo tempo<cf>, poderá definir uma como "Prioridade"<cf>na seção "Missões" do Menu de Pausa.
+As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode sempre consultar a<cf>seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
+Se você tiver várias missões em andamento ao mesmo tempo,<cf>poderá definir uma como "Prioridade"na seção "Missões"<cf>do Menu de Pausa.
 Isso fará com que todas as pessoas, lugares,<cf>e coisas relevantes para a missão prioritária<cf>apareçam com destaque em seu minimapa.
 Os Pawns em seu grupo também oferecerão conselhos<cf>para a missão prioritária com mais freqüência do que para<cf>outras missões em seu log.
 Os quadros de avisos da Gransys anunciam as missões<cf>- tarefas e favores que você pode<cf>decidir realizar.
@@ -24679,7 +24679,7 @@ Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrif
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
 É somente aqui que você pode habilitar as habilidades<cf>e aprimoramentos que aprender. Você não pode alterá-los no campo.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Habilidades básicas são habilitadas assim que<cf>são aprendidas.
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
@@ -24775,7 +24775,7 @@ Além disso, uma vez que você tenha crescido o suficiente como<cf>Arisen, você
 Às vezes, pessoas que oferecem serviços úteis<cf>podem ser encontradas nos acampamentos espalhados<cf>ao redor de Gransys.
 Fale com eles para gerenciar habilidades e<cf>aprimoramentos, e armazenar itens enquanto estiver<cf>no campo.
 Você pode ver vendedores ambulantes apregoando seus produtos enquanto<cf>você avança em torno de Gransys.
-Eles costumam encontrar itens raros não encontrados<cf>em mais papelarias. Se você vir um vendedor ambulante<cf>, certifique-se de verificar o que ele tem<cf>a oferecer.
+Eles costumam encontrar itens raros não encontrados<cf>em mais papelarias. Se você vir um vendedor ambulante,<cf>certifique-se de verificar o que ele tem<cf>a oferecer.
 Retorne a uma fenda ou fale com os Pawns que você<cf>encontrou para contratar um novo Pawn de suporte.
 Tendo sido reconhecido como Arisen, você<cf>recebeu um Pawn leal para ser seu<cf>companheiro constante em sua jornada.
 Além deste Pawn principal, você pode contratar<cf>até dois outros Pawns para apoiá-lo em<cf>suas aventuras.
@@ -25315,7 +25315,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -27263,7 +27263,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -27726,10 +27726,10 @@ Destruir os ovos atrairá os maiores sáurios.
 Isso deve nos livrar dos sáurios por um tempo.
 Tantos ovos ... É uma ninhada maior do que eu temia.
 Ovos de Saurian são rápidos de queimar.
-Termine - envie um Throwblast no ninho.
-Use o Throwblast que você recebeu com sabedoria.
+Termine - jogue uma bomba explosiva no ninho.
+Use uma bomba explosiva que você recebeu com sabedoria.
 Tantos ovos ...
-Queime o ninho com um Throwblast!
+Queime o ninho com uma Bomba explosiva!
 Um pouco de magia transformará o ninho em cinzas.
 Não devemos deixar nenhum ovo inteiro!
 Existem ovos por aqui.
@@ -28418,7 +28418,7 @@ Uma madeira altamente flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira menos flexível usada na<cf>confecção de arcos e flechas.
 Uma madeira dura usada na confecção de<cf>arcos e flechas.
 Uma madeira extremamente rígida usada na<cf>confecção de arcos e flechas.
-Uma pequena fonte de luz que usa combustível líquido,<cf>deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo. 
+Uma pequena fonte de luz que usa combustível<cf>líquido,deve ser reabastecido. Pode ser preso na cintura.<cf>Tem óleo suficiente para queimar por um tempo. 
 Uma pequena fonte de luz que usa combustível<cf>líquido, que deve ser reabastecido.<cf>Pode ser preso na cintura. Atualmente, está<cf>quase cheio de óleo.
 Uma pedra que pode levar o usuário de volta<cf>ao Gran Soren, ou então, a localização<cf>de um cristal de portal em um instante.
 Um recipiente vazio que pode ser usado para<cf>armazenar líquido.
@@ -28905,7 +28905,7 @@ Um archistaff contaminado com miasma por um feiticeiro mestre.<cf> Seu encanto s
 Uma espada longa feia e áspera feita com a função<cf>, não com a forma em mente. Tão impossivelmente<cf>enorme, nenhum humano normal poderia lidar com isso.
 Uma lâmina delgada, bonita e de fácil manuseio.<cf> Seu design único e elegante<cf>aumenta a visibilidade de seu portador aos<cf>olhos dos outros.
 Detalhes desconhecidos.
-Uma camisa de estilo comum e tecido<cf>barato. Oferece proteção contra o frio<cf>, mas pouco mais.
+Uma camisa de estilo comum e tecido<cf>barato. Oferece proteção contra o frio,<cf>mas pouco.
 Calças de estilo comum e tecido<cf>barato.
 Um colete de couro plissado. Bem usado, mas<cf>ainda adequado para uso diário.
 Uma camisa resiliente capaz de suportar longas<cf>viagens e a vida na estrada.
@@ -31056,7 +31056,7 @@ Vamos falar com quem comanda essa banda.
 Eu também me sinto meio ladrão andando<cf>por este lugar.
 Isso deve nos dar uma passagem segura.
 Lute ou fuja, a escolha é sua.
-Este caminho deve nos ver lá.
+Este caminho deve nos levar lá.
 Para o acampamento.
 O mascate é derrotado. Podemos<cf>ajudar?
 Esta estrada nos levará ao acampamento<cf>em muito mais tempo.
@@ -31823,8 +31823,8 @@ Foi retirado dos goblins, com certeza, mas eles dizem que nenhum homem ainda exi
 E agora há histórias de uma voz misteriosa e um monstro gigante, nada menos. É uma bagunça certa!
 Pouca misericórdia de saber que a capital não é o único lugar atormentado por tais males ...
 Fala-se de monstros emergindo das águas rasas ao longo da costa.
-Coisas desagradáveis ​​também. A Salmoura, eles os chamam ...<cf>Eles dizem que são muitos e ainda um, seja o que for que isso signifique.
-Parece que esta "salmoura" não pode ser superada, o que é mais. Nada a fazer a não ser evitar a beira da água.
+Há coisas sombrias por aí... A Salmoura, é como eles a chamam.<cf>Dizem que são muitos, mas também um só, seja lá o que isso queira dizer.
+Parece que esta 'Salmoura' é invencível, uma ameaça sem igual.<cf>Não há o que fazer, exceto fugir das margens da água
 Os tempos estão realmente difíceis ...
 Tenho um mau pressentimento sobre isso ...
 Selene pode estar em perigo ...<cf>É melhor nos apressarmos para Witchwood.
@@ -32631,7 +32631,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -32916,7 +32916,7 @@ Uma forma avançada de Cortar Vento que<cf>aumenta o alcance do ataque, a quanti
 Avança com um golpe de lâmina que envia<cf>o alvo para o alto. Os botões adicionais pressionados<cf>lançam e detonam um depósito de pólvora.
 Uma forma avançada de Lançamento e Ativação com<cf>uma barra para cima mais forte que envia os inimigos<cf>para o alto. Apertos adicionais de botão lançam<cf>e detonam um estoque maior de pólvora.
 
-Concentra uma enxurrada de golpes em um único ponto<cf>, destruindo facilmente inimigos com<cf>resistência insuficiente.
+Concentra uma enxurrada de golpes em um único<cf>ponto, destruindo facilmente inimigos com<cf>resistência insuficiente.
 Uma forma avançada de Beijos Escarlates que<cf>concentra uma rajada rápida de golpes em um único ponto<cf>, permitindo mais golpes.
 Uma forma avançada de Cem Beijos<cf>que aumenta a velocidade e o número<cf>de barras na rajada.
 Lança um explosivo de fogos de artifício na briga<cf>que atordoa os inimigos próximos.
@@ -35297,7 +35297,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -35308,7 +35308,7 @@ Toque em qualquer pedra do abismo para retornar seu Pawn principal<cf>perdido pa
 Se um Pawn de suporte for perdido, todos os itens<cf>que eles carregavam são enviados para o inventário.
 Você pode enviar Pawns que partem com um único item<cf>como um presente para seu criador.
 Você pode passar itens de e para seus Pawns<cf>no submenu.
-Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser<cf>encontrada derrotando monstros ou<cf>explorando o ambiente.<cf>Mantenha seus olhos abertos.
 Oof.
 Guh!
 Uaaaugh ...
@@ -35371,7 +35371,7 @@ Nada a relatar?
 Que é aquele!?
 Um impostor!
 Ouvi dizer que Benita mandou você colher flores para ela. Por favor, apenas seja cauteloso, primo.
-Os monstros ficam mais ousados ​​à noite. Se você tiver que deixar a aldeia, vá preparado.
+Os monstros ficam mais ousados ​à noite. Se você tiver que deixar a aldeia, vá preparado.
 Não gosto da ideia de você sair por conta própria, mas confio em seu julgamento.
 Se vier pela pousada, pode sempre descansar até a hora que desejar. Em qualquer caso, tome cuidado.
 Abra o portão! Rapidamente!
@@ -35863,8 +35863,8 @@ Picareta
 Lanterna (Sem óleo)
 Item Desconhecido
 Item Desconhecido
-Throwblast
-Dragon's Spit
+Bomba Explosiva
+Cuspe de Dragão
 Item Desconhecido
 Seiva Abafadora
 Harspud Milk
@@ -35914,12 +35914,12 @@ Item Desconhecido
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Wooden Arrow
-Poison Arrow
+Flecha de Madeira
+Flecha Envenenada
 Blinder Arrow
 Flecha Silenciadora
-Sleeper Arrow
-Oil Arrow
+Flecha Sonífera
+Flecha Oleosa
 z
 Petrifying Arrow
 Item Desconhecido
@@ -36337,16 +36337,16 @@ White Hawk's Talon
 Item Desconhecido
 Camisa Plebeia
 Grevas de Tecido
-Faded Vest
-Traveler's Shirt
-Tunic
+Colete Desbotado
+Camisa do Viajante
+Túnica
 Bandages
 Cassardi Shift
 Fine Cassardi Shirt
 Camisa de Cânhamo
 Leather Chestguard
 Item Desconhecido
-Linen Shirt
+Camisa de Linho
 Riveted Coat
 Assembled Vest
 Quilted Jerkin
@@ -36499,7 +36499,7 @@ Melting Focus
 Dominion Claw
 Item Desconhecido
 Item Desconhecido
-Leather Cap
+Boné de couro
 Circlet
 Leather Hood
 Chain Coif
@@ -36585,16 +36585,16 @@ Blackwing Bow
 Item Desconhecido
 Item Desconhecido
 Item Desconhecido
-Skull Belts
-Leather Jacket
-Shabby Robe
+Cinto Esquelético
+Jaqueta de Couro
+Túnica Surrada 
 Bone Armor
 Bone Plate Armor
-Leather Belts
+Cinto de Couro
 Sectional Armor
-Chestguard
-Scholar's Coat
-Healer's Robe
+Protetor de Peito
+Casaco do Erudito
+Túnica do Curandeiro
 Bronze Cuirass
 Leather Waistwrap
 Mummer's Wear
@@ -36671,7 +36671,7 @@ Hood of Shadow
 Hood of Oblivion
 Grave Veil
 Carrion Veil
-Traveler's Vest
+Colete do Viajante
 Novice's Coat
 Item Desconhecido
 Immortal's Coat
@@ -36762,7 +36762,7 @@ Novice Breeches
 Cassardi Greaves
 Metal Greaves
 Grevas Peludas
-Botas de Estudioso
+Botas do Erudito
 Iron Leg Guards
 Steel-Toed Boots
 Bronze Sabatons
@@ -37938,7 +37938,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -38633,7 +38633,7 @@ Que criatura vil e insignificante é o homem ...
 Eu te peço, afie seu espírito. Refine-o.
 Compre equipamentos e itens úteis em lojas<cf>ou comerciantes ambulantes que encontrar<cf>em suas viagens.
 Você pode restaurar Saúde e Vigor e<cf>avançar a passagem do tempo em qualquer pousada<cf>ou local de descanso.
-Uma variedade de itens úteis pode ser encontrada derrotando monstros ou explorando<cf>o ambiente.<cf>Mantenha seus olhos abertos.
+Uma variedade de itens úteis pode ser<cf>encontrada derrotando monstros ou<cf>explorando o ambiente.<cf>Mantenha seus olhos abertos.
 Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com  <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Sua vocação determina seus atributos básicos<cf>, equipamentos,<cf>e habilidades.
 Depois de atingir um determinado nível,<cf>você pode ir para a pousada para realizar<cf>vocações avançadas.
@@ -38658,8 +38658,8 @@ Qualquer item que um Pawn invocado equipa<cf>se tornará um presente para seu me
 O Pawn principal que você criou pode viajar<cf>para outros mundos online para ajudar outros jogadores<cf>em suas viagens.
 Essas aventuras podem resultar em novos conhecimentos, itens e equipamentos<cf>que eles<cf>trazem de volta quando retornam.
 Sempre converse com as pessoas que<cf>vê na cidade ou nas estradas. Alguns podem<cf>oferecer informações ou missões importantes.
-As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode<cf>sempre consultar a seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
-Se você tiver várias missões em andamento ao mesmo tempo<cf>, poderá definir uma como "Prioridade"<cf>na seção "Missões" do Menu de Pausa.
+As missões disponíveis mudam conforme você avança<cf>no jogo. Além disso, você pode sempre consultar a<cf>seção "Missões" do Menu de Pausa<cf>para seus objetivos atuais.
+Se você tiver várias missões em andamento ao mesmo tempo,<cf>poderá definir uma como "Prioridade"na seção "Missões"<cf>do Menu de Pausa.
 Isso fará com que todas as pessoas, lugares,<cf>e coisas relevantes para a missão prioritária<cf>apareçam com destaque em seu minimapa.
 Os Pawns em seu grupo também oferecerão conselhos<cf>para a missão prioritária com mais freqüência do que para<cf>outras missões em seu log.
 Os quadros de avisos da Gransys anunciam as missões<cf>- tarefas e favores que você pode<cf>decidir realizar.
@@ -38738,7 +38738,7 @@ Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrif
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
 É somente aqui que você pode habilitar as habilidades<cf>e aprimoramentos que aprender. Você não pode alterá-los no campo.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Habilidades básicas são habilitadas assim que<cf>são aprendidas.
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
@@ -38796,7 +38796,7 @@ As águas desta fonte misteriosa são<cf>abençoadas com propriedades curativas.
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
-<TUTO> Invocar esta pedra pode lhe render novos aliados conhecidos como "Pawns",<cf>cuja lealdade na batalha<cf>nunca irá falhar.
+<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha nunca irá falhar.
 Dispare todos os inimigos e abra a gaiola<cf>assim que a área estiver segura.
 Brutos enredaram uma vítima inocente.<cf>Derrote os inimigos próximos e resgate a<cf>alma infeliz.
 Esta é uma fenda ... um espaço entre os reinos<cf>a partir do qual todo e qualquer tipo de Pawn<cf>pode ser encontrado.
@@ -38824,7 +38824,7 @@ Tendo se encontrado com o duque, você agora pode receber<cf>nas Ordens Reais. P
 Você não pode permitir que os enredos do Elysion<cf>aconteçam. Vá para The Greatwall e<cf>pare a Salvação!
 Você derrubou o dragão e completou<cf>seu objetivo! Relate sua vitória para os<cf>aldeões.
 Você derrubou o dragão, mas o que<cf>aconteceu com Gran Soren? Depois de falar com<cf>os aldeões, é melhor ver por si mesmo.
-Você progride no jogo<cf>completando missões. Sempre converse com as<cf>pessoas que você encontrar. Eles certamente terão<cf>algo para você fazer.
+Você progride no jogo completando missões,<cf>Sempre converse com as pessoas que você<cf>encontrar. Eles certamente terão algo para<cf>você fazer.
 Se você chegou a um impasse em uma missão,<cf>tente defini-la como sua missão prioritária <cf>para garantir que receba dicas e informações<cf>úteis.
 Diferentes Pawns têm diferentes forças, então<cf>use Pawns de suporte para ajustar seu grupo para atender<cf>suas necessidades atuais.
 Ecbal, localizado no quartel-general de comando<cf>do acampamento, fornece muitas funções de suporte<cf>diferentes para aventureiros.
@@ -38834,7 +38834,7 @@ Além disso, uma vez que você tenha crescido o suficiente como<cf>Arisen, você
 Às vezes, pessoas que oferecem serviços úteis<cf>podem ser encontradas nos acampamentos espalhados<cf>ao redor de Gransys.
 Fale com eles para gerenciar habilidades e<cf>aprimoramentos, e armazenar itens enquanto estiver<cf>no campo.
 Você pode ver vendedores ambulantes apregoando seus produtos enquanto<cf>você avança em torno de Gransys.
-Eles costumam encontrar itens raros não encontrados<cf>em mais papelarias. Se você vir um vendedor ambulante<cf>, certifique-se de verificar o que ele tem<cf>a oferecer.
+Eles costumam encontrar itens raros não encontrados<cf>em mais papelarias. Se você vir um vendedor ambulante,<cf>certifique-se de verificar o que ele tem<cf>a oferecer.
 Retorne a uma fenda ou fale com os Pawns que você<cf>encontrou para contratar um novo Pawn de suporte.
 Tendo sido reconhecido como Arisen, você<cf>recebeu um Pawn leal para ser seu<cf>companheiro constante em sua jornada.
 Além deste Pawn principal, você pode contratar<cf>até dois outros Pawns para apoiá-lo em<cf>suas aventuras.
@@ -38982,7 +38982,7 @@ Sim, sim.
 Não...
 Obrigada.
 Você é capaz de me fazer corar, Sr.
-É uma misericórdia que grande parte da vila tenha sido poupada.
+É uma benção que grande parte da vila tenha sido poupada.
 Se a fera tivesse pousado mais para o interior, esta loja seria plana como uma prancha agora.
 Me deixa doente só de pensar nisso.
 Não faz sentido ficar aberto com tão poucas pessoas, eu sei ...
@@ -40127,7 +40127,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -40507,7 +40507,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -40886,7 +40886,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -41285,7 +41285,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -42434,7 +42434,7 @@ Examinar
 -
 -
 Pular
-Ataque Pesado
+Ataque Forte
 Ataque Leve
 Abaixe
 Lançar
@@ -43311,7 +43311,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -43862,7 +43862,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -44274,7 +44274,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -44853,7 +44853,7 @@ Ooft!
 Aaaugh ...
 Yah!
 Hyaaah!
-Como está o dia que encontrou você?
+Como está neste dia?
 Tome cuidado, hein?
 Sim, Sr.
 Oh não.
@@ -45993,7 +45993,7 @@ Equipamento
 
 Itens que restauram a saúde e o vigor,<cf>curam fraquezas e assim por diante.
 Itens frequentemente usados em<cf>aventuras e batalhas.
-Os itens que podem ser combinados ou​<cf>usados​ para aprimorar armas e armaduras.
+Itens que podem ser combinados ou​<cf>usados​ para aprimorar armas e armaduras.
 Itens essenciais para sua jornada.
 Itens variados.
 Armas empunhadas com uma ou<cf>duas mãos
@@ -46593,7 +46593,7 @@ Habilidades de arma primária
 Agarrar / atirar
 Habilidades de arma secundária
 Pedidos de penhor
-Ataque Pesado
+Ataque Forte
 Ação
 Ataque Leve
 Pular
@@ -46624,8 +46624,8 @@ Tipo H
 Mensagem Inválida
 Saltar / Confirmar
 Saltar / Cancelar
-Ataque pesado / confirmação
-Ataque pesado / cancelamento
+Ataque Forte / confirmação
+Ataque Forte / cancelamento
 Ação / Confirmar
 Ação / Cancelar
 Mover câmera (<ICON PAD_R3>: Centro)
@@ -46683,7 +46683,7 @@ Recuar
 Mover para esquerda
 Mover para direita
 Pular
-Ataque pesado
+Ataque Forte
 Ataque leve
 Ação
 Conjunto de habilidades primárias
@@ -46702,7 +46702,7 @@ Mova o personagem para trás.
 Mova o personagem para a esquerda.
 Mova o personagem para a direita.
 Execute o salto.
-Use um ataque pesado.
+Use um Ataque Forte.
 Use ataque leve.
 Interaja com o meio ambiente.
 Use o conjunto de habilidades primárias (use com os botões de habilidade).
@@ -48411,7 +48411,7 @@ Que atrocidade ...
 <TUTO 4> Use <SIZE 28><ICON PAD_DP></SIZE> para emitir ordens básicas para seus Pawns aliados.
 <TUTO> Verifique seu status atual e inventário<cf>com <SIZE 28><ICON PAD_SL></SIZE>.
 Está bem fechado. Uma passagem pode ser vista através das barras.
-Esta é uma pedra do abismo, uma pedra gravada com marcas estranhas. Pode ser usado para invocar Pawns do além.
+Esta é uma pedra do abismo, uma pedra gravada com marcas estranhas. Pode ser usada para invocar Pawns do além.
 As marcas não brilham mais. Parece que os Pawns não podem ser convocados agora.
 Você não pode continuar a partir daqui.
 Outro caído ...
@@ -48435,10 +48435,10 @@ O portão está bem fechado. Você sente uma presença do outro lado ...
 <TUTO 8> Sua saúde e resistência atuais são<cf>exibidas na parte inferior esquerda da tela.
 <TUTO 9> Encontre sua orientação consultando o mapa<cf>no canto inferior esquerdo da tela.
 <TUTO> Usar uma lanterna manterá a escuridão afastada.<cf>Pressione <SIZE 28><ICON PAD_SL></SIZE> para abrir seu inventário.
-<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha<cf>nunca irá falhar.
+<TUTO> Invocar esta pedra pode lhe render novos aliados<cf>conhecidos como "Pawns", cuja lealdade na batalha nunca irá falhar.
 Uma grande porta ... Abre por algum interruptor, mais parecido.
 Nenhuma outra resposta, ao que parece.
-Você pode ver uma descrição completa de qualquer item<cf>que possui, verificando seu inventário<cf>com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
+Você pode ver uma descrição completa de qualquer item que possui, verificando<cf>seu inventário com <TUTO><SIZE 28><ICON PAD_SL></SIZE>.
 Selecione "Status" no menu de pausa para<cf>ver os detalhes de sua condição atual.
 Pressione <TUTO><SIZE 28><ICON LIFT></SIZE> para agarrar e escalar em<cf>monstros maiores, com algum custo em<cf>seu Vigor.
 Pressione <TUTO><SIZE 28><ICON PAD_ST></SIZE> para abrir o Menu de Pausa,<cf>onde você pode verificar seus atributos, o mapa completo, informações da missão<cf>e muito mais. 
@@ -48466,7 +48466,7 @@ A petrificação não pode ser curada pela magia<cf>e é fatal se não tratada e
 Use o Suavizador Secreto ou algo semelhante para<cf>curar qualquer aliado petrificado.
 Sua classificação dentro de uma vocação aumenta conforme você<cf>derrota inimigos e completa missões. Em classificações<cf>mais altas, uma ampla variedade de habilidades está disponível.
 Derrotar inimigos e completar missões garante<cf>mais disciplina, aumentando sua destreza<cf>em uma vocação.
-Os Pawns coletarão e usarão itens de sua própria<cf>vontade.
+Os Pawns coletarão e usarão itens de sua<cf>própria vontade.
 Você não pode carregar ou comprar itens que<cf>façam com que você exceda o seu peso máximo.<cf>
 Pressione <TUTO><SIZE 25><ICON TOUCH></SIZE> enquanto desce uma escada<cf>para descer rapidamente.
 Se um Pawn permanecer inconsciente por muito tempo,<cf>ele será perdido.
@@ -49485,7 +49485,7 @@ Pronto, Mestre! Harpias!
 Pronto, uma harpia!
 Harpia das neves!
 Um bando de harpias das neves!
-Pronto, Mestre! Harpias da neve!
+Pronto, Mestre! Harpia das neves!
 Mestre, uma harpia das neves!
 Uma súcubo!
 Uma ninhada de súcubos!
@@ -49852,7 +49852,7 @@ Vestad Hills
 Site de Erradicação
 Devilfire Grove
 Santuário do Conquistador
-De Aestella
+Apotecário da Aestella
 
 
 
